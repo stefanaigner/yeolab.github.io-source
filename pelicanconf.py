@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Olga Botvinnik'
-SITENAME = u'Science, meet productivity'
+# AUTHOR = u'Olga Botvinnik'
+SITENAME = u'Graduate Bioinformatics Council'
 SITEURL = ''
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
@@ -25,9 +25,9 @@ LINKS =  (('Pythonic Perambulations', 'http://jakevdp.github.io/'),
           ("Jess Hamrick's blog", 'http://www.jesshamrick.com/blog/'),)
 
 # Social widget
-SOCIAL = (('github-square', 'http://github.com/olgabot'),
-          ('twitter-square', 'http://twitter.com/olgabot'),
-          ('linkedin-square', 'http://www.linkedin.com/in/olgabotvinnik/'),
+SOCIAL = (('github-square', 'http://github.com/gbic-ucsd'),
+          ('twitter-square', 'http://twitter.com/gbicucsd'),
+          ('facebook-square', 'http://facebook.com/gbicucsd'),
           )
 
 DEFAULT_PAGINATION = 10
@@ -35,18 +35,24 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-THEME = "olgabot-pure-single"
+THEME = "twenty-pelican-html5up"
 
 COVER_IMG_URL = "https://raw.githubusercontent.com/olgabot/olgabot.github.io-source/master/content/images/ordered_driftwood.jpg"
 PROFILE_IMG_URL = "http://raw.githubusercontent.com/olgabot/olgabot.github.io-source/master/content/images/olga_icon_square.jpg"
 TAGLINE = "A computational RNA biologist exploring productivity, python, and reproducibility."
-DISQUS_SITENAME = "sciencemeetproductivity"
+DISQUS_SITENAME = "gbic-ucsd"
 
 TYPOGRIFY = True
 
 GOOGLE_ANALYTICS = "UA-53680167-1"
 
-MENUITEMS = [('Archive', 'archives.html'), ('About', 'pages/about.html'), ]
+MENUITEMS = [('About', 'pages/about.html'),
+             ('Events', 'pages/events.html'),
+             ('Leadership', 'pages/leadership.html'),
+             ('Blog', 'pages/archive.html'),
+             ('Initiatives', 'pages/initiatives.html'),
+             ('Contact us', 'pages/contact.html'),
+]
 
 # IPython notebook blog posts
 MARKUP = ('md', 'ipynb')

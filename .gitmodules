@@ -13,3 +13,6 @@
 [submodule "plugins/ipynb"]
 	path = plugins/ipynb
 	url = git://github.com/danielfrg/pelican-ipynb.git
+[submodule "twenty-pelican-html5up"]
+	path = twenty-pelican-html5up
+	url = git@github.com:olgabot/twenty-pelican-html5up

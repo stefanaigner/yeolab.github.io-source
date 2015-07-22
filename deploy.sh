@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 BRANCH=master
-TARGET_REPO=olgabot/olgabot.github.io.git
+TARGET_REPO=gbic-ucsd/gbic-ucsd.github.io.git
 PELICAN_OUTPUT_FOLDER=output
 
 echo -e "Testing travis-encrypt"
