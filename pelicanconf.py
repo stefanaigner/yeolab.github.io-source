@@ -61,3 +61,13 @@ PLUGIN_PATHS = ['plugins/ipynb']
 # PLUGINS = ['ipynb']
 
 IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')), ('div', ('class', 'output'))]
+
+def sidebar(value):
+  if value.startswith('archives') or value.startswith('category'):
+    return 'right-sidebar'
+  elif value == 'index':
+    return 'index'
+  else:
+    return 'no-sidebar'
+
+JINJA_FILTERS = {'sidebar': sidebar}
