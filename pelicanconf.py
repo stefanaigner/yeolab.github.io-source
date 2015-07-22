@@ -20,9 +20,9 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = 'feeds/all-%s.atom.xml'
 
 # Blogroll
-LINKS =  (('Pythonic Perambulations', 'http://jakevdp.github.io/'),
-          ('Living in an Ivory Basement', 'http://ivory.idyll.org/blog/'),
-          ("Jess Hamrick's blog", 'http://www.jesshamrick.com/blog/'),)
+LINKS =  (('Bioinformatics@UCSD', 'http://bioinformatics.ucsd.edu/'),
+          ('UCSD', 'http://ucsd.edu/'),
+          )
 
 # Social widget
 SOCIAL = (('github-square', 'http://github.com/gbic-ucsd'),
@@ -39,7 +39,7 @@ THEME = "twenty-pelican-html5up"
 
 COVER_IMG_URL = "https://raw.githubusercontent.com/olgabot/olgabot.github.io-source/master/content/images/ordered_driftwood.jpg"
 PROFILE_IMG_URL = "http://raw.githubusercontent.com/olgabot/olgabot.github.io-source/master/content/images/olga_icon_square.jpg"
-TAGLINE = "A computational RNA biologist exploring productivity, python, and reproducibility."
+TAGLINE = "We are the voice of the graduate students in UCSD's B"
 DISQUS_SITENAME = "gbic-ucsd"
 
 TYPOGRIFY = True
