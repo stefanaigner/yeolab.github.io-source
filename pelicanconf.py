@@ -35,11 +35,11 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-THEME = "twenty-pelican-html5up"
+THEME = "gbic-ucsd-twenty-pelican-html5up"
 
 COVER_IMG_URL = "https://raw.githubusercontent.com/olgabot/olgabot.github.io-source/master/content/images/ordered_driftwood.jpg"
 PROFILE_IMG_URL = "http://raw.githubusercontent.com/olgabot/olgabot.github.io-source/master/content/images/olga_icon_square.jpg"
-TAGLINE = "We are the voice of the graduate students in UCSD's B"
+TAGLINE = "The voice of students in UCSD's Bioinformatics and Systems Biology PhD Program"
 DISQUS_SITENAME = "gbic-ucsd"
 
 TYPOGRIFY = True

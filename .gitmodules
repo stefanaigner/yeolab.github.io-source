@@ -1,18 +1,6 @@
-[submodule "pelican-themes"]
-	path = pelican-themes
-	url = https://github.com/getpelican/pelican-themes
-[submodule "pure-single"]
-	path = pure-single
-	url = https://github.com/PurePelicanTheme/pure-single.git
-[submodule "pelican-plugins"]
-	path = pelican-plugins
-	url = https://github.com/getpelican/pelican-plugins
-[submodule "olgabot-pure-single"]
-	path = olgabot-pure-single
-	url = https://github.com/olgabot/pure-single
 [submodule "plugins/ipynb"]
 	path = plugins/ipynb
 	url = git://github.com/danielfrg/pelican-ipynb.git
-[submodule "twenty-pelican-html5up"]
-	path = twenty-pelican-html5up
-	url = https://github.com/olgabot/twenty-pelican-html5up
+[submodule "gbic-ucsd-twenty-pelican-html5up"]
+	path = gbic-ucsd-twenty-pelican-html5up
+	url = https://github.com/gbic-ucsd/twenty-pelican-html5up
