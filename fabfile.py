@@ -15,6 +15,14 @@ env.cloudfiles_username = 'my_rackspace_username'
 env.cloudfiles_api_key = 'my_rackspace_api_key'
 env.cloudfiles_container = 'my_cloudfiles_container'
 
+def collectstatic():
+  # if os.path.isdir(DEPLOY_PATH):
+    local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/'.format(**env))
+    local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/css/* {deploy_path}/css/'.format(**env))
+    local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/js/* {deploy_path}/js/'.format(**env))
+    local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/fonts/* {deploy_path}/fonts/'.format(**env))
+    local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/images/* {deploy_path}/images/'.format(**env))
+    local('cp -rf extras/* {deploy_path}/'.format(**env))
 
 def clean():
     if os.path.isdir(DEPLOY_PATH):
@@ -23,6 +31,7 @@ def clean():
 
 def build():
     local('pelican -s pelicanconf.py')
+    collectstatic()
 
 def rebuild():
     clean()
