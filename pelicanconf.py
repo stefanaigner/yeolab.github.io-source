@@ -37,8 +37,8 @@ RELATIVE_URLS = True
 
 THEME = "gbic-ucsd-twenty-pelican-html5up"
 
-COVER_IMG_URL = "https://raw.githubusercontent.com/olgabot/olgabot.github.io-source/master/content/images/ordered_driftwood.jpg"
-PROFILE_IMG_URL = "http://raw.githubusercontent.com/olgabot/olgabot.github.io-source/master/content/images/olga_icon_square.jpg"
+COVER_IMG_URL = "https://raw.githubusercontent.com/gbic-ucsd/gbic-ucsd.github.io-source/master/content/images/UCSD-Bioinfo-Logo-Color.png"
+PROFILE_IMG_URL = "http://raw.githubusercontent.com/gbic-ucsd/gbic-ucsd.github.io-source/master/content/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png"
 TAGLINE = "The voice of students in UCSD's Bioinformatics and Systems Biology PhD Program"
 DISQUS_SITENAME = "gbic-ucsd"
 
