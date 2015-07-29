@@ -17,13 +17,13 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     #go into directory and copy data we're interested in to that directory
     cd built_website
     git init
-    git pull --quiet --branch=$BRANCH https://${GH_TOKEN}@github.com:$TARGET_REPO > /dev/null
+    git pull https://${GH_TOKEN}@github.com/$TARGET_REPO > /dev/null
     rsync -rv --exclude=.git  ../$PELICAN_OUTPUT_FOLDER/* .
     cp ../CNAME .
     #add, commit and push files
     git add -f .
     git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to Github Pages"
     # git remote set-url origin https://${GH_TOKEN}@github.com/gbic-ucsd/gbic-ucsd.github.io-source.git
-    git push -fq https://${GH_TOKEN}@github.com:$TARGET_REPO $BRANCH > /dev/null
+    git push -f https://${GH_TOKEN}@github.com/$TARGET_REPO $BRANCH > /dev/null
     echo -e "Deploy completed\n"
 fi
