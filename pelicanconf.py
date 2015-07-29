@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 # AUTHOR = u'Olga Botvinnik'
 SITENAME = u'Graduate Bioinformatics Council'
-SITEURL = ''
+SITEURL = 'gbic-ucsd.github.io'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
@@ -46,10 +46,12 @@ TYPOGRIFY = True
 
 GOOGLE_ANALYTICS = "UA-53680167-1"
 
+PAGE_PATHS = ['content/pages']
 MENUITEMS = [('About', 'pages/about.html'),
              ('Events', 'pages/events.html'),
              ('Leadership', 'pages/leadership.html'),
              ('Blog', 'pages/archive.html'),
+             ('Constitution', 'pages/constitution.html'),
              ('Initiatives', 'pages/initiatives.html'),
              ('Contact us', 'pages/contact.html'),
 ]
