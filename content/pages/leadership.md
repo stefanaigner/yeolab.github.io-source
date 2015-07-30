@@ -16,7 +16,7 @@ Summary: Meet the people who make GBIC happen.
     <header>
       <h3>President</h3>
     </header>
-    <p>Olga Botvinnik is a 4th-year. She develops algorithms for studying single-cell alternative splicing in <a href="yeolab.ucsd.edu">Dr. Gene Yeo's</a> lab and is passionate about open-source software.</p>
+    <p><a href="http://olgabotvinnik.com">Olga Botvinnik</a> is a 4th-year. She develops algorithms for studying single-cell alternative splicing in <a href="yeolab.ucsd.edu">Dr. Gene Yeo's</a> lab and is passionate about open-source software.</p>
   </section>
 
 </div>
