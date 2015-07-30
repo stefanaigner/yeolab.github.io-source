@@ -1,2 +1,7 @@
 output/
+
+# Compiled python
 *.pyc
+
+# Emacs files
+*~
