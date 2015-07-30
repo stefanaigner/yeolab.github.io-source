@@ -5,7 +5,7 @@ Summary: Meet the people who make GBIC happen.
 <!-- <section class="wrapper style3 container special"> -->
 
 <header class="major">
-  <h2Meet the people who make GBIC <strong>happen.</strong></h2>
+  <h2>Meet the <strong>people</strong> who make GBIC happen.</h2>
 </header>
 
 <div class="row">
