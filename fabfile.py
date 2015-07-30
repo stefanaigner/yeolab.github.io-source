@@ -16,13 +16,15 @@ env.cloudfiles_api_key = 'my_rackspace_api_key'
 env.cloudfiles_container = 'my_cloudfiles_container'
 
 def collectstatic():
-  # if os.path.isdir(DEPLOY_PATH):
-    local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/'.format(**env))
-    local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/css/* {deploy_path}/css/'.format(**env))
-    local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/js/* {deploy_path}/js/'.format(**env))
-    local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/fonts/* {deploy_path}/fonts/'.format(**env))
-    local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/images/* {deploy_path}/images/'.format(**env))
-    local('cp -rf extras/* {deploy_path}/'.format(**env))
+    if os.path.isdir(DEPLOY_PATH):
+        # import sys
+        # sys.stderr.write('copying files from \t {}'.format(os.path.getwd()))
+        local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/'.format(**env))
+        local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/css/* {deploy_path}/css/'.format(**env))
+        local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/js/* {deploy_path}/js/'.format(**env))
+        local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/fonts/* {deploy_path}/fonts/'.format(**env))
+        local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/images/* {deploy_path}/images/'.format(**env))
+        local('cp -rf extras/* {deploy_path}/'.format(**env))
 
 def clean():
     if os.path.isdir(DEPLOY_PATH):
@@ -30,7 +32,7 @@ def clean():
         local('mkdir {deploy_path}'.format(**env))
 
 def build():
-    local('pelican -s pelicanconf.py')
+    local('make html')
     collectstatic()
 
 def rebuild():
