@@ -27,24 +27,30 @@ Number of required individuals for a particular position other than President, V
 
 ### Executive Board
 
+#### President
+The goal of this office is to oversee the organization, run meetings, and ensure that organizational tasks are being completed in a timely manner.
 
-- President
-  - The goal of this office is to oversee the organization, run meetings, and ensure that organizational tasks are being completed in a timely manner.
-- VP Internal
-  - The goal of this office is promote GBIC representation on UCSD campus. Their duties include organizing the bioinformatics exchange (BEX), social gatherings, GSA representation, town hall meetings, and ‘tips and tricks’ presentations. They may employ a subcommittee of members to accomplish these tasks.
-- VP External
-  - The goal of this office is to promote GBIC representation outside of UCSD campus. Their duties include organizing the Thursday seminar speakers, facilitate community outreach activities, promoting diversity in bioinformatics, and acting as a liaison to the alumni. They may employ a subcommittee of members to accomplish these tasks, in addition to the positions listed below.
-    - Subcommittee
-    - Seminar speaker chairs (2-3)
-- VP Onboarding
-  - The goal of this office is to facilitate the transition into the PhD program. Their duties are concerned with incoming and first year students including: organizing recruitment events for interview weekend, overseeing a 1-week bootcamp before classes begin, appointing a first year representative, and facilitating peer mentorships  and fellowship reviews. They may employ a subcommittee of members to accomplish these tasks, in addition to the positions listed below.
-  - Subcommittee
-    - Bootcamp chairs (2-3)
-      - 1st year representative (1)
-- VP Finance
-  - The goal of this office is to maintain cash flow and ensure that spending stays within budget. Their duties include fundraising from the students, managing reimbursements, managing income from corporate sponsors, maintaining cash flow from UCSD-sanctioned funding agencies such as the Graduate Student Association (GSA) or the UCSD Bioinformatics PhD program. They may employ a subcommittee of members to accomplish these tasks.
-- VP Communications
-  - The goal of this office is to facilitate communication of GBIC with any and all bodies. Their duties include secretary (taking minutes during meetings), all emails and forms, webmaster, blog, and list serves. They may employ a subcommittee of members to accomplish these tasks.
+#### VP Internal
+The goal of this office is promote GBIC representation on UCSD campus. Their duties include organizing the bioinformatics exchange (BEX), social gatherings, GSA representation, town hall meetings, and ‘tips and tricks’ presentations. They may employ a subcommittee of members to accomplish these tasks.
+
+#### VP External
+The goal of this office is to promote GBIC representation outside of UCSD campus. Their duties include organizing the Thursday seminar speakers, facilitate community outreach activities, promoting diversity in bioinformatics, and acting as a liaison to the alumni. They may employ a subcommittee of members to accomplish these tasks, in addition to the positions listed below.
+
+##### Subcommittee
+Seminar speaker chairs (2-3)<br>
+
+#### VP Onboarding
+The goal of this office is to facilitate the transition into the PhD program. Their duties are concerned with incoming and first year students including: organizing recruitment events for interview weekend, overseeing a 1-week bootcamp before classes begin, appointing a first year representative, and facilitating peer mentorships  and fellowship reviews. They may employ a subcommittee of members to accomplish these tasks, in addition to the positions listed below.
+
+##### Subcommittee
+Bootcamp chairs (2-3)<br>
+1st year representative (1)<br>
+
+#### VP Finance
+The goal of this office is to maintain cash flow and ensure that spending stays within budget. Their duties include fundraising from the students, managing reimbursements, managing income from corporate sponsors, maintaining cash flow from UCSD-sanctioned funding agencies such as the Graduate Student Association (GSA) or the UCSD Bioinformatics PhD program. They may employ a subcommittee of members to accomplish these tasks.
+
+#### VP Communications
+The goal of this office is to facilitate communication of GBIC with any and all bodies. Their duties include secretary (taking minutes during meetings), all emails and forms, webmaster, blog, and list serves. They may employ a subcommittee of members to accomplish these tasks.
 
 
 ### Eligibility
