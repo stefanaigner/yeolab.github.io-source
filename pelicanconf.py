@@ -29,6 +29,12 @@ TRANSLATION_FEED_ATOM = 'feeds/all-%s.atom.xml'
 ARTICLE_URL = "blog/{slug}"
 ARTICLE_SAVE_AS = "blog/{slug}/index.html"
 
+# Save "about", "contact" as seprate html files
+PAGE_PATHS = ['pages']
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}/index.html'
+
+
 ARCHIVES_URL = "blog"
 ARCHIVES_SAVE_AS = "blog/index.html"
 
@@ -59,15 +65,15 @@ TYPOGRIFY = True
 
 GOOGLE_ANALYTICS = "UA-53680167-1"
 
-PAGE_PATHS = ['content/pages']
-MENUITEMS = [('About', 'pages/about.html'),
-             ('Events', 'pages/events.html'),
-             ('Leadership', 'pages/leadership.html'),
-            #  ('Blog', 'pages/archive.html'),
-             ('Constitution', 'pages/constitution.html'),
-             ('Initiatives', 'pages/initiatives.html'),
-             ('Contact us', 'pages/contact.html'),
-]
+
+# MENUITEMS = [('About', 'about/'),
+#              ('Events', 'pages/events.html'),
+#              ('Leadership', 'pages/leadership.html'),
+#             #  ('Blog', 'pages/archive.html'),
+#              ('Constitution', 'pages/constitution.html'),
+#              ('Initiatives', 'pages/initiatives.html'),
+#              ('Contact us', 'pages/contact.html'),
+# ]
 
 # IPython notebook blog posts
 MARKUP = ('md', 'ipynb')
@@ -86,3 +92,14 @@ def sidebar(value):
     return 'no-sidebar'
 
 JINJA_FILTERS = {'sidebar': sidebar}
+
+# Templates from twenty Theme
+TEMPLATE_PAGES = {
+    # 'gbic-ucsd-twenty-pelican-html5up/templates/about.html': 'about.html',
+    # '{}/templates/article.html'.format(THEME): 'article.html',
+    # '{}/templates/category.html'.format(THEME): 'category.html',
+    # '{}/templates/coolstuff.html'.format(THEME): 'coolstuff.html',
+    # '{}/templates/page.html'.format(THEME): 'page.html',
+    # '{}/templates/cta.html'.format(THEME): 'cta.html',
+    }
+# DIRECT_TEMPLATES = ['index', 'archives', 'article', 'coolstuff', 'category', 'page', 'pagniation', 'most_recent', 'footer', 'sidebar']
