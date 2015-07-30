@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 # AUTHOR = u'Olga Botvinnik'
-SITENAME = u'Graduate Bioinformatics Council'
+SITENAME = u'GBIC'
 SITEURL = 'gbic-ucsd.github.io'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
@@ -13,11 +13,24 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
+# DEFAULT_METADATA = {
+#     'status': 'draft',
+# }
+# Formatting for dates
+DEFAULT_DATE_FORMAT = ('%a %d %B %Y')
+DEFAULT_DATE = 'fs'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.rss.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = 'feeds/all-%s.atom.xml'
+
+ARTICLE_URL = "blog/{slug}"
+ARTICLE_SAVE_AS = "blog/{slug}/index.html"
+
+ARCHIVES_URL = "blog"
+ARCHIVES_SAVE_AS = "blog/index.html"
 
 # Blogroll
 LINKS =  (('Bioinformatics@UCSD', 'http://bioinformatics.ucsd.edu/'),
@@ -50,7 +63,7 @@ PAGE_PATHS = ['content/pages']
 MENUITEMS = [('About', 'pages/about.html'),
              ('Events', 'pages/events.html'),
              ('Leadership', 'pages/leadership.html'),
-             ('Blog', 'pages/archive.html'),
+            #  ('Blog', 'pages/archive.html'),
              ('Constitution', 'pages/constitution.html'),
              ('Initiatives', 'pages/initiatives.html'),
              ('Contact us', 'pages/contact.html'),
