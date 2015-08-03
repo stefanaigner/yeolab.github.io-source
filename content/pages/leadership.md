@@ -12,13 +12,19 @@ Summary: Meet the people who make GBIC happen.
 <div class="6u">
 
   <section>
-    <a href="#" class="image feature"><img src="images/pic01.jpg" alt="" /></a>
+    <a href="#" class="image feature"><img src="images/people/botvinnik_olga.jpg" height=100 alt="" /></a>
     <header>
       <h3>President</h3>
     </header>
     <p><a href="http://olgabotvinnik.com">Olga Botvinnik</a> is a 4th-year. She develops algorithms for studying single-cell alternative splicing in <a href="yeolab.ucsd.edu">Dr. Gene Yeo's</a> lab and is passionate about open-source software.</p>
   </section>
-
+  <section>
+    <a href="#" class="image feature"><img src="images/pic04.jpg" alt="" /></a>
+    <header>
+      <h3>VP Communication</h3>
+    </header>
+    <p>Jamison McCorrison is a 2nd-year.</p>
+  </section>
 </div>
 
 <div class="6u">
