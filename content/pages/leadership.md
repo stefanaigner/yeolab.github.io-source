@@ -2,13 +2,15 @@ Title: Leadership
 Date: 2015-07-29 11:46
 Summary: Meet the people who make GBIC happen.
 
-<!-- <section class="wrapper style3 container special"> -->
-<style type="text/css">
+<style>
+.image:before{
+  background-image: None;
+}
 .image img{
   border-radius: 50%;
 }
-.image:before {background-image: none;}
 </style>
+
 <header class="major">
   <h2>Meet the <strong>people</strong> who make GBIC happen.</h2>
 </header>
@@ -28,7 +30,7 @@ Summary: Meet the people who make GBIC happen.
 <div class="3u">
 
   <section>
-    <a href="#" class="image feature"><img src="/images/pic04.jpg" alt="" /></a>
+    <a href="#" class="image feature"><img src="/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png" alt="" /></a>
     <header>
       <h3>VP Communication</h3>
     </header>
@@ -40,7 +42,7 @@ Summary: Meet the people who make GBIC happen.
 <div class="3u">
 
   <section>
-    <a href="#" class="image feature"><img src="/images/pic02.jpg" alt="" /></a>
+    <a href="#" class="image feature"><img src="/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png" alt="" /></a>
     <header>
       <h3>VP Onboarding</h3>
     </header>
@@ -52,7 +54,7 @@ Summary: Meet the people who make GBIC happen.
 <div class="3u">
 
 <section>
-  <a href="#" class="image feature"><img src="/images/pic03.jpg" alt="" /></a>
+  <a href="#" class="image feature"><img src="/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png" alt="" /></a>
   <header>
     <h3>VP Internal</h3>
   </header>
@@ -67,7 +69,7 @@ Summary: Meet the people who make GBIC happen.
 <div class="3u">
 
   <section>
-    <a href="#" class="image feature"><img src="/images/pic04.jpg" alt="" /></a>
+    <a href="#" class="image feature"><img src="/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png" alt="" /></a>
     <header>
       <h3>VP External</h3>
     </header>
@@ -77,7 +79,7 @@ Summary: Meet the people who make GBIC happen.
 
 <div class="3u">
   <section>
-    <a href="#" class="image feature"><img src="/images/pic03.jpg" alt="" /></a>
+    <a href="#" class="image feature"><img src="/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png" alt="" /></a>
     <header>
       <h3>VP Finance</h3>
     </header>
