@@ -1,2 +1,2 @@
-title: Team RNA
+title: People
 template: people
