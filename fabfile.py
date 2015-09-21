@@ -20,10 +20,10 @@ def collectstatic():
         # import sys
         # sys.stderr.write('copying files from \t {}'.format(os.path.getwd()))
         local('mkdir -p {deploy_path}/css/ {deploy_path}/js/ {deploy_path}/fonts/ {deploy_path}/images/'.format(**env))
-        local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/css/* {deploy_path}/css/'.format(**env))
-        local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/js/* {deploy_path}/js/'.format(**env))
-        local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/fonts/* {deploy_path}/fonts/'.format(**env))
-        local('cp -rf gbic-ucsd-twenty-pelican-html5up/static/images/* {deploy_path}/images/'.format(**env))
+        local('cp -rf twenty-pelican-html5up/static/css/* {deploy_path}/css/'.format(**env))
+        local('cp -rf twenty-pelican-html5up/static/js/* {deploy_path}/js/'.format(**env))
+        local('cp -rf twenty-pelican-html5up/static/fonts/* {deploy_path}/fonts/'.format(**env))
+        local('cp -rf twenty-pelican-html5up/static/images/* {deploy_path}/images/'.format(**env))
         local('cp -rf extras/* {deploy_path}/'.format(**env))
 
 def clean():
