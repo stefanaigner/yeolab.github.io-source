@@ -78,7 +78,7 @@ GOOGLE_ANALYTICS = "UA-53680167-1"
 # IPython notebook blog posts
 MARKUP = ('md', 'ipynb')
 
-PLUGIN_PATHS = ['plugins/ipynb']
+PLUGIN_PATHS = ['people']
 # PLUGINS = ['ipynb']
 
 IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')), ('div', ('class', 'output'))]
@@ -93,13 +93,6 @@ def sidebar(value):
 
 JINJA_FILTERS = {'sidebar': sidebar}
 
-# Templates from twenty Theme
-TEMPLATE_PAGES = {
-    # 'gbic-ucsd-twenty-pelican-html5up/templates/about.html': 'about.html',
-    # '{}/templates/article.html'.format(THEME): 'article.html',
-    # '{}/templates/category.html'.format(THEME): 'category.html',
-    # '{}/templates/coolstuff.html'.format(THEME): 'coolstuff.html',
-    # '{}/templates/page.html'.format(THEME): 'page.html',
-    # '{}/templates/cta.html'.format(THEME): 'cta.html',
-    }
-# DIRECT_TEMPLATES = ['index', 'archives', 'article', 'coolstuff', 'category', 'page', 'pagniation', 'most_recent', 'footer', 'sidebar']
+
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
