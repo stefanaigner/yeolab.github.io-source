@@ -1,3 +1,6 @@
 [submodule "people"]
 	path = people
 	url = git://github.com/olgabot/people.git
+[submodule "twenty-pelican-html5up"]
+	path = twenty-pelican-html5up
+	url = git://github.com/YeoLab/twenty-pelican-html5up.git

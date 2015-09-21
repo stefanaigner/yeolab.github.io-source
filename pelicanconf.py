@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 # AUTHOR = u'Olga Botvinnik'
 SITENAME = u'GBIC'
-SITEURL = 'gbic-ucsd.github.io'
+SITEURL = 'yeolab.github.io'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
@@ -54,7 +54,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-THEME = "gbic-ucsd-twenty-pelican-html5up"
+THEME = "twenty-pelican-html5up"
 
 COVER_IMG_URL = "https://raw.githubusercontent.com/gbic-ucsd/gbic-ucsd.github.io-source/master/content/images/UCSD-Bioinfo-Logo-Color.png"
 PROFILE_IMG_URL = "http://raw.githubusercontent.com/gbic-ucsd/gbic-ucsd.github.io-source/master/content/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png"
