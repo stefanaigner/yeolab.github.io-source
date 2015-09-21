@@ -1,6 +1,3 @@
-[submodule "plugins/ipynb"]
-	path = plugins/ipynb
-	url = git://github.com/danielfrg/pelican-ipynb.git
-[submodule "gbic-ucsd-twenty-pelican-html5up"]
-	path = gbic-ucsd-twenty-pelican-html5up
-	url = https://github.com/gbic-ucsd/twenty-pelican-html5up
+[submodule "people"]
+	path = people
+	url = git://github.com/olgabot/people.git
