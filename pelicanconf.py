@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 # AUTHOR = u'Olga Botvinnik'
-SITENAME = u'GBIC'
+SITENAME = u'Yeo Lab'
 SITEURL = 'yeolab.github.io'
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
@@ -78,7 +78,7 @@ GOOGLE_ANALYTICS = "UA-53680167-1"
 # IPython notebook blog posts
 MARKUP = ('md', 'ipynb')
 
-PLUGIN_PATHS = ['people']
+PLUGINS = ['people']
 # PLUGINS = ['ipynb']
 
 IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')), ('div', ('class', 'output'))]
