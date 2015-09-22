@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 BRANCH=master
-TARGET_REPO=gbic-ucsd/gbic-ucsd.github.io.git
+TARGET_REPO=YeoLab/yeolab.io.git
 PELICAN_OUTPUT_FOLDER=output
 
 echo -e "Testing travis-encrypt"
