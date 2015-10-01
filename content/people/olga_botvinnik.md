@@ -7,7 +7,7 @@ Fellowship: NDSEG
 Abbreviation: Botvinnik OB
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Lanscape_photo:
-Template: Person
+Template: person
 
 ## Degrees
 
