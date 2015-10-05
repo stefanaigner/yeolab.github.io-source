@@ -58,7 +58,7 @@ The "`&`" (ampersand) is the symbol for "do this operation in the background," w
 
 To add a new person to the people page, copy an existing person's markdown file (in `content/pages/people/*.md`) (it's easiest if you pick someone from the same position, e.g. an existing grad student for a new grad student), and copy their information in.
 
-The top of the `.md` (markdown) file is a bunch of metadata. The critical stuff that is required is (HTML commenets on what the thing is are inline):
+The top of the `.md` (markdown) file is a bunch of metadata. The critical stuff that is required is (HTML comments on what the thing is are inline):
 
 ```markdown
 <!-- Name of the person -->
@@ -69,6 +69,9 @@ Date: 2013-06-01
 
 <!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow", "Graduate Student" or "Staff" -->
 Position: Graduate Student
+
+<!-- A suffix to add after the position. Mostly relevant for Staff Research Associates, so here for them you would put "Research Associate II" or "Bioinformatics Analyst I", whichever position they are-->
+Position_suffix:
 
 <!-- Department the person is tied to. If unknown, leave blank -->
 Affiliation: Bioinformatics and Systems Biology
