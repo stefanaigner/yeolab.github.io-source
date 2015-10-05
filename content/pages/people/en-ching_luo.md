@@ -6,7 +6,6 @@ Email: e1luo@ucsd.edu
 Fellowship: Taiwanese government
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
-<!-- Status: draft -->
 
 ## Degrees
 
