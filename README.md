@@ -41,7 +41,14 @@ To see what the website would look like online, do
 fab serve &
 ```
 
-Now, open your web browser and go to this magic website: http://localhost:8000 This is a local server which allows the HTML pages to talk to each other and load data. Every time you make a change and want to see it on the built website, refresh the page.
+Which should result in the output,
+
+```
+[localhost] local: cd output && python -m SimpleHTTPServer
+Serving HTTP on 0.0.0.0 port 8000 ...
+```
+
+Now, open your web browser and go to this magic website: http://localhost:8000 This is a local server on your computer only (not a public website) which allows the HTML pages to talk to each other and load data. Every time you make a change and want to see it on the built website, refresh the page.
 
 The "`&`" (ampersand) is the symbol for "do this operation in the background," which is helpful for when you edit the website and re-build it multiple times. *You only need to serve once* - you don't need to re-serve after you build. Just refresh the page.
 
@@ -51,15 +58,30 @@ The "`&`" (ampersand) is the symbol for "do this operation in the background," w
 
 To add a new person to the people page, copy an existing person's markdown file (in `content/pages/people/*.md`) (it's easiest if you pick someone from the same position, e.g. an existing grad student for a new grad student), and copy their information in.
 
-The top of the `.md` (markdown) file is a bunch of metadata. The critical stuff that is required is:
+The top of the `.md` (markdown) file is a bunch of metadata. The critical stuff that is required is (HTML commenets on what the thing is are inline):
 
 ```markdown
-Title: Olga Botvinnik  <!-- Name of the person -->
-Date: 2013-06-01  <!-- A date is required to build - use approximate date started in the lab -->
-Position: Graduate Student <!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow", "Graduate Student" or "Staff" -->
-Affiliation: Bioinformatics and Systems Biology <!-- Department the person is tied to. If unknown, use Gene's department: "Cellular and Molecular Medicine" -->
-Email: obotvinn@ucsd.edu  <!-- UCSD-related email to contact the person. gmail and hotmail not okay here -->
-Fellowship: NDSEG <!-- Name of the fellowship, if applicable. If none, leave blank. Leave out the word "Fellowship" -->
-Headshot: /images/people/botvinnik_olga_headshot.jpeg <!-- Location of the person's square headshot -->
-Template: person <!-- don't touch this! if it doesn't say "person" here then they don't get a page :( -->
+<!-- Name of the person -->
+Title: Olga Botvinnik  
+
+<!-- A date is required to build - use approximate date started in the lab -->
+Date: 2013-06-01
+
+<!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow", "Graduate Student" or "Staff" -->
+Position: Graduate Student
+
+<!-- Department the person is tied to. If unknown, leave blank -->
+Affiliation: Bioinformatics and Systems Biology
+
+<!-- UCSD-related email to contact the person. gmail and hotmail not okay here -->
+Email: obotvinn@ucsd.edu
+
+<!-- Name of the fellowship, if applicable. If none, leave blank. Leave out the word "Fellowship" -->
+Fellowship: NDSEG
+
+<!-- Location of the person's square headshot, relative to the folder "content/" -->
+Headshot: /images/people/botvinnik_olga_headshot.jpeg
+
+<!-- don't touch this! if it doesn't say "person" here then they don't get a page :( -->
+Template: person
 ```
