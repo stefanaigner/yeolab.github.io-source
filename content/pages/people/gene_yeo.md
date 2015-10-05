@@ -1,9 +1,9 @@
 Title: Gene Yeo, Ph.D.
 Date: 2015-07-29 11:46
+
 Position: Principal Investigator
 Affiliation: Associate Professor (w/ tenure), UCSD
 Email: geneyeo@ucsd.edu
-Abbreviation: Yeo GW
 Template: person
 <!-- Status: draft -->
 
