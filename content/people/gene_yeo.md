@@ -5,6 +5,7 @@ Affiliation: Associate Professor (w/ tenure), UCSD
 Email: geneyeo@ucsd.edu
 Abbreviation: Yeo GW
 Template: person
+<!-- Status: draft -->
 
 ## Degrees
 
