@@ -7,44 +7,44 @@ Date: 2015-09-21
 * **Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity.**  
 *Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * . ( * co-corresponding)*  
     Molecular Cell  
-    [[PDF](http://example.com)]  
+    [[PDF](/papers/2015/Lee_molcell2015.pdf)]  
 
 * **Applications of Cas9 as an RNA-programmed RNA-binding protein.**  
 *Nelles DA, Fang MY, Aigner S, **Yeo GW** *  
-Bioessays 
+Bioessays
 [[PDF](http://example.com)]  
 
 * **AThe Clothes Make the mRNA: Past and Present Trends in mRNP Fashion.**  
 *Singh G, Pratt GA, **Yeo GW**, Moore MJ*  
 Annual Review of Biochemistry  
-[[PDF](http://example.com)] 
+[[PDF](http://example.com)]
 
 * **Nxf1 natural variant E610G is a semi-dominant suppressor of IAP-induced RNA processing defects.**  
 *Concepcion D, Ross KD, Hutt KR, **Yeo GW**, Hamilton BA*  
 Annual Review of Biochemistry  
-[[PDF](http://example.com)] 
+[[PDF](http://example.com)]
 
 * **RNA-binding proteins in neurodegeneration: Seq and you shall receive.**  
 *Nussbacher JK, Batra R, Lagier-Tourenne C, **Yeo GW** *  
 Trends in Neurosciences   
-[[PDF](http://example.com)] 
+[[PDF](http://example.com)]
 
 * **ALS-causative mutations in FUS/TLS confer gain- and loss-of-function by altered association with SMN and U1 snRNP.**  
 *Sun S, Ling S-C, Qiu J, Albuquerque CP, Zhou Y, Tokunaga S, Li H, Qiu H, Bui A, **Yeo GW**, Huang EJ, Eggan K, Zhou
 H, Fu X-D, Lagier-Tourenne C, Cleveland DW*  
 Nature Communications   
-[[PDF](http://example.com)] 
+[[PDF](http://example.com)]
 
 * **Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**  
 *Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Ohno S, **Yeo GW**, Chang JT*  
 Journal of Immunology  
-[[PDF](http://example.com)] 
+[[PDF](http://example.com)]
 
 * **Identification of novel long non-coding RNAs underlying vertebrate cardiovascular development**  
 *Kurian L, Aguirre A, Sancho-Martinez I, Benner C, Hishida T, Nguyen T, Reddy P, Nivet E, Krause MN, Nelles D, Esteban CR, Campistol J, **Yeo GW**, Belmonte JCI*  
 Circulation  
 [[PDF](http://example.com)]
-  
+
 
 ### 2014
 * **A Novel Splice-Site Mutation in ALS2 Establishes the Diagnosis of Juvenile Amyotrophic Lateral Sclerosis in a Family with Early Onset Anarthria and Generalized Dystonias.**  
@@ -59,7 +59,7 @@ GW**, Khor CC*
 Plos One  
 [[PDF](http://example.com)][[JACS](http://)]
 
-* **Virus-Cell Interactions Human Cytomegalovirus Infection of Human Embryonic Stem Cell-Derived Primitive Neural Stem Cells Is Restricted at Several Steps but Leads to the Persistence of Viral DNA.** 
+* **Virus-Cell Interactions Human Cytomegalovirus Infection of Human Embryonic Stem Cell-Derived Primitive Neural Stem Cells Is Restricted at Several Steps but Leads to the Persistence of Viral DNA.**
 *Belzile JP, Stark TJ, **Yeo GW**, Spector DH*  
 Journal of Virology  
 [[PDF](http://example.com)][[JIV](http://)]
