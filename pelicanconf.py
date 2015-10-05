@@ -24,6 +24,9 @@ DEFAULT_DATE = 'fs'
 FEED_ALL_ATOM = 'feeds/all.atom.rss.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+
+# Don't show article categories
+DISPLAY_CATEGORIES_ON_MENU = False
 TRANSLATION_FEED_ATOM = 'feeds/all-%s.atom.xml'
 
 ARTICLE_URL = "blog/{slug}"
@@ -34,20 +37,23 @@ PAGE_PATHS = ['pages']
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
 
+# Don't show all pages in pages/ in the menu
+DISPLAY_PAGES_ON_MENU = False
+
 
 ARCHIVES_URL = "blog"
 ARCHIVES_SAVE_AS = "blog/index.html"
 
 # Blogroll
-LINKS =  (('Bioinformatics@UCSD', 'http://bioinformatics.ucsd.edu/'),
-          ('UCSD', 'http://ucsd.edu/'),
-          )
-
-# Social widget
-SOCIAL = (('github-square', 'http://github.com/gbic-ucsd'),
-          ('twitter-square', 'http://twitter.com/gbicucsd'),
-          ('facebook-square', 'http://facebook.com/gbicucsd'),
-          )
+# LINKS =  (('Bioinformatics@UCSD', 'http://bioinformatics.ucsd.edu/'),
+#           ('UCSD', 'http://ucsd.edu/'),
+#           )
+#
+# # Social widget
+# SOCIAL = (('github-square', 'http://github.com/gbic-ucsd'),
+#           ('twitter-square', 'http://twitter.com/gbicucsd'),
+#           ('facebook-square', 'http://facebook.com/gbicucsd'),
+#           )
 
 DEFAULT_PAGINATION = 10
 
@@ -59,21 +65,20 @@ THEME = "twenty-pelican-html5up"
 COVER_IMG_URL = "https://raw.githubusercontent.com/gbic-ucsd/gbic-ucsd.github.io-source/master/content/images/UCSD-Bioinfo-Logo-Color.png"
 PROFILE_IMG_URL = "http://raw.githubusercontent.com/gbic-ucsd/gbic-ucsd.github.io-source/master/content/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png"
 TAGLINE = "The voice of students in UCSD's Bioinformatics and Systems Biology PhD Program"
-DISQUS_SITENAME = "gbic-ucsd"
+DISQUS_SITENAME = "yeolab"
 
 TYPOGRIFY = True
 
-GOOGLE_ANALYTICS = "UA-53680167-1"
+# GOOGLE_ANALYTICS = "UA-53680167-1"
 
 
-# MENUITEMS = [('About', 'about/'),
-#              ('Events', 'pages/events.html'),
-#              ('Leadership', 'pages/leadership.html'),
-#             #  ('Blog', 'pages/archive.html'),
-#              ('Constitution', 'pages/constitution.html'),
-#              ('Initiatives', 'pages/initiatives.html'),
-#              ('Contact us', 'pages/contact.html'),
-# ]
+MENUITEMS = [('Research', '/research/'),
+             ('Papers', '/papers/'),
+             ('People', '/people/index.html'),
+             ('Software', '/software/'),
+             ('Blog', '/blog/'),
+             ('Contact', '/contact/index.html'),
+]
 
 # IPython notebook blog posts
 MARKUP = ('md', 'ipynb')
@@ -81,7 +86,8 @@ MARKUP = ('md', 'ipynb')
 PLUGINS = ['people']
 # PLUGINS = ['ipynb']
 
-IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')), ('div', ('class', 'output'))]
+IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')),
+                            ('div', ('class', 'output'))]
 
 def sidebar(value):
   if value.startswith('archives') or value.startswith('category'):
@@ -96,3 +102,15 @@ JINJA_FILTERS = {'sidebar': sidebar}
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
+
+
+# Order of the positions of people to put in the website, ie.g. PI first,
+# Then senior scientsits, postdocs, grad students, etc
+# The list is pairs of (display_name, matching_name), where "display name"
+# is what is actually shown, and "matching_name" is what matches in the
+# "position" metadata of the person's page
+PEOPLE_POSITION_ORDER = [('Principal Investigator', 'Principal Investigator'),
+                         ('Senior Scientists', 'Senior Scientist'),
+                         ('Post-Doctoral Fellows', 'Postdoc'),
+                         ('Graduate Students', 'Graduate Student'),
+                         ('Staff', 'Staff')]
