@@ -111,6 +111,6 @@ TAG_SAVE_AS = ''
 # "position" metadata of the person's page
 PEOPLE_POSITION_ORDER = [('Principal Investigator', 'Principal Investigator'),
                          ('Senior Scientists', 'Senior Scientist'),
-                         ('Post-Doctoral Fellows', 'Postdoc'),
+                         ('Post-Doctoral Fellows', 'Post-Doctoral Fellow'),
                          ('Graduate Students', 'Graduate Student'),
                          ('Staff', 'Staff')]
