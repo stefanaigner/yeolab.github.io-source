@@ -13,6 +13,7 @@ notifications:
     on_success: always
     on_failure: always
 before_install:
+- git submodule sync
 - git submodule update --init --recursive
 after_success: bash deploy.sh
 env:
