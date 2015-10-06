@@ -16,6 +16,15 @@ travis encrypt --add -r gbic-ucsd/gbic-ucsd.github.io-source GIT_NAME="Olga Botv
 
 ## How to install, build, and view the website
 
+### Important notes
+
+This website relies on **both**
+
+* The [`people`](https://github.com/olgabot/people) extension, which populates a dictionary of "persons" (i.e. individual people), their position in lab, and their status, and assigns it to the "people"
+* The [`twenty-pelican-html5up`](https://github.com/YeoLab/twenty-pelican-html5up/) theme, which specifies how to make both a "person" and "people" page.
+
+Both of these extensions are required for the website to build.
+
 ### Install requirements
 
 Install the required python packages on the command line with,
@@ -58,33 +67,72 @@ The "`&`" (ampersand) is the symbol for "do this operation in the background," w
 
 To add a new person to the people page, copy an existing person's markdown file (in `content/pages/people/*.md`) (it's easiest if you pick someone from the same position, e.g. an existing grad student for a new grad student), and copy their information in.
 
-The top of the `.md` (markdown) file is a bunch of metadata. The critical stuff that is required is (HTML comments on what the thing is are inline):
+The top of the `.md` (markdown) file is a bunch of metadata. The critical stuff that is required is (HTML comments on what the thing is are inline) below. Note that capitalization matters differently whether something is before or after the colon: `before_colon: after_colon`:
+
+* `before_colon`: Capitalization doesn't matter. Could be `title` or `Title`
+* `after_colon`: Capitalization ***does*** matter. Must be `Graduate Student`.
 
 ```markdown
 <!-- Name of the person -->
 Title: Olga Botvinnik  
 
-<!-- A date is required to build - use approximate date started in the lab -->
+<!-- A date is required to build - use approximate date started in the lab.
+Only the year is used for the alumni page -->
 Date: 2013-06-01
 
 <!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow", "Graduate Student" or "Staff" -->
 Position: Graduate Student
 
-<!-- A suffix to add after the position. Mostly relevant for Staff Research Associates, so here for them you would put "Research Associate II" or "Bioinformatics Analyst I", whichever position they are-->
+<!-- A suffix to add after the position. Mostly relevant for Staff Research
+ Associates, so here for them you would put "Research Associate II" or
+  "Bioinformatics Analyst I", whichever position they are-->
 Position_suffix:
 
 <!-- Department the person is tied to. If unknown, leave blank -->
 Affiliation: Bioinformatics and Systems Biology
 
-<!-- UCSD-related email to contact the person. gmail and hotmail not okay here -->
+<!-- UCSD-related email to contact the person. gmail and hotmail not
+okay here -->
 Email: obotvinn@ucsd.edu
 
-<!-- Name of the fellowship, if applicable. If none, leave blank. Leave out the word "Fellowship" -->
+<!-- Name of the fellowship, if applicable. If none, leave blank.
+Leave out the word "Fellowship" -->
 Fellowship: NDSEG
 
 <!-- Location of the person's square headshot, relative to the folder "content/" -->
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 
-<!-- don't touch this! if it doesn't say "person" here then they don't get a page :( -->
+<!-- don't touch this! if it doesn't say "person" here then
+they don't get a page :( -->
 Template: person
 ```
+
+#### Moving somebody to the Alumni page
+
+When moving somebody to the alumni page, you will need to change and add the following:
+
+* Change `Alumni_or_current: Current` to `Alumni_or_current: Alumni`
+* Add `Current_position`
+* Add `End_date` (approximate, only year is used)
+
+For example, here is the metadata for Melissa Wilbert:
+
+```
+Title: Melissa Wilbert
+Date: 2008-06-01
+Position: Graduate Student
+Position_suffix: (Ph.D.)
+Affiliation: Biomedical Sciences Program
+Email: shsathe@ucsd.edu
+Fellowship:
+Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Template: person
+Alumni_or_current: Alumni
+Current_position: Novartis, Boston, MA
+End_date: 2014-11-01
+```
+
+
+### Debugging
+
+If you get the error, `CRITICAL: UndefinedError: 'page' is undefined`, double check that you have put individual "person" pages **only** in `content/pages/people`. If it's in `content/`  but not the subdirectory `people`, then Pelican will try to use the Article template instead of the Page template, leading to `page` being undefined.

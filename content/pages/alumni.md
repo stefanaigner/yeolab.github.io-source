@@ -1,0 +1,2 @@
+title: Alumni
+template: alumni
