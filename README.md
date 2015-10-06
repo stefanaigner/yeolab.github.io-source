@@ -1,7 +1,9 @@
 yeolab.github.io-source
 =======================
 
-Markdown and HTML source code for static website built via Pelican and Fabric on Travis-CI.
+[![Build Status](https://travis-ci.org/YeoLab/yeolab.github.io-source.svg)](https://travis-ci.org/YeoLab/yeolab.github.io-source)
+
+Markdown and HTML source code for the static website http://yeolab.github.io/ built via Pelican and Fabric on Travis-CI.
 
 
 To set up pushes from Travis-CI, I had to encrypt a Github token in my `.travis.yml` file. First, you will need a "personal access token", which you can generate from
@@ -60,6 +62,10 @@ Serving HTTP on 0.0.0.0 port 8000 ...
 Now, open your web browser and go to this magic website: http://localhost:8000 This is a local server on your computer only (not a public website) which allows the HTML pages to talk to each other and load data. Every time you make a change and want to see it on the built website, refresh the page.
 
 The "`&`" (ampersand) is the symbol for "do this operation in the background," which is helpful for when you edit the website and re-build it multiple times. *You only need to serve once* - you don't need to re-serve after you build. Just refresh the page.
+
+## Viewing the website online
+
+To see if the online version successfully built, go to [Travis-CI](https://travis-ci.org/YeoLab/yeolab.github.io-source) and see if there's an error (there's also a badge in this readme). If it was successful, then check out the [live site](http://yeolab.github.io/people/)!
 
 ## Editing the website
 
