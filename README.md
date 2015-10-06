@@ -104,7 +104,7 @@ Fellowship: NDSEG
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 
 <!-- Whether they are currently in the lab or have moved on -->
-Alumni: Current
+Alumni_or_current: Current
 
 <!-- don't touch this! if it doesn't say "person" here then
 they don't get a page :( -->
