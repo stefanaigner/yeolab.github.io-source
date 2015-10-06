@@ -25,14 +25,12 @@ La Jolla, CA 92037<br>
 (858) 246-1491, Wet Lab <br>
 (858) 534-9322, Bioinformatics Lab<br>
 
-### More contact methods
+### Fax
 
-<dl>
-  <dt>Fax
-    <dd>(858) 246-1579
-  <dt> Email
-    <dd> geneyeo at ucsd dot edu
-</dl>
+(858) 246-1579
+
+### Email
+geneyeo at ucsd dot edu
 
 ## Affiliated Departments
 [Cellular and Molecular Medicine](http://healthsciences.ucsd.edu/som/cmm/Pages/default.aspx)<br>
