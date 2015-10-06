@@ -87,7 +87,7 @@ Only the year is used for the alumni page -->
 Date: 2013-06-01
 
 <!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow",
-"Graduate Student" or "Staff" -->
+"Graduate Student", "Staff", "Undergraduate Student"-->
 Position: Graduate Student
 
 <!-- A suffix to add after the position. Mostly relevant for Staff Research

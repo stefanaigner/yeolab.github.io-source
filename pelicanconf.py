@@ -72,8 +72,10 @@ TYPOGRIFY = True
 MENUITEMS = [('Research', '/research/'),
              ('Papers', '/papers/'),
              ('People', '/people/'),
+             ('Funding', '/funding/'),
+             ('Collaborators', '/collaborators/'),
              ('Software', '/software/'),
-             ('Blog', '/blog/'),
+            #  ('Blog', '/blog/'),
 ]
 
 # IPython notebook blog posts
@@ -109,4 +111,5 @@ PEOPLE_POSITION_ORDER = [('Principal Investigator', 'Principal Investigator'),
                          ('Project Scientists', 'Project Scientist'),
                          ('Post-Doctoral Fellows', 'Post-Doctoral Fellow'),
                          ('Graduate Students', 'Graduate Student'),
-                         ('Staff', 'Staff')]
+                         ('Staff', 'Staff'),
+                         ('Undergraduate Students', 'Undergraduate Student')]
