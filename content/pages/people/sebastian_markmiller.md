@@ -1,11 +1,13 @@
 Title: Sebastian Markmiller
 Date: 2015-10-05
 Position: Post-Doctoral Fellow
+Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email: smarkmiller@ucsd.edu
 Fellowship: 
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
+Alumni_or_current: Current
 
 ## Degrees
 
