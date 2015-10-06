@@ -16,6 +16,15 @@ travis encrypt --add -r gbic-ucsd/gbic-ucsd.github.io-source GIT_NAME="Olga Botv
 
 ## How to install, build, and view the website
 
+### Important notes
+
+This website relies on **both**
+
+* The [`people`](https://github.com/olgabot/people) extension, which populates a dictionary of "persons" (i.e. individual people), their position in lab, and their status, and assigns it to the "people"
+* The [`twenty-pelican-html5up`](https://github.com/YeoLab/twenty-pelican-html5up/) theme, which specifies how to make both a "person" and "people" page.
+
+Both of these extensions are required for the website to build.
+
 ### Install requirements
 
 Install the required python packages on the command line with,
