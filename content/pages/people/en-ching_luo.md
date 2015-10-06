@@ -1,11 +1,14 @@
 Title: En-Ching Luo
 Date: 2015-06-01
 Position: Graduate Student
+Position_suffix: (Ph.D.)
 Affiliation: Bioengineering
 Email: e1luo@ucsd.edu
-Fellowship: Taiwanese government
+Fellowship: Taiwanese Government
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
+Alumni_or_current: Current
+<!-- Status: draft -->
 
 ## Degrees
 
