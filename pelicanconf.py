@@ -62,9 +62,7 @@ RELATIVE_URLS = True
 
 THEME = "twenty-pelican-html5up"
 
-COVER_IMG_URL = "https://raw.githubusercontent.com/gbic-ucsd/gbic-ucsd.github.io-source/master/content/images/UCSD-Bioinfo-Logo-Color.png"
-PROFILE_IMG_URL = "http://raw.githubusercontent.com/gbic-ucsd/gbic-ucsd.github.io-source/master/content/images/UCSD-Bioinfo-Logo-Square-Color-no-text.png"
-TAGLINE = "The voice of students in UCSD's Bioinformatics and Systems Biology PhD Program"
+TAGLINE = "Dr. Gene Yeo's Laboratory at UC San Diego"
 DISQUS_SITENAME = "yeolab"
 
 TYPOGRIFY = True
