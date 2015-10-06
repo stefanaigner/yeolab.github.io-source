@@ -68,7 +68,6 @@ TAGLINE = "The voice of students in UCSD's Bioinformatics and Systems Biology Ph
 DISQUS_SITENAME = "yeolab"
 
 TYPOGRIFY = True
-
 # GOOGLE_ANALYTICS = "UA-53680167-1"
 
 

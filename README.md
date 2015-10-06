@@ -88,3 +88,8 @@ Headshot: /images/people/botvinnik_olga_headshot.jpeg
 <!-- don't touch this! if it doesn't say "person" here then they don't get a page :( -->
 Template: person
 ```
+
+
+### Debugging
+
+If you get the error, `CRITICAL: UndefinedError: 'page' is undefined`, double check that you have put individual "person" pages **only** in `content/pages/people`. If it's in `content/`  but not the subdirectory `people`, then Pelican will try to use the Article template instead of the Page template, leading to `page` being undefined.
