@@ -7,7 +7,7 @@ Date: 2015-09-21
 ### `flotilla`
 A framework for integrated single-cell RNA-seq analysis.
 [Github](https://github.com/YeoLab/flotilla),
-[PyPI](https://pypi.python.org/pypi/flotilla).
+[PyPI](https://pypi.python.org/pypi/flotilla), [Documentation](http://yeolab.github.io/flotilla/doc/), [Development version documentation](http://yeolab.github.io/flotilla/docs-dev/).
 
 ### `CLIPper`
 
