@@ -1,6 +1,6 @@
 Title: Tomas Bos
 Date: 2015-10-05
-Position: Post-doctoral fellow
+Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: Tbos@ucsd.edu
 Fellowship: 
