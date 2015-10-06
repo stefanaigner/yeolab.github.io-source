@@ -67,7 +67,10 @@ The "`&`" (ampersand) is the symbol for "do this operation in the background," w
 
 To add a new person to the people page, copy an existing person's markdown file (in `content/pages/people/*.md`) (it's easiest if you pick someone from the same position, e.g. an existing grad student for a new grad student), and copy their information in.
 
-The top of the `.md` (markdown) file is a bunch of metadata. The critical stuff that is required is (HTML comments on what the thing is are inline):
+The top of the `.md` (markdown) file is a bunch of metadata. The critical stuff that is required is (HTML comments on what the thing is are inline) below. Note that capitalization matters differently whether something is before or after the colon: `before_colon: after_colon`:
+
+* `before_colon`: Capitalization doesn't matter. Could be `title` or `Title`
+* `after_colon`: Capitalization ***does*** matter. Must be `Graduate Student`.
 
 ```markdown
 <!-- Name of the person -->
