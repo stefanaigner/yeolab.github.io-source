@@ -80,7 +80,8 @@ Title: Olga Botvinnik
 Only the year is used for the alumni page -->
 Date: 2013-06-01
 
-<!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow", "Graduate Student" or "Staff" -->
+<!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow",
+"Graduate Student" or "Staff" -->
 Position: Graduate Student
 
 <!-- A suffix to add after the position. Mostly relevant for Staff Research
@@ -102,6 +103,9 @@ Fellowship: NDSEG
 <!-- Location of the person's square headshot, relative to the folder "content/" -->
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 
+<!-- Whether they are currently in the lab or have moved on -->
+Alumni: Current
+
 <!-- don't touch this! if it doesn't say "person" here then
 they don't get a page :( -->
 Template: person
@@ -112,8 +116,8 @@ Template: person
 When moving somebody to the alumni page, you will need to change and add the following:
 
 * Change `Alumni_or_current: Current` to `Alumni_or_current: Alumni`
-* Add `Current_position`
-* Add `End_date` (approximate, only year is used)
+* Add `Current_position`, where they are working now to put in their profile
+* Add `End_date` (approximate, only year is used), to show their total years in lab
 
 For example, here is the metadata for Melissa Wilbert:
 
