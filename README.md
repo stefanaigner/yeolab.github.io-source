@@ -76,29 +76,60 @@ The top of the `.md` (markdown) file is a bunch of metadata. The critical stuff 
 <!-- Name of the person -->
 Title: Olga Botvinnik  
 
-<!-- A date is required to build - use approximate date started in the lab -->
+<!-- A date is required to build - use approximate date started in the lab.
+Only the year is used for the alumni page -->
 Date: 2013-06-01
 
 <!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow", "Graduate Student" or "Staff" -->
 Position: Graduate Student
 
-<!-- A suffix to add after the position. Mostly relevant for Staff Research Associates, so here for them you would put "Research Associate II" or "Bioinformatics Analyst I", whichever position they are-->
+<!-- A suffix to add after the position. Mostly relevant for Staff Research
+ Associates, so here for them you would put "Research Associate II" or
+  "Bioinformatics Analyst I", whichever position they are-->
 Position_suffix:
 
 <!-- Department the person is tied to. If unknown, leave blank -->
 Affiliation: Bioinformatics and Systems Biology
 
-<!-- UCSD-related email to contact the person. gmail and hotmail not okay here -->
+<!-- UCSD-related email to contact the person. gmail and hotmail not
+okay here -->
 Email: obotvinn@ucsd.edu
 
-<!-- Name of the fellowship, if applicable. If none, leave blank. Leave out the word "Fellowship" -->
+<!-- Name of the fellowship, if applicable. If none, leave blank.
+Leave out the word "Fellowship" -->
 Fellowship: NDSEG
 
 <!-- Location of the person's square headshot, relative to the folder "content/" -->
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 
-<!-- don't touch this! if it doesn't say "person" here then they don't get a page :( -->
+<!-- don't touch this! if it doesn't say "person" here then
+they don't get a page :( -->
 Template: person
+```
+
+#### Moving somebody to the Alumni page
+
+When moving somebody to the alumni page, you will need to change and add the following:
+
+* Change `Alumni_or_current: Current` to `Alumni_or_current: Alumni`
+* Add `Current_position`
+* Add `End_date` (approximate, only year is used)
+
+For example, here is the metadata for Melissa Wilbert:
+
+```
+Title: Melissa Wilbert
+Date: 2008-06-01
+Position: Graduate Student
+Position_suffix: (Ph.D.)
+Affiliation: Biomedical Sciences Program
+Email: shsathe@ucsd.edu
+Fellowship:
+Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Template: person
+Alumni_or_current: Alumni
+Current_position: Novartis, Boston, MA
+End_date: 2014-11-01
 ```
 
 
