@@ -73,10 +73,9 @@ TYPOGRIFY = True
 
 MENUITEMS = [('Research', '/research/'),
              ('Papers', '/papers/'),
-             ('People', '/people/index.html'),
+             ('People', '/people/'),
              ('Software', '/software/'),
              ('Blog', '/blog/'),
-             ('Contact', '/contact/index.html'),
 ]
 
 # IPython notebook blog posts
@@ -109,7 +108,7 @@ TAG_SAVE_AS = ''
 # is what is actually shown, and "matching_name" is what matches in the
 # "position" metadata of the person's page
 PEOPLE_POSITION_ORDER = [('Principal Investigator', 'Principal Investigator'),
-                         ('Senior Scientists', 'Senior Scientist'),
+                         ('Project Scientists', 'Project Scientist'),
                          ('Post-Doctoral Fellows', 'Post-Doctoral Fellow'),
                          ('Graduate Students', 'Graduate Student'),
                          ('Staff', 'Staff')]
