@@ -7,7 +7,7 @@ Email: shsathe@ucsd.edu
 Fellowship:
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
-Alumni_or_current: Alumni
+Alumni_or_current: Current
 <!-- Status: draft -->
 
 ## Degrees
