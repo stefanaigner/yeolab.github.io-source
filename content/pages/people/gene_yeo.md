@@ -4,7 +4,7 @@ Position: Principal Investigator
 Affiliation: Associate Professor (w/ tenure), UCSD
 Email: geneyeo@ucsd.edu
 Template: person
-Alumni_or_current: Alumni
+Alumni_or_current: Current
 
 <!-- Status: draft -->
 

@@ -1,13 +1,15 @@
 Title: Melissa Wilbert
-Date: 2009-06-01
+Date: 2008-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
-Alumni_or_current: Alumni
 Affiliation: Biomedical Sciences Program
 Email: shsathe@ucsd.edu
 Fellowship:
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
+Alumni_or_current: Alumni
+Current_position: Novartis, Boston, MA
+End_date: 2014-11-01
 <!-- Status: draft -->
 
 ## Degrees
