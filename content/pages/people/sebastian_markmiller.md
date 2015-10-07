@@ -7,7 +7,7 @@ Email: smarkmiller@ucsd.edu
 Fellowship: 
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
-alumni_or_current: current
+alumni_or_current: Current
 
 ## Degrees
 
