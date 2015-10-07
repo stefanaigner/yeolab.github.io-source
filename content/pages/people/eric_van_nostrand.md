@@ -6,6 +6,7 @@ Email: elvannostrand@ucsd.edu
 Fellowship: 
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
+Alumni_or_current: Current
 
 ## Degrees
 Ph.D. (Genetics), Stanford University School of Medicine, 2012<br>
