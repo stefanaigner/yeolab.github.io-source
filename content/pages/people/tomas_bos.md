@@ -6,6 +6,7 @@ Email: Tbos@ucsd.edu
 Fellowship: 
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
+Alumni_or_current: Current
 
 ## Degrees
 PhD in Medical Sciences, Vrije Universiteit Brussel, 2010<br>
