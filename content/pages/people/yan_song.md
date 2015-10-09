@@ -3,7 +3,7 @@ Date: 2015-09-05
 Position: Principal Investigator
 Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
-Email: email@ucsd.edu
+Email: mail@ucsd.edu
 Fellowship: 
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
