@@ -1,6 +1,6 @@
 Title: Yan Song
 Date: 2015-09-05
-Position: Principal Investigator
+Position: Post-Doctoral Fellow
 Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email: mail@ucsd.edu
