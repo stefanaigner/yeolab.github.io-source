@@ -8,6 +8,8 @@ Fellowship:
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
 Alumni_or_current: Alumni
+Current_position: UCSD, CA
+End_date: 2015-09-01
 <!-- Status: draft -->
 
 ## Degrees
