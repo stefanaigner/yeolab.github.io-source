@@ -359,5 +359,3 @@ Human Mutation
 *Rifkin R, **Yeo G**, and Poggio, T.*   
 Advances in Learning Theory: Methods, Model and Applications, NATO Science Series III:  Computer and System Sciences, Vol. 190, ISO Press, Amsterdam     
 [[PDF](http://example.com)]
-
-blah
