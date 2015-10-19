@@ -7,7 +7,7 @@ Fellowship:
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Research Scientist, SD
+Current_position: Professor, Western Washington University.
 End_date: 2014-09-01
 
 ## Degrees

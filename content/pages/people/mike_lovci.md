@@ -2,7 +2,7 @@ Title: Mike Lovci
 Date: 2009-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
-Affiliation: Bioinformatics and Systems Biology
+Affiliation: Biomedical Sciences
 Email: mlovci@ucsd.edu
 Fellowship: 
 Alumni_or_current: Alumni
