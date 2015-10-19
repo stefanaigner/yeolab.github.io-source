@@ -9,7 +9,7 @@ Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Professor, Western Washington
-End_date: 2014-11-01
+End_date: 2014-09-01
 <!-- Status: draft -->
 
 ## Degrees
