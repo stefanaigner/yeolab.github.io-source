@@ -1,4 +1,4 @@
-Title: Suzanne R. Lee
+Title: Katannya Kapeli
 Date: 2013-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
