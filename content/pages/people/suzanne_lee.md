@@ -1,23 +1,23 @@
 Title: Suzanne R. Lee
 Date: 2013-10-05
 Position: Post-Doctoral Fellow
+Position_suffix: (Ph.D.)
 Affiliation: Cellular and Molecular Medicine
 Email: l1kurian@ucsd.edu
-Fellowship: 
+Fellowship:
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Professor, Western Washington University.
-End_date: 2014-09-01
+Current_position: Professor, Western Washington
+End_date: 2014-11-01
+<!-- Status: draft -->
 
 ## Degrees
 Ph.D. Molecular and Cellular Biology, University of California, Berkeley, 2008<br>
 B.A. Biological Chemistry, Wellesley College, 1998<br>
 
-
 ## Summary
 Suzanne Lee received her B.A. in Biochemistry at Wellesley College, Massachusetts in 1998, worked as a Research Assistant at Harvard Medical School until 2001, and received her Ph.D. in Molecular and Cellular Biology at the University of California, Berkeley in 2008.  Her graduate work with Dr. Kathleen Collins focused on the identification of small non-coding RNAs (sRNAs) and their biogenesis in a model eukaryote, the ciliate Tetrahymena thermophila.  Through this work, Dr. Lee discovered two distinct RNAi pathways that function separately for post-transcriptional gene silencing and developmentally induced DNA elimination.  In addition, she identified a previously unknown response to essential amino acid starvation that induces tRNA cleavage and degradation.  Through purification and characterization of two complexes containing the Tetrahymena RNA-dependent RNA polymerase (RdRP), Dr. Lee outlined a sRNA biogenesis pathway that involves coupling between RdRP and Dicer and specificity conferred by terminal U-transferases (Tutases).  As a post-doc (joint with Gene Yeo and Jens Lykke-Andersen), she is interested in elucidating the roles that ribonucleoprotein complex (RNP) remodeling and modification play in the regulation of mRNA expression and stability.  Specifically, Dr. Lee’s current research is focused on Upf1, an RNA helicase that functions in Nonsense-Mediated Decay, and the human Tutase/non-canonical poly(A) polymerase family.
-
 
 ## Publications
 **Lee SR**, Pratt GA, Martinez FJ, Yeo GW* , Lykke-Anderson J* . ( * co-corresponding)
