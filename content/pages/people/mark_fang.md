@@ -1,7 +1,7 @@
 Title: Mark Fang
 Date: 2013-06-01
 Position: Graduate Student
-Position_suffix: (Ph.D.)
+Position_suffix: (M.D.Ph.D.)
 Affiliation: UCSD School of Medicine       
 Email: mfang@ucsd.edu
 Fellowship: 
