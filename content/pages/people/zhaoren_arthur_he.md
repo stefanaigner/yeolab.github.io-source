@@ -6,7 +6,7 @@ Affiliation: Biomedical Sciences
 Email: 
 Fellowship: 
 Alumni_or_current: Current
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/zhaoren_he.jpg
 Template: person
 <!-- Status: draft -->
 
