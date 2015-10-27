@@ -6,7 +6,7 @@ Affiliation: Biomedical Sciences
 Email: ecwheele@ucsd.edu
 Fellowship: 
 Alumni_or_current: Current
-Headshot: /images/people/emily_wheeler.jpeg
+Headshot: /images/people/emily_wheeler.jpg
 Template: person
 <!-- Status: draft -->
 
