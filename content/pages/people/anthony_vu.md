@@ -1,7 +1,7 @@
 Title: Anthony Vu
 Date: 2010-06-01
 Position: Staff
-Position_suffix: Research Associated II
+Position_suffix: Research Associate II
 Affiliation:
 Email: aqvu@ucsd.edu
 Fellowship:

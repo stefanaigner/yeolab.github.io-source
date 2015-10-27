@@ -1,7 +1,7 @@
 Title: Keri Elkins Garcia
 Date: 2012-06-01
 Position: Staff
-Position_suffix: Research Associated II
+Position_suffix: Research Associate II
 Affiliation:
 Email: ppli@ucsd.edu
 Fellowship:

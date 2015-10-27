@@ -1,7 +1,7 @@
 Title: Balaji Sundararaman
 Date: 2012-06-01
 Position: Staff
-Position_suffix: Research Associated II
+Position_suffix: Research Associate II
 Affiliation:
 Email: basundararaman@ucsd.edu
 Fellowship:
