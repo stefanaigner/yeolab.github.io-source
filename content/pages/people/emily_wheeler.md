@@ -12,7 +12,7 @@ Template: person
 
 ## Degrees
 
-BS Environmental Science, Indiana University 2014<br>
+B.S. Environmental Science, Indiana University 2014<br>
 
 ## Summary
 
