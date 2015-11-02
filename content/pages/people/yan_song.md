@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation: Cellular and Molecular Medicine
 Email: mail@ucsd.edu
 Fellowship: 
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/yan_song.jpg
 Template: person
 alumni_or_current: Current
 

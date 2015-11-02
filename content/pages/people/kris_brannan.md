@@ -5,7 +5,7 @@ Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email: kbrannan@ucsd.edu
 Fellowship: 
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/kris_brannan.jpg
 Template: person
 alumni_or_current: Current
 

@@ -5,7 +5,7 @@ Position_suffix: Research Associated II
 Affiliation:
 Email: rstanton@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/rebecca_stanton.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Research Associate II, Celgene, SD

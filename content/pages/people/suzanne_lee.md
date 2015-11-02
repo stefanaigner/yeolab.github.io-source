@@ -5,10 +5,10 @@ Position_suffix: (Ph.D.)
 Affiliation: Cellular and Molecular Medicine
 Email: l1kurian@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Professor, Western Washington
+Headshot: /images/people/suzanne_r_lee.tiff
 End_date: 2014-09-01
 <!-- Status: draft -->
 

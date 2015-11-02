@@ -6,7 +6,7 @@ Affiliation: Bioinformatics and Systems Biology
 Email: ljamal@ucsd.edu
 Fellowship: NSF Fellow
 Alumni_or_current: Current
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/leen_jamal_schafer.tiff
 Template: person
 <!-- Status: draft -->
 

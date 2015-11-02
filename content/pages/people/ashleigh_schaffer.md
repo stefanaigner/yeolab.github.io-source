@@ -5,7 +5,7 @@ Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email: email@ucsd.edu
 Fellowship: 
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/ashleigh_schaffer.jpg
 Template: person
 alumni_or_current: Current
 

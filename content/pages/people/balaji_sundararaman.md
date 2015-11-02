@@ -7,9 +7,9 @@ Email: basundararaman@ucsd.edu
 Fellowship:
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Current_position: UCSD, CA
-End_date: 
+End_date: 2015-10-31
 <!-- Status: draft -->
 
 ## Degrees
