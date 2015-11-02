@@ -5,7 +5,7 @@ Position_suffix: (Ph.D.)
 Affiliation: Bioengineering
 Email: e1luo@ucsd.edu
 Fellowship: Taiwanese Government
-Headshot: /images/people/enching.jpeg
+Headshot: /images/people/enching.jpg
 Template: person
 Alumni_or_current: Current
 <!-- Status: draft -->
