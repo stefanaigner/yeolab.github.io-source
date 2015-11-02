@@ -4,7 +4,7 @@ Date: 2015-09-21
 
 ### 2015
 * **The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**
-Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** *, Behrens T. *co-corresponding  
+*Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)*  
 Science  
 [[PDF](/papers/2015/Science-2015-Hung-science.aac7442.pdf)]  
 
@@ -16,28 +16,28 @@ Science
 * **Applications of Cas9 as an RNA-programmed RNA-binding protein.**  
 *Nelles DA, Fang MY, Aigner S, **Yeo GW***  
 Bioessays
-[[PDF](http://example.com)]  
+[[PDF](/papers/2015/Nelles_et_al-2015-BioEssays.pdf)]  
 
-* **AThe Clothes Make the mRNA: Past and Present Trends in mRNP Fashion.**  
+* **The Clothes Make the mRNA: Past and Present Trends in mRNP Fashion.**  
 *Singh G, Pratt GA, **Yeo GW**, Moore MJ*  
 Annual Review of Biochemistry  
-[[PDF](http://example.com)]
+[[PDF](/papers/2015/ClothesMakeMrna_annurev-biochem2015.pdf)]
 
 * **Nxf1 natural variant E610G is a semi-dominant suppressor of IAP-induced RNA processing defects.**  
 *Concepcion D, Ross KD, Hutt KR, **Yeo GW**, Hamilton BA*  
 Annual Review of Biochemistry  
-[[PDF](http://example.com)]
+[[PDF](/papers/2015/concepcion_genetics_2015.pdf)]
 
 * **RNA-binding proteins in neurodegeneration: Seq and you shall receive.**  
 *Nussbacher JK, Batra R, Lagier-Tourenne C, **Yeo GW** *  
 Trends in Neurosciences   
-[[PDF](http://example.com)]
+[[PDF](/papers/2015/Julia_Cell.pdf)]
 
 * **ALS-causative mutations in FUS/TLS confer gain- and loss-of-function by altered association with SMN and U1 snRNP.**  
 *Sun S, Ling S-C, Qiu J, Albuquerque CP, Zhou Y, Tokunaga S, Li H, Qiu H, Bui A, **Yeo GW**, Huang EJ, Eggan K, Zhou
 H, Fu X-D, Lagier-Tourenne C, Cleveland DW*  
 Nature Communications   
-[[PDF](http://example.com)]
+[[PDF](/papers/2015/ALS2015.pdf)]
 
 * **Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**  
 *Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Ohno S, **Yeo GW**, Chang JT*  
@@ -47,7 +47,7 @@ Journal of Immunology
 * **Identification of novel long non-coding RNAs underlying vertebrate cardiovascular development**  
 *Kurian L, Aguirre A, Sancho-Martinez I, Benner C, Hishida T, Nguyen T, Reddy P, Nivet E, Krause MN, Nelles D, Esteban CR, Campistol J, **Yeo GW**, Belmonte JCI*  
 Circulation  
-[[PDF](http://example.com)]
+[[PDF](/papers/2015/Circulation-2015-Kurian-1278-90)]
 
 
 ### 2014
