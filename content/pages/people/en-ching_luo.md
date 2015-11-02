@@ -5,7 +5,7 @@ Position_suffix: (Ph.D.)
 Affiliation: Bioengineering
 Email: e1luo@ucsd.edu
 Fellowship: Taiwanese Government
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/enching.jpeg
 Template: person
 Alumni_or_current: Current
 <!-- Status: draft -->
