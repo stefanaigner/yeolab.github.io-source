@@ -3,7 +3,7 @@ Date: 2015-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: elvannostrand@ucsd.edu
-Fellowship: 
+Fellowship:
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
 Alumni_or_current: Current
@@ -17,7 +17,7 @@ S.B. (Biology) Massachusetts Institute of Technology, 2005<br>
 
 ## Summary
 
-Eric Van Nostrand received his S.B. in Biology from MIT in 2005, with research experience in Dr. Chris Burge’s lab on computational and experimental analysis of alternative splicing regulation. After spending a year with Dr. Fred Gage & Dr. Gene Yeo at the Salk Institute for Biological Studies, Eric attended Stanford University for graduate school, joining Dr. Stuart Kim’s lab. Eric’s thesis work focused on genomic, genetic, and molecular analysis of aging in C. elegans, identifying novel regulators of transcriptional changes with age that revealed links between developmental regulators and aging. As a part of this work, Eric identified transcription factor complexity (defined as the number of factors that bind to the same genomic loci) as a significant feature for biological interpretation of ChIP-seq data. Low-complexity binding sites tended to correlate with factor-responsive target expression, whereas analysis of HOT (highly occupied target regions) bound by 65% or more of factors revealed a potential novel regulatory mechanism for highly expressed, essential, ubiquitous genes. In 2013, Eric joined the Yeo lab to perform postdoctoral research on general RNA binding protein regulatory networks as well as identification and characterization of critical RNA binding proteins in neuronal stem cell maintenance and differentiation.
+Eric Van Nostrand received his S.B. in Biology from MIT in 2005, with research experience in Dr. Chris Burge’s lab on computational and experimental analysis of alternative splicing regulation. After spending a year with Dr. Fred Gage & Dr. Gene Yeo at the Salk Institute for Biological Studies, Eric attended Stanford University for graduate school, joining Dr. Stuart Kim’s lab. Eric’s thesis work focused on genomic, genetic, and molecular analysis of aging in *C. elegans*, identifying novel regulators of transcriptional changes with age that revealed links between developmental regulators and aging. As a part of this work, Eric identified transcription factor complexity (defined as the number of factors that bind to the same genomic loci) as a significant feature for biological interpretation of ChIP-seq data. Low-complexity binding sites tended to correlate with factor-responsive target expression, whereas analysis of HOT (highly occupied target regions) bound by 65% or more of factors revealed a potential novel regulatory mechanism for highly expressed, essential, ubiquitous genes. In 2013, Eric joined the Yeo lab to perform postdoctoral research on general RNA binding protein regulatory networks as well as identification and characterization of critical RNA binding proteins in neuronal stem cell maintenance and differentiation.
 
 ## Publications
 
