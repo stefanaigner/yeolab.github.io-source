@@ -5,7 +5,7 @@ Position_suffix: Bioinformatics Analyst
 Affiliation:
 Email: shsathe@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/shashank_sathe.jpg
 Template: person
 Alumni_or_current: Current
 <!-- Status: draft -->

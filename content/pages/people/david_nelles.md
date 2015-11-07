@@ -1,0 +1,30 @@
+Title: David Nelles
+Date: 2009-06-01
+Position: Graduate Student
+Position_suffix: (Ph.D.)
+Affiliation: Material Science and Engineering
+Email: dnelles@ucsd.edu
+Fellowship:  NSF Fellow
+Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Template: person
+Alumni_or_current: Current
+<!-- Status: draft -->
+
+## Degrees
+
+B.S., Engineering Physics, University of Pittsburgh, 2009<br>
+M.S., Materials Science, University of California, San Diego, 2010<br>
+## Summary
+
+David Nelles received his B.S. in Engineering Physics from the University of Pittsburgh in 2009 and now studies at the University of California, San Diego in the Materials Science and Engineering Ph.D. program. David’s undergraduate program focused on solid-state physics, materials science and engineering, and electrical engineering. In the Yeo lab, David is developing RNA-sensitive nanosystems for disease modeling and drug delivery along with high-throughput means of studying RNA interactions. David is funded by the NSF Graduate Research Fellowship.
+
+## Publications
+
+Applications of Cas9 as an RNA-programmed RNA-binding protein. Nelles DA, Fang MY, Aigner S, Yeo GW
+Bioessays, 2015. [[Bioessays](http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/bies.201500001)]
+
+Intracellular mRNA Regulation with Self-Assembled Locked Nucleic Acid Polymer Nanoparticles
+    Rush A, Nelles D, Blum A,  Barnhill S, Tatro E, Yeo G, Gianneschi NC. In: Journal of the American Chemical Society, 2014. [[JACS](http://pubs.acs.org/doi/abs/10.1021/ja503598z)]
+
+Alternative Splicing in Stem Cell Self-Renewal Differentiation. Nelles DA, Yeo GW. In: The Cell Biology of Stem Cells. Meshorer E, Plath K (Eds.). Landes Biosciences, 2010. [PDF] [Purchase Chapter]
+

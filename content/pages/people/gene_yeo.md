@@ -5,6 +5,7 @@ Affiliation: Associate Professor (w/ tenure), UCSD
 Email: geneyeo@ucsd.edu
 Template: person
 Alumni_or_current: Current
+Headshot: /images/people/gene_yeo.tiff
 
 <!-- Status: draft -->
 
