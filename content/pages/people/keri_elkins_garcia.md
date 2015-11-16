@@ -5,7 +5,7 @@ Position_suffix: Research Associate II
 Affiliation:
 Email: ppli@ucsd.edu
 Fellowship:
-Headshot: /images/people/keri_elkins_garcia.tiff
+Headshot: /images/people/keri_elkins_garcia.png
 Template: person
 Alumni_or_current: Alumni
 Current_position: Development Associate II, Invivoscribe, SD

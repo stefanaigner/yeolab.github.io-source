@@ -4,3 +4,6 @@
 [submodule "twenty-pelican-html5up"]
 	path = twenty-pelican-html5up
 	url = git://github.com/YeoLab/twenty-pelican-html5up.git
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins
