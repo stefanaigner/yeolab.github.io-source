@@ -81,7 +81,16 @@ MENUITEMS = [('Research', '/research/'),
 # IPython notebook blog posts
 MARKUP = ('md', 'ipynb')
 
-PLUGINS = ['people']
+PLUGIN_PATHS = ['.', 'pelican-plugins']
+PLUGINS = [
+    # Make "team" page of people in lab, with different positions
+    'people',
+
+    # Make gallery pages
+    'gallery',
+
+    # Make 200x200 sizes of gallery images
+    'thumbnailer']
 # PLUGINS = ['ipynb']
 
 IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')),
@@ -101,15 +110,22 @@ JINJA_FILTERS = {'sidebar': sidebar}
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
 
+# Resize gallery images to 200x200
+IMAGE_PATH = 'gallery'
+RESIZE = [
+        ('gallery', False, 200,200),
+      ]
 
 # Order of the positions of people to put in the website, ie.g. PI first,
 # Then senior scientsits, postdocs, grad students, etc
 # The list is pairs of (display_name, matching_name), where "display name"
 # is what is actually shown, and "matching_name" is what matches in the
 # "position" metadata of the person's page
-PEOPLE_POSITION_ORDER = [('Principal Investigator', 'Principal Investigator'),
-                         ('Project Scientists', 'Project Scientist'),
-                         ('Post-Doctoral Fellows', 'Post-Doctoral Fellow'),
-                         ('Graduate Students', 'Graduate Student'),
-                         ('Staff', 'Staff'),
-                         ('Undergraduate Students', 'Undergraduate Student')]
+PEOPLE_POSITION_ORDER = [
+    # (Possibly plural name), (Singular name)
+    ('Principal Investigator', 'Principal Investigator'),
+    ('Project Scientists', 'Project Scientist'),
+    ('Post-Doctoral Fellows', 'Post-Doctoral Fellow'),
+    ('Graduate Students', 'Graduate Student'),
+    ('Staff', 'Staff'),
+    ('Undergraduate Students', 'Undergraduate Student')]
