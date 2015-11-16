@@ -1,5 +1,6 @@
 Title: Software
 Date: 2015-09-21
+icon: mdi-code
 
 
 ## Yeo Lab Software

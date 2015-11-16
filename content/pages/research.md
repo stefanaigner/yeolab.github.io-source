@@ -1,5 +1,6 @@
 Title: Research
 Date: 2015-07-29 11:46
+Template: research
 
 A major focus of our lab is to understand how gene expression is controlled at the RNA level to maintain proper functioning of cells during development and aging.  Over the past decade, there has been a dramatic increase in the recognition that members of a broad class of proteins termed RNA binding proteins (RBPs) are crucial for maintaining molecular and cellular homeostasis. RBPs regulate processes such as cell survival, pluripotency of embryonic stem cells, and neuronal function, as well as aid in the transition between cellular states in response to stimuli, such as during neural specification of stem cells, cellular stresses, or viral infections.
 
@@ -7,20 +8,20 @@ RBPs perform these tasks by influencing the fate of hundreds to thousands of tar
 
 In our group, our primary aims have been to uncover regulatory principles of how RBPs influence RNA processing.  Specifically:
 
-1.	How do RBPs maintain cellular homeostasis in different cell-types and in development?
-2.	How do RBPs change in expression and respond to environmental stimuli (such as cellular stress and virus infection)?   
-3.	How do RBPs give rise to disease-relevant phenotypes when altered?
+1. How do RBPs maintain cellular homeostasis in different cell-types and in development?
+2. How do RBPs change in expression and respond to environmental stimuli (such as cellular stress and virus infection)?   
+3. How do RBPs give rise to disease-relevant phenotypes when altered?
 
 In doing so, our secondary aims are:
 
-4.	Developing molecular and chemical methods to alter RBP-RNA interactions to modulate gene expression.
-5.	Engineering novel protein-complexes that interact with RNA at specific sites to track and modulate RNA expression.
-6.	Developing computational and experimental workflows for understanding RNA processing at the single-cell level.
+4. Developing molecular and chemical methods to alter RBP-RNA interactions to modulate gene expression.
+5. Engineering novel protein-complexes that interact with RNA at specific sites to track and modulate RNA expression.
+6. Developing computational and experimental workflows for understanding RNA processing at the single-cell level.
 
 Our work strikes an important balance between hypothesis-driven research and exploration. In my lab, we apply a wide variety of approaches that include molecular biology, biochemistry, imaging, high-throughput sequencing, and large-scale genetic, genomics and chemical screens.  One of our key strengths is in our ability to analyze diverse and large datasets generated from high-throughput genomics/genetics approaches in a rigorous and reproducible manner. From our explorations, we have identified many novel RNA targets of RNA binding proteins and new mechanisms of regulation. This balance is a key point in our lab as it encourages trainees to keep an open scientific mind while still testing specific hypotheses.
 
  
-Fundamental insights from global perspectives.
+## Fundamental insights from global perspectives.
 
 Homeostasis in pluripotent stem cells.
 Post-transcriptional regulation of gene expression had been proposed to be important for the survival and pluripotency of pluripotent stem cells (PSCs).  PSCs are an infinite resource for regenerative medicine and an exciting and accessible system for modeling human development and diseases in a dish.  My research in this area focuses on hypotheses underlying the importance of candidate RBPs with two characteristics, namely RBPs that are highly expressed in PSCs compared to other cell-types, and whose expression levels decrease when PSCs are differentiated towards mature lineages.
