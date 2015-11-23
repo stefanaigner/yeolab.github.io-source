@@ -25,6 +25,7 @@ def collectstatic():
         local('cp -rf twenty-pelican-html5up/static/fonts/* {deploy_path}/fonts/'.format(**env))
         local('cp -rf twenty-pelican-html5up/static/images/* {deploy_path}/images/'.format(**env))
         local('cp -rf extras/* {deploy_path}/'.format(**env))
+        local('cp -rf content/papers/* {deploy_path}/papers/'.format(**env))
 
 def clean():
     if os.path.isdir(DEPLOY_PATH):
