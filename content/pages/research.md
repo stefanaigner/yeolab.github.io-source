@@ -16,7 +16,7 @@ em{
   <div class="6u">
 
 <section>
-  <a href="stem-cells" class="image feature"><img src="/images/pic01.jpg" alt="" /></a>
+  <a href="#stem-cells" class="image feature"><img src="/images/pic01.jpg" alt="" /></a>
   <header>
     <h3>Homeostasis in pluripotent stem cells</h3>
   </header>
@@ -27,7 +27,7 @@ em{
   <div class="6u">
 
 <section>
-  <a href="neural-rbps" class="image feature"><img src="/images/pic02.jpg" alt="" /></a>
+  <a href="#neural-rbps" class="image feature"><img src="/images/pic02.jpg" alt="" /></a>
   <header>
     <h3>Neural RNA binding proteins</h3>
   </header>
@@ -40,7 +40,7 @@ em{
   <div class="6u">
 
 <section>
-  <a href="rna-processing" class="image feature"><img src="/images/research/mRNP_code.svg" alt="Decoding the relationships between RNAs, their binding partners, and the effect on the RNA life cycle"/></a>
+  <a href="#rna-processing" class="image feature"><img src="/images/research/mRNP_code.svg" alt="Decoding the relationships between RNAs, their binding partners, and the effect on the RNA life cycle"/></a>
   <header>
     <h3>RNA Processing</h3>
   </header>
@@ -51,7 +51,7 @@ em{
   <div class="6u">
 
 <section>
-  <a href="singl-cell" class="image feature"><img src="/images/research/immunology_singlecell.png" alt="" /></a>
+  <a href="#single-cell" class="image feature"><img src="/images/research/immunology_singlecell.png" alt="" /></a>
   <header>
     <h3>Single-cell analyses</h3>
   </header>
