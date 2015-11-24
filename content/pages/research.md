@@ -1,6 +1,6 @@
 Title: Research
 Date: 2015-07-29 11:46
-
+icon: mdi mdi-magnify
 
 <style>
 .image:before{
@@ -16,9 +16,9 @@ em{
   <div class="6u">
 
 <section>
-  <a href="#" class="image feature"><img src="/images/pic01.jpg" alt="" /></a>
+  <a href="stem-cells" class="image feature"><img src="/images/pic01.jpg" alt="" /></a>
   <header>
-    <h3>A Really Fast Train</h3>
+    <h3>Homeostasis in pluripotent stem cells</h3>
   </header>
   <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
 </section>
@@ -27,9 +27,9 @@ em{
   <div class="6u">
 
 <section>
-  <a href="#" class="image feature"><img src="/images/pic02.jpg" alt="" /></a>
+  <a href="neural-rbps" class="image feature"><img src="/images/pic02.jpg" alt="" /></a>
   <header>
-    <h3>An Airport Terminal</h3>
+    <h3>Neural RNA binding proteins</h3>
   </header>
   <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
 </section>
@@ -40,9 +40,9 @@ em{
   <div class="6u">
 
 <section>
-  <a href="#" class="image feature"><img src="/images/pic03.jpg" alt="" /></a>
+  <a href="rna-processing" class="image feature"><img src="/images/research/mRNP_code.svg" alt="Decoding the relationships between RNAs, their binding partners, and the effect on the RNA life cycle"/></a>
   <header>
-    <h3>Hyperspace Travel</h3>
+    <h3>RNA Processing</h3>
   </header>
   <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
 </section>
@@ -51,9 +51,9 @@ em{
   <div class="6u">
 
 <section>
-  <a href="#" class="image feature"><img src="/images/research/immunology_singlecell.png" alt="" /></a>
+  <a href="singl-cell" class="image feature"><img src="/images/research/immunology_singlecell.png" alt="" /></a>
   <header>
-    <h3>And Another Train</h3>
+    <h3>Single-cell analyses</h3>
   </header>
   <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
 </section>
@@ -83,7 +83,7 @@ In doing so, our secondary aims are:
  
 ## Fundamental insights from global perspectives.
 
-### Homeostasis in pluripotent stem cells.
+### Homeostasis in pluripotent stem cells <a name="stem-cells"></a>
 
 Post-transcriptional regulation of gene expression had been proposed to be important for the survival and pluripotency of pluripotent stem cells (PSCs).  PSCs are an infinite resource for regenerative medicine and an exciting and accessible system for modeling human development and diseases in a dish.  My research in this area focuses on hypotheses underlying the importance of candidate RBPs with two characteristics, namely RBPs that are highly expressed in PSCs compared to other cell-types, and whose expression levels decrease when PSCs are differentiated towards mature lineages.
 
@@ -91,7 +91,7 @@ Post-transcriptional regulation of gene expression had been proposed to be impor
 
 *LIN28-let7-IMP network*. The Lin28, Imp1, Imp3, Esrp1 and Esrp2 RBPs are highly expressed in PSCs.  Importantly, Lin28 is a reprogramming factor, raising my hypothesis that its mRNA targets will reveal networks that are key for pluripotency. We published the *first nucleotide-level RNA binding map of the pluripotency-associated RBP Lin28 and showed that LIN28 binds within GGAGA motifs in loop structures in mRNAs, reminiscent but distinct from its interaction with let-7 microRNA precursors* (Wilbert et al.).  In ongoing research, we are investigating the Imp1, Imp2 and Imp3 proteins, which are part of the regulatory circuit consisting of Lin28 and let-7 microRNAs. Using genome-wide binding assays, we found that IMP1, IMP2 and LIN28 bind to largely overlapping target genes. Importantly, when IMP1 levels are reduced, IMP1 targets such as cellular adhesion genes decrease, causing hESCs to detach and undergo apoptosis.  Thus we have unveiled a novel function for these proteins in PSCs (Conway*, Van Nostrand* et al, in preparation).  
 
-### Normal and mutant functions of RBPs in the central nervous system.
+### Normal and mutant functions of RBPs in the central nervous system <a name="neural-rbps"></a>
 
 Defects in RNA regulation in the nervous system lead to neurodevelopmental dysfunction (e.g. autism) and neurodegenerative diseases (e.g. ALS). The mechanisms by which RBPs cause neurological disease are diverse, and in several cases the molecular details continue to remain elusive.
 
@@ -100,7 +100,7 @@ Defects in RNA regulation in the nervous system lead to neurodevelopmental dysfu
 *ALS-associated RBPs*. A paradigm shift in the pathogenesis of Amyotrophic Lateral Sclerosis (ALS) occurred when mutations in RBPs, in particular Tar DNA-binding protein 43 (or TDP-43) and (fused in sarcoma) FUS/TLS, were found in patients with ALS. To understand the normal functions of TDP-43 and FUS/TLS in the central nervous system, in collaboration with Don Cleveland’s laboratory at UCSD, we generated *genome-wide RNA binding sites of TDP-43 in vivo* (Polymenidou et al., 2011). A year later, also in collaboration with Don’s lab, we published *genome-wide binding sites for FUS/TLS* (Lagier-Tourenne et al.).  Our results supported a common loss-of-function (gene expression and alternative splicing) pathway in the pathogenesis of TDP-43 and FUS/TLS misregulation.  In ongoing research in my lab, we are evaluating the role of TAF15 and hnRNP protein A2/B1, reported to cause multisystem proteinopathy and ALS (Kim et al.).
 
 
-## New mechanistic views of RNA processing.
+## New mechanistic views of RNA processing <a name="rna-processing"></a>
 
 *Alternative splicing regulation by multiple RBPs*. In order for cells to maintain homeostasis, it is thought that multiple RBPs coordinately control RNA processing of individual transcripts. The specific hypothesis we sought to test was that multiple RBPs would coordinately control alternative splicing events in human cells. As a pilot experiment, we were interested in how members of the most abundantly expressed RBPs named heterogeneous ribonucleoparticle (hnRNP) proteins coordinately affect alternative splicing in human cells. We published the *first integrated genome-wide analyses of alternative splicing regulated by multiple RBPs and their binding sites in human cells* (Huelga et al.). Surprisingly, we showed that the hnRNPs had a high degree of cross- and auto-regulation, and basically attempted to compensate for each other’s absence.
 
@@ -115,7 +115,7 @@ And as part of the NIH-funded ENCODE efforts, my lab screened more than 700 comm
 *Repetitive elements in the genome* can interact with RBPs. In collaboration with Tim Behrens at Genentech, we found that the Ro60 RBP binds an RNA motif derived from endogenous Alu retroelements. Alu transcripts were found to be induced by type I interferon and stimulated pro-inflammatory cytokine secretion by human peripheral blood cells.  Importantly Ro60 deletion resulted in enhanced expression of Alu RNAs and interferon-regulated genes.  Tiffany Hung, a fellow at Genentech who led the study went on to show that anti-Ro60 positive systemic lupus erythematosus immune complexes contained Alu RNAs and Alu transcripts were enriched in SLE whole blood samples compared to control.  This exciting finding was recently published in the journal Science in 2015.
 
 
-## Single cell views of RNA processing
+## Single cell views of RNA processing <a name="single-cell"></a>
 
 Until recently, the overwhelming majority of biological conclusions about mechanisms of RNA processing and transcriptomic diversity are derived from bulk populations of cells or tissues.  However, the multitude of cell-types in heterogeneous mixtures in vivo and even in vitro during differentiation of PSCs, coupled with stochastic control of gene expression have been largely ignored. The transcriptomic composition of individual cells is lost in conventional sequencing projects, which typically analyze RNA extracted from pooled populations of cells and variations that specify individual cell-types are largely hidden in the bulk signal. Advances in the techniques for the isolation of single cells coupled with next-generation sequencing (NGS) devices have revealed new insights in specific “bimodal” gene expression patterns within a population of cells (Shalek et al., 2013), allele specific expression (Deng et al., 2014) and transcriptional programs in single cells from human and mouse embryos (Xue et al., 2013; Yan et al., 2013).
 

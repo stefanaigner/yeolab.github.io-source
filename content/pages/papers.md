@@ -1,5 +1,7 @@
 Title: Papers
 Date: 2015-09-21
+icon: mdi file-multiple
+
 # Papers
 
 ### 2015
