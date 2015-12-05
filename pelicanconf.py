@@ -50,10 +50,9 @@ ARCHIVES_SAVE_AS = "blog/index.html"
 #           )
 #
 # # Social widget
-# SOCIAL = (('github-square', 'http://github.com/gbic-ucsd'),
-#           ('twitter-square', 'http://twitter.com/gbicucsd'),
-#           ('facebook-square', 'http://facebook.com/gbicucsd'),
-#           )
+SOCIAL = (('github-circle', 'http://github.com/yeolab'),
+          ('twitter-circle', 'http://twitter.com/yeo_lab')
+          )
 
 DEFAULT_PAGINATION = 10
 
@@ -72,8 +71,8 @@ TYPOGRIFY = True
 MENUITEMS = [('Research', '/research/'),
              ('Papers', '/papers/'),
              ('People', '/people/'),
-             ('Funding', '/funding/'),
-             ('Collaborators', '/collaborators/'),
+            #  ('Funding', '/funding/'),
+            #  ('Collaborators', '/collaborators/'),
              ('Software', '/software/'),
             #  ('Blog', '/blog/'),
 ]
