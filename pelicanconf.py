@@ -71,6 +71,7 @@ TYPOGRIFY = True
 MENUITEMS = [('Research', '/research/'),
              ('Papers', '/papers/'),
              ('People', '/people/'),
+             ('Photos', '/gallery/'),
             #  ('Funding', '/funding/'),
             #  ('Collaborators', '/collaborators/'),
              ('Software', '/software/'),
@@ -128,3 +129,10 @@ PEOPLE_POSITION_ORDER = [
     ('Graduate Students', 'Graduate Student'),
     ('Staff', 'Staff'),
     ('Undergraduate Students', 'Undergraduate Student')]
+
+
+# Thumbnailer Configuration
+IMAGE_PATH = 'images/gallery/'
+THUMBNAIL_DIR = 'images/gallery/thumbnails'
+THUMBNAIL_KEEP_NAME = True
+THUMBNAIL_KEEP_TREE = True
