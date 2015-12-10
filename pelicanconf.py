@@ -136,3 +136,9 @@ IMAGE_PATH = 'images/gallery/'
 THUMBNAIL_DIR = 'images/gallery/thumbnails'
 THUMBNAIL_KEEP_NAME = True
 THUMBNAIL_KEEP_TREE = True
+
+DEFAULT_THUMBNAIL_SIZES = {
+    'thumbnail_square': '100',
+    'thumbnail_wide': '100x?',
+    'thumbnail_tall': '?x100',
+}
