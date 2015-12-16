@@ -5,7 +5,7 @@ Position_suffix: Research Associated II, Lab Manarger
 Affiliation:
 Email: yuliang@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/tiffany_yujing_liang.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Bioinformatics Master’s at SDSU
