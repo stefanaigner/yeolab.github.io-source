@@ -1,15 +1,15 @@
-Title: Bernice Yan
+Title: Brett Roberts
 Date: 2010-06-01
 Position: Undergraduate Student
 Position_suffix: 
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/bernice_yan.jpg
+Headshot: /images/people/botvinnik_olga_headshot.jpeg
 Template: person
 Alumni_or_current: Alumni
 Current_position: UCSD, CA
-End_date: 2013-09-01
+End_date: 2012-09-01
 <!-- Status: draft -->
 
 ## Degrees

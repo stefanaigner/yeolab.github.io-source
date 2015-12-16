@@ -1,11 +1,11 @@
-Title: Bernice Yan
-Date: 2010-06-01
+Title: Jeremy Chang
+Date: 2012-06-01
 Position: Undergraduate Student
 Position_suffix: 
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/bernice_yan.jpg
+Headshot: /images/people/jeremy_chang.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: UCSD, CA

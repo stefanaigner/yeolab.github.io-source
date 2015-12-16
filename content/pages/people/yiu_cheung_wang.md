@@ -1,11 +1,11 @@
-Title: Bernice Yan
-Date: 2010-06-01
+Title: Yiu Cheung Wang
+Date: 2011-06-01
 Position: Undergraduate Student
 Position_suffix: 
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/bernice_yan.jpg
+Headshot: /images/people/yiu_cheung_wang.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: UCSD, CA
