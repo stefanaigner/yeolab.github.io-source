@@ -4,7 +4,7 @@ Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: Tbos@ucsd.edu
 Fellowship: 
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/tomas_bos.png
 Template: person
 Alumni_or_current: Current
 
