@@ -6,7 +6,7 @@ Affiliation: Biomedical Sciences
 Email: mlovci@ucsd.edu
 Fellowship: 
 Alumni_or_current: Alumni
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/mike_lovci.png
 Template: person
 Current_position: Univ of Campinas, São Paulo, Brazil
 End_date: 2014-09-01
