@@ -6,7 +6,7 @@ Affiliation: Biomedical Sciences
 Email: f8martin@ucsd.edu
 Fellowship: 
 Alumni_or_current: Current
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/fernando_martinez.jpg
 Template: person
 <!-- Status: draft -->
 
