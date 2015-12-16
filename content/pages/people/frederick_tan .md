@@ -5,7 +5,7 @@ Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email: fetan@ucsd.edu
 Fellowship: 
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/frederick_tan.JPG
 Template: person
 alumni_or_current: Current
 

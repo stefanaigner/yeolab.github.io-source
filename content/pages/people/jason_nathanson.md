@@ -4,7 +4,7 @@ Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: nathanson@ucsd.edu
 Fellowship: 
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/jason_nathanson.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Research Scientist, SD

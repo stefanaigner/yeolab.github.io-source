@@ -6,7 +6,7 @@ Affiliation: Bioinformatics and Systems Biology
 Email: boyko@ucsd.edu
 Fellowship: 
 Alumni_or_current: Alumni
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/boyko_kakaradov.jpg
 Template: person
 Current_position: Bioinformatics Scientist, Human Longevitiy Insititute, SD
 End_date: 2015-09-01

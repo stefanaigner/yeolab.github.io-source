@@ -6,7 +6,7 @@ Affiliation: Biological Sciences
 Email: tstark@ucsd.edu
 Fellowship: 
 Alumni_or_current: Alumni
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/thomas_stark.png
 Template: person
 Current_position: CDC, Atlanta, GA
 End_date: 2014-09-01
