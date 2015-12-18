@@ -220,8 +220,8 @@ Nature Structural and Molecular Biology
 
 * **A distinct microRNA signature for definitive endoderm derived from human embryonic stem cells.**  
 *Hinton A, Afrikanova I, Wilson M, King C, Maurer B, **Yeo G**, Hayek A, Pasquinelli A.*   
-Stem Cells Dev.     
-[[PDF](/papers/2009/Hinton_StemCellsDev_ 2009.pdf)]
+Stem Cells Dev.       
+[[PDF](/papers/2009/hinton_2009.pdf)]
 
 * **Genome-wide analysis of PTB-RNA interactions reveals a strategy used by the general splicing repressor to modulate exon inclusion or skipping.**  
 *Xue Y, Zhou Y, Wu T, Zhu T, Ji X, Kwon YS, Zhang C, **Yeo G**, Black DL, Sun H, Fu XD, Zhang Y.*   
@@ -268,95 +268,97 @@ PNAS
 * **Divergent transcription from active promoters.**  
 *Seila AC, Calabrese JM, Levine SS, **Yeo GW**, Rahl PB, Flynn RA, Young RA, Sharp PA.*   
 Science     
-[[PDF](/papers/2008/)]
+[[PDF](/papers/2008/Divergent_seila_2008.pdf)]
 
 * **The PIWI proteins SMEDWI2 and SMEDWI3 are required for stem cell function and piRNA expression in planarians.**  
 *Palakodeti D, Smielewska M, Liu Y, **Yeo G** * , Graveley BR *  ( * co-corresponding)*   
 Journal     
 [[PDF](/papers/2008/RNA_2008_Palakodeti_1174_86.pdf)]
 
+### 2007
+
 * **RNA sequence analysis defines Dicer’s role in mouse embryonic stem cells.**  
 *Calabrese JM, Seila AC, **Yeo GW**, Sharp PA.*   
 PNAS     
-[[PDF](/papers/2008/)]
+[[PDF](/papers/2007/CalabresePNAS07.pdf)]
 
 * **A regulator of dscam mutually exclusive splicing fidelity.**  
 *Olson S, Blanchette M, Park J, Savva Y, **Yeo G**, Yeakley J, Rio D, Graveley B.*
 Nature Structural and Molecular Biology     
-[[PDF](/papers/2008/)]
-
+[[PDF](/papers/2007/regulator_olson_2007.pdf)]
 
 * **Alternative events identified in human embryonic stem cells and neural progenitors.**  
  ***Yeo G** * , Xiang-dong X, Liang YT, Muotri AM, Carson C, Coufal N, Gage FH *  ( * co-corresponding)*   
 PLoS Computational Biology     
-[[PDF](/papers/2008/)]
+[[PDF](/papers/2007/Yeo_PlosCompBiol07.pdf)]
 
 * **Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements in mammalian genomes.**  
 ***Yeo G**, Van Nostrand E, Liang Y.T.*   
 PLoS Genetics     
-[[PDF](/papers/2008/)]
+[[PDF](/papers/2007/DiscoveryandAnalysis_2008.pdf)]
 
 * **Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters.**  
 *Zimmerman AM, **Yeo G**, Howe K, Maddox BJ, Steiner*   
 LA Dev. Computational Immunology     
-[[PDF](/papers/2008/)]
+[[PDF](/papers/2007/sdarticle.pdf)]
 
 * **The EJC factor eIFAIII modulates synaptic strength and neuronal protein expression.**  
 *Giorgi. C, **Yeo G**, Stone, ME, Katz, DB, Burge C, Turrigiano, C, Moore, MJ.*  
 Cell     
-[[PDF](/papers/2008/)]
+[[PDF](/papers/2007/CorinnaGiorgi_Cell_2007.pdf)]
+
 
 ### 2006
 
 * **Inference of splicing regulatory activities by sequence neighborhood analysis.**  
 *Stadler MB, Shomron N, **Yeo GW**, Schneider A, Xiao X, Burge CB*   
 PLoS Genetics     
-[[PDF](http://example.com)]
+[[PDF](/papers/2006/MichaelBS_Plosgenetics_2006.pdf)]
 
 ### 2005
 
 * **Combinatorial code for splicing silencing: UAGG and GGGG motifs.**  
 *Han K, **Yeo G**, An P, Burge CB and Grabowski P.*   
 PLoS Biology     
-[[PDF](http://example.com)]
+[[PDF](/papers/2005/KyounghaHan_plosonebio_2005.pdf)]
 
 * **Identification and analysis of alternative splicing events conserved in human and mouse.**  
 ***Yeo G** * , Van Nostrand, E Holste, D Poggio T, and Burge CB* ( * co-corresponding)*   
 PNAS     
-[[PDF](http://example.com)]
+[[PDF](/papers/2005/PNAS-2005-Yeo-2850-5.pdf)]
 
 ### 2004
 
 * **Systematic identification and analysis of exonic splicing silencers.**  
 *Wang Z, Rolish ME, **Yeo G**, Tung V, Mawson M, and Burge C.B.*   
 Cell     
-[[PDF](http://example.com)]
+[[PDF](/papers/2004/ZefengWang_Cell_2004.pdf)]
 
 * **Variation in alternative splicing across human tissues.**  
 ***Yeo G**, Holste D, Kreiman G, and Burge C.B.*   
 Genome Biology     
-[[PDF](http://example.com)]
+[[PDF](/papers/2004/YeoG_pnas-2004.pdf)]
 
 * **Variation in the splicing regulatory elements and their organization in vertebrate genomes.**  
 ***Yeo G**, Hoon S, Venkatesh B, and Burge C.B.*   
 PNAS     
-[[PDF](http://example.com)]
+[[PDF](/papers/2004/GeneY_Genomebio_2004.pdf)]
 
 * **RESCUE-ESE identifies candidate exonic splicing enhancers in vertebrate exons.**  
 *Fairbrother WG, **Yeo G**, Yeh R, Goldstein P, Mawson M, Sharp PA, Burge CB. *   
 Nucleic Acids Res.     
-[[PDF](http://example.com)]
+[[PDF](/papers/2004/Nucl.AcidsRes.-2004-Fairbrother-W187-90.pdf)]
 
 
 * **Maximum entropy modeling of short sequence motifs with applications to RNA splicing signals.**  
 ***Yeo G** and Burge,C.*   
 Journal of Computational Biology     
-[[PDF](http://example.com)]
+[[PDF](/papers/2004/yeoJCB.pdf)]
 
 * **Non-classical splicing mutations in the coding and non-coding regions of the ATM gene: a comparison of cDNA with maximum entropy estimates of splice junction strengths.**  
 *Eng L, Coutinho G, Nahas S, **Yeo G**, Tanouye R, Drk T, Burge C.B, and Gatti R.A.*   
 Human Mutation     
-[[PDF](http://example.com)]
+[[PDF](/papers/2004/Eng_et_al-2004-Human_Mutation.pdf)]
 
 
 ### 2003
@@ -364,4 +366,4 @@ Human Mutation
 * **Regularized least-squares classification.**  
 *Rifkin R, **Yeo G**, and Poggio, T.*   
 Advances in Learning Theory: Methods, Model and Applications, NATO Science Series III:  Computer and System Sciences, Vol. 190, ISO Press, Amsterdam     
-[[PDF](http://example.com)]
+[[PDF](/papers/2003/10.1.1.7.3463.pdf)]

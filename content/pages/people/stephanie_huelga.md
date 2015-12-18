@@ -5,7 +5,7 @@ Position_suffix: (Ph.D.)
 Affiliation: Bioinfomatics and Systems Biology
 Email: shsathe@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/stephanie_huelga.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Data Analysis Scientist, NuGEN

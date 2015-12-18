@@ -5,7 +5,7 @@ Position_suffix: Research Associated I
 Affiliation:
 Email: tbn006@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/thai_bao_nguyen.JPG
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA

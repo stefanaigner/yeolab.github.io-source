@@ -5,7 +5,7 @@ Position_suffix: Research Associated I
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/steven_blue.jpg
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA

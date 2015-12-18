@@ -5,7 +5,7 @@ Position_suffix: Staff Scientist
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/melody_chang.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Dental school at UCLA

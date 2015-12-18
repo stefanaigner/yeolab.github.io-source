@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/bernice_yan.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: UCSD, CA

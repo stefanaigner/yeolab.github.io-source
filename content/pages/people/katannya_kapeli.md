@@ -4,7 +4,7 @@ Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: kkapeli@ucsd.edu
 Fellowship: 
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/katannya_kapeli.png
 Template: person
 Alumni_or_current: Alumni
 Current_position:Senior Project Scientist, Natl Univ Singapore

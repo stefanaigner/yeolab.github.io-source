@@ -5,7 +5,7 @@ Position_suffix: Research Associate II
 Affiliation:
 Email: basundararaman@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/balaji_sundararaman.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: UCSD, CA

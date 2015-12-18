@@ -6,7 +6,7 @@ Affiliation: Biomedical Sciences
 Email: email@ucsd.edu
 Fellowship:
 Alumni_or_current: Alumni
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/anne_conway.jpg
 Template: person
 Current_position: San Diego, CA
 End_date: 2014-09-01

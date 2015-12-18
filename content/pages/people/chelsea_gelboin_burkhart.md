@@ -5,7 +5,7 @@ Position_suffix: Research Associated I
 Affiliation:
 Email: cgelboinburkhart@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/chelsea_gelboin_burkhart.jpg
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA

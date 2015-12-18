@@ -4,7 +4,7 @@ Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: kmassire@ucsd.edu
 Fellowship: 
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/katlin_massirer.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position:Professor, Univ of Campinas, São Paulo, Brazil

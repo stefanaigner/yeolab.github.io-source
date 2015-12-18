@@ -5,7 +5,7 @@ Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences Program
 Email: shsathe@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/melissa_wilbert.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Novartis, Boston, MA

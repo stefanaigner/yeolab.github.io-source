@@ -5,7 +5,7 @@ Position_suffix: (Ph.D.)
 Affiliation: Material Science and Engineering
 Email: dnelles@ucsd.edu
 Fellowship:  NSF Fellow
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /images/people/david_nelles.jpg
 Template: person
 Alumni_or_current: Current
 <!-- Status: draft -->
