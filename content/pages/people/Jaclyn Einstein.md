@@ -4,9 +4,9 @@ Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Bioengineering
 Email: jeinstei@ucsd.edu
-Fellowship: 
+Fellowship:
 Alumni_or_current: Current
-Headshot: /images/people/boyko_kakaradov.jpg
+Headshot: /yeolab_favicon.svg
 Template: person
 <!-- Status: draft -->
 

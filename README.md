@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 yeolab.github.io-source
 =======================
 
@@ -88,7 +87,7 @@ Only the year is used for the alumni page -->
 Date: 2013-06-01
 
 <!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow",
-"Graduate Student", "Staff", "Undergraduate Student"-->
+"Graduate Student", "Staff", "Undergraduate Student", "High School Student"-->
 Position: Graduate Student
 
 <!-- A suffix to add after the position. Mostly relevant for Staff Research
@@ -107,7 +106,7 @@ Email: obotvinn@ucsd.edu
 Leave out the word "Fellowship" -->
 Fellowship: NDSEG
 
-<!-- Location of the person's square headshot, relative to the folder "content/" -->
+<!-- Location of the person's square headshot, relative to the folder "content/" If someone doesn't have a photo, put "/yeolab_favicon.svg"-->
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 
 <!-- Whether they are currently in the lab or have moved on -->
@@ -143,15 +142,9 @@ Current_position: Novartis, Boston, MA
 End_date: 2014-11-01
 ```
 
+## Building and viewing the website
 
-### Debugging
-
-If you get the error, `CRITICAL: UndefinedError: 'page' is undefined`, double check that you have put individual "person" pages **only** in `content/pages/people`. If it's in `content/`  but not the subdirectory `people`, then Pelican will try to use the Article template instead of the Page template, leading to `page` being undefined.
-=======
-gbic-ucsd.github.io-source
-==========================
-
-To test the built website on your on:
+To test the built website on your computer, go to the `yeolab.github.io-source` directory and type:
 
 ```
 fab build
@@ -162,4 +155,31 @@ Go to http://localhost:8000 to see the built website.
 
 The `&` is to run the task in the background so you can edit the page and
 hit "refresh" when you rebuild, without having to re-serve.
->>>>>>> gbic-ucsd/master
+
+### Debugging
+
+If you get the error, `CRITICAL: UndefinedError: 'page' is undefined`, double check that you have put individual "person" pages **only** in `content/pages/people`. If it's in `content/`  but not the subdirectory `people`, then Pelican will try to use the Article template instead of the Page template, leading to `page` being undefined.
+
+### Organization
+
+#### `content` folder
+
+This folder contains most of the things that will be edited.
+
+#### `extras` folder
+
+This folder contains icons
+
+#### `people` folder
+
+This is a plugin written to auto-generate a people/team page based on the files in `content/pages/people`.
+
+
+#### `twenty-pelican-html5up` folder
+
+The folder `twenty-pelican-html5up` contains the templates for all pages. In the `twenty-pelican-html5up/templates` folder, these are the key files:
+
+* `index.html`: Raw content for the landing page. All HTML, no markdown
+* `person.html`: Template for an individual person's page (e.g. what Gene's page will link to)
+* `people.html`: Template for the people/team page
+* `page.html`: Template for all non-people pages, e.g. for funding, research, software

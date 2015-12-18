@@ -3,8 +3,8 @@ Date: 2008-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: khutt@ucsd.edu
-Fellowship: 
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Fellowship:
+Headshot: /yeolab_favicon.svg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Bioinformatics Scientist, Invivoscribe, SD
@@ -26,7 +26,7 @@ Concepcion D, Ross KD, **Hutt KR**, Yeo GW, Hamilton BA. PLoS genetics, 2015
 Targeted degradation of sense and antisense C9orf72 RNA foci as therapy for ALS and frontotemporal degeneration. Lagier-Tourenne C, Baughn M, Rigo F, Sun S, Liu P, Li HR, Jiang J, Watt AT, Chun S, Katz M, Qiu J, Sun Y, Ling SC, Zhu Q, Polymenidou M, Drenner K, Artates JW, McAlonis-Downes M, Markmiller S, **Hutt KR**, Pizzo DP, Cady J, Harms MB, Baloh RH, Vandenberg SR, Yeo GW, Fu XD, Bennett CF, Cleveland DW, Ravits J. PNAS, 2013
 
 Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect in processing long pre-mRNAs.
- Lagier-Tourenne C* , Polymenidou M * , **Hutt KR*** , Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY, Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & Yeo GW. Nature Neuroscience, 2012. 
+ Lagier-Tourenne C* , Polymenidou M * , **Hutt KR*** , Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY, Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & Yeo GW. Nature Neuroscience, 2012.
 
 LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance. Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, **Hutt KR**, Lovci MT, Kazan H, Vu AQ, Massirer KB, Morris Q, Hoon S, Yeo GW. Molecular Cell, 2012. [[Mol Cell](http://www.cell.com/molecular-cell/abstract/S1097-2765(12)00690-9)]
 
@@ -43,4 +43,3 @@ Garcia-Bassets, I., Y.S. Kwon, F. Telese, G.G. Prefontaine, **K.R. Hutt**, C.S. 
 Kwon, Y.S., I. Garcia-Bassets, **K.R. Hutt**, C.S. Cheng, M. Jin, D. Liu, C. Benner, D. Wang, Z. Ye, M. Bibikova, J.B. Fan, L. Duan, C.K. Glass, M.G. Rosenfeld, and X.D. Fu, Sensitive ChIP-DSL technology reveals an extensive estrogen receptor alpha-binding program on human gene promoters. Proc Natl Acad Sci U S A, 2007. 104(12): p. 4852-7 [[PMID: 17360330](http://www.ncbi.nlm.nih.gov/pubmed/17360330)]
 
 Formally acknowledged in B.R. Stallard, J.G. Taylor, Quantifying multivariate classification performance - the problem of overfitting, Proceedings of SPIE, 1999, 3753, p 48.
-
