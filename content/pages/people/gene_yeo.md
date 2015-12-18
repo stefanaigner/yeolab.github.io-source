@@ -1,4 +1,4 @@
-Title: Gene Yeo, Ph.D.
+Title: Gene Yeo
 Date: 2015-07-29 11:46
 Position: Principal Investigator
 Affiliation: Associate Professor (w/ tenure), UCSD
