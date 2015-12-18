@@ -1,11 +1,11 @@
 Title: Stella Chen
 Date: 2011-06-01
 Position: Undergraduate Student
-Position_suffix: 
+Position_suffix:
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/botvinnik_olga_headshot.jpeg
+Headshot: /yeolab_favicon.svg
 Template: person
 Alumni_or_current: Alumni
 Current_position: UCSD, CA
