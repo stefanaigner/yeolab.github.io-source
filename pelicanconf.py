@@ -61,7 +61,7 @@ RELATIVE_URLS = True
 
 THEME = "twenty-pelican-html5up"
 
-TAGLINE = "Dr. Gene Yeo's Laboratory at UC San Diego"
+TAGLINE = "Yeo Lab"
 DISQUS_SITENAME = "yeolab"
 
 TYPOGRIFY = True
@@ -70,9 +70,9 @@ TYPOGRIFY = True
 
 MENUITEMS = [('Research', '/research/'),
              ('Papers', '/papers/'),
-             ('People', '/people/'),
+            #  ('People', '/people/'),
              ('Photos', '/gallery/'),
-            #  ('Funding', '/funding/'),
+             ('Funding', '/funding/'),
             #  ('Collaborators', '/collaborators/'),
              ('Software', '/software/'),
             #  ('Blog', '/blog/'),
@@ -128,7 +128,9 @@ PEOPLE_POSITION_ORDER = [
     ('Post-Doctoral Fellows', 'Post-Doctoral Fellow'),
     ('Graduate Students', 'Graduate Student'),
     ('Staff', 'Staff'),
-    ('Undergraduate Students', 'Undergraduate Student')]
+    ('Undergraduate Students', 'Undergraduate Student'),
+    ('High School Students', 'High School Student'),
+    ]
 
 
 # Thumbnailer Configuration
