@@ -61,7 +61,7 @@ RELATIVE_URLS = True
 
 THEME = "twenty-pelican-html5up"
 
-TAGLINE = "Yeo Lab"
+TAGLINE = "#YEOLO"
 DISQUS_SITENAME = "yeolab"
 
 TYPOGRIFY = True
