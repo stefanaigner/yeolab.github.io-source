@@ -4,9 +4,9 @@ Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
 Email: mlovci@ucsd.edu
-Fellowship: 
+Fellowship:
 Alumni_or_current: Alumni
-Headshot: /images/people/mike_lovci.png
+Headshot: /images/people/mike_lovci.jpg
 Template: person
 Current_position: Univ of Campinas, São Paulo, Brazil
 End_date: 2014-09-01
@@ -30,7 +30,7 @@ Functional Genomic Analysis of the let-7 Regulatory Network in Caenorhabditis el
 
 LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance. Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, **Lovci MT**, Kazan H, Vu AQ, Massirer KB, Morris Q, Hoon S, Yeo GW. Molecular Cell, 2012. [[Mol Cell](http://www.cell.com/molecular-cell/abstract/S1097-2765(12)00690-9)]
 
-RNA-seq Analysis of Gene Expression and Alternative Splicing by Double-Random Priming Stratagy. **Lovci MT**, Li HR, Fu XD, Yeo GW. Methods in Molecular Biology, 2011. 
+RNA-seq Analysis of Gene Expression and Alternative Splicing by Double-Random Priming Stratagy. **Lovci MT**, Li HR, Fu XD, Yeo GW. Methods in Molecular Biology, 2011.
 
 Comprehensive discovery of endogenous Argonaute binding sites in Caenorhabditis elegans. Zisoulis DG, **Lovci MT**, Wilbert ML, Hutt KR, Liang YL, Pasquinelli AE, Yeo GW. Nature Structural and Molecular Biology, 2010. [[PMID: 20062054](http://www.ncbi.nlm.nih.gov/pubmed/20062054)]
 
