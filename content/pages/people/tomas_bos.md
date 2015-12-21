@@ -3,8 +3,8 @@ Date: 2015-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: Tbos@ucsd.edu
-Fellowship: 
-Headshot: /images/people/tomas_bos.png
+Fellowship:
+Headshot: /images/people/tomas_bos.jpg
 Template: person
 Alumni_or_current: Current
 

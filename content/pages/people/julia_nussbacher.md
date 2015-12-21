@@ -4,9 +4,9 @@ Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
 Email: jnussbac@ucsd.edu
-Fellowship: 
+Fellowship:
 Alumni_or_current: Current
-Headshot: /images/people/julia_nussbacher.png
+Headshot: /images/people/julia_nussbacher.jpg
 Template: person
 <!-- Status: draft -->
 
@@ -21,4 +21,3 @@ Julia Nussbacher received her undergraduate degree in Biochemistry from Brown Un
 
 ## Publications
 Jakob Axelsson,  Ding Xu,  Bit Na Kang,  **Julia K. Nussbacher**,  Tracy M Handel, Klaus Ley,  P Sriramarao,  and Jeffrey D. Esko. Inactivation of heparan sulfate 2-O-sulfotransferase accentuates neutrophil infiltration during acute inflammation in mice. Blood blood-2012-03-417139, 2012.
-

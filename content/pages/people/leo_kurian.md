@@ -4,7 +4,7 @@ Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: l1kurian@ucsd.edu
 Fellowship:
-Headshot: /images/people/leo_kurian.png
+Headshot: /images/people/leo_kurian.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Associate Professor, University of Cologne, Germany
