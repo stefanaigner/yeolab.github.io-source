@@ -117,7 +117,16 @@ they don't get a page :( -->
 Template: person
 ```
 
-#### Moving somebody to the Alumni page
+#### Notes about photos
+
+The headshot provided must be:
+
+* `.jpeg` or `.jpg` format, because `png`s get corrupted for some reason in building the website
+* **exactly square**, because if not square, your circle for your photo will be an oval
+* exactly 500x500 pixels, which will ensure maximum legibility on both high and low resolution screens.
+
+
+### Moving somebody to the Alumni page
 
 When moving somebody to the alumni page, you will need to change and add the following:
 
