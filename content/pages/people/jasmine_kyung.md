@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /yeolab_favicon.svg
+Headshot:
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA

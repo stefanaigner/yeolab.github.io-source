@@ -9,7 +9,7 @@ Headshot: /images/people/harrison_wang.jpg
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA
-End_date: 
+End_date:
 <!-- Status: draft -->
 
 ## Degrees

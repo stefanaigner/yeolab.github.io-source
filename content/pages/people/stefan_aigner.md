@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation: Cellular and Molecular Medicine
 Email: saigner@ucsd.edu
 Fellowship:
-Headshot: /yeolab_favicon.svg
+Headshot: 
 Template: person
 alumni_or_current: Current
 

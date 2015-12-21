@@ -6,7 +6,7 @@ Affiliation: Bioengineering
 Email: jeinstei@ucsd.edu
 Fellowship:
 Alumni_or_current: Current
-Headshot: /yeolab_favicon.svg
+Headshot: 
 Template: person
 <!-- Status: draft -->
 
