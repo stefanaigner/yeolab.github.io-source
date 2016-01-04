@@ -5,6 +5,16 @@ icon: mdi mdi-file-multiple
 # Papers
 
 ### 2015
+
+* **PPAR-δ is repressed in Huntington's disease, is required for normal neuronal function and can be targeted therapeutically.**  
+Dickey AS, Pineda VV, Tsunemi T, Liu PP, Miranda HC, Gilmore-Hall SK, Lomas N, Sampat KR, Buttgereit A, Torres MM, Flores AL, Arreola M, Arbez N, Akimov SS, Gaasterland T, Lazarowski ER, Ross CA, **Yeo GW**, Sopher BL, Magnuson GK, Pinkerton AB, Masliah E, La Spada AR.  
+Nat Med
+[[PDF](/papers/2015/PPAR-δ.pdf)] 
+
+* **A Gene Regulatory Network Cooperatively Controlled by Pdx1 and Sox9 Governs Lineage Allocation of Foregut Progenitor Cells.**  
+Shih HP, Seymour PA, Patel NA, Xie R, Wang A, Liu PP, **Yeo GW**, Magnuson MA, Sander M. 
+[[PDF](/papers/2015/A_Gene_Regulatory_cell.pdf)] 
+
 * **The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**
 *Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)*  
 Science  
