@@ -1,15 +1,15 @@
-Title: Eric Byeon
-Date: 2013-06-01
+Title: Kyle del Valle
+Date: 2015-06-01
 Position: Undergraduate Student
-Position_suffix:
+Position_suffix: 
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: 
+Headshot: /images/people/kyle_del_valle.jpg
 Template: person
-Alumni_or_current: Alumni
+Alumni_or_current: Current
 Current_position: UCSD, CA
-End_date:
+End_date: 
 <!-- Status: draft -->
 
 ## Degrees
