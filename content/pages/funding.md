@@ -15,23 +15,28 @@ icon: mdi mdi-currency-usd
 ## Grants
 
 ####Current:
-  * **R01 NS075449-03** </a><br> 
-  	[NIH/NINDS] 02/15/2012-01/31/2017
+  * **R01 NS075449-03**  
+  	*Defining the messenger RNP code in the brain*  
+  	[NIH/NINDS]   	
   	
-  * **U54HG007005-03** </a><br> 
-  	[NIH/NHGRI] 09/21/2012-08/31/2016
+  * **U54HG007005-03**  
+  	*Comprehensive analysis of functional RNA elements encoded in the human genome*  
+  	[NIH/NHGRI] 
   	
-  * **R01 HG004659-07**</a><br>
-  	[NATIONAL HUMAN GENOME RESEARCH INSTITUTE] 09/21/2012-08/31/2016
+  * **R01 HG004659-07**   
+  	*Functional RNA elements in the human genome*  
+  	[NATIONAL HUMAN GENOME RESEARCH INSTITUTE] 
   	
-  * **R01 AI095277-03S1** </a><br>
-  	[NIH/NIAID] 09/1/2014-8/31/16
+  * **R01 AI095277-03S1**  
+  	*Regulation and Function of Polarity and Asymmetric Cell Division in Immunity*  
+  	[NIH/NIAID] 
   	
-  * **U19 MH107369-01** </a><br>
-  	[NIH/NIMH] 07/01/15-06/30/20
+  * **U19 MH107369-01**  
+  	*Collaboration on preclinical autism cellular assays, biosignatures, and network analyses (Copacabana)*  
+  	[NIH/NIMH] 
   	
   * **ALSA** </a><br>
-  	01/01/16-12/31/18
+  	
 
 ## Post-Doctoral Fellows
 
