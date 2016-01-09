@@ -5,3 +5,9 @@ output/
 
 # Emacs files
 *~
+
+*.tar
+*.gz
+*.BED
+*.zip/
+papers/
