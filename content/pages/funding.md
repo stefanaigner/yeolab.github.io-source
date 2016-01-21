@@ -15,24 +15,20 @@ icon: mdi mdi-currency-usd
 ## Grants
 
 ###**Current:**
-  * **R01 NS075449-03** [NIH/NINDS]  
+  * **R01 NS075449-03** [NIH/NINDS]  (PI: Yeo)
   	*Defining the messenger RNP code in the brain* 
   	 
-  * **R01 HG004659-07** [NATIONAL HUMAN GENOME RESEARCH INSTITUTE]   
+  * **R01 HG004659-07** [NHGRI]   (PIs: Fu and Yeo)
   	*Functional RNA elements in the human genome*
   	
-  * **R01 AI095277-03S1** [NIH/NIAID]  
-  	*Regulation and Function of Polarity and Asymmetric Cell Division in Immunity*  
-  	
-  * **U54 HG007005-03** [NIH/NHGRI]   
+  * **U54 HG007005-03** [NIH/NHGRI]   (PI: Graveley)
   	*Comprehensive analysis of functional RNA elements encoded in the human genome*     	
   	
-  * **U19 MH107369-01** [NIH/NIMH]  
+  * **U19 MH107369-01** [NIH/NIMH]  (PI: Yeo)
   	*Collaboration on preclinical autism cellular assays, biosignatures, and network analyses (Copacabana)*  
-  	
-  * **ALSA** </a><br>
-  	
-
+  * ** ALS**  	
+  * **CIRM** 
+</a><br>
 ## Post-Doctoral Fellows
 
 * **Damon Runyon Fellowship**
