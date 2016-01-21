@@ -31,7 +31,7 @@ icon: mdi mdi-currency-usd
 <!-- The divs make a table of the fellowships, with 3 fellowships per row -->
 
 <div class="row">
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
     <a href="http://genetics.ucsd.edu/">Genetics Training Grant</a><br>
   </div>
@@ -46,7 +46,7 @@ icon: mdi mdi-currency-usd
   <a href="/people/melissa_wilbert">Melissa Wilbert</a><br>
   </div>
 </div>
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
     <a href="https://www.fastlane.nsf.gov/grfp/Login.do">NSF GRFP</a>
   </div>
@@ -61,7 +61,7 @@ Past:
     <a href="/people/david_nelles">David Nelles</a><br>
   </div>
 </div>
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
     <a href="http://sciencebridge.ucsd.edu/programs/socrates/">NSF GK12 Socrates Fellowship</a>
   </div>
@@ -70,9 +70,7 @@ Past:
     <a href="/people/mike_lovci">Michael Lovci</a><br>
   </div>
 </div>
-</div>
-<div class="row">
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
   <a href="https://www.arcsfoundation.org/">ARCS Award</a>
   </div>
@@ -86,16 +84,19 @@ Past:
     <a href="/people/stephanie_huelga">Stephanie Huelga</a><br>
   </div>
 </div>
-<div class="4u">
+</div>
+
+<div class="row">
+<div class="3u">
   <div class="fellowship-title">
     <a href="https://ndseg.asee.org/">NDSEG</a>
   </div>
 Current:
-<div class="fellowship-people">
-    <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
+  <div class="fellowship-people">
+      <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
+  </div>
 </div>
-</div>
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
   <a href="http://www.numfocus.org/john-hunter-technology-fellowship.html">NumFOCUS John Hunter Technology Fellowship</a>
   </div>
