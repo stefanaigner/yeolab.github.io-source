@@ -20,7 +20,7 @@ em{
   <header>
     <h3>Homeostasis in pluripotent stem cells</h3>
   </header>
-  <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+  <p>We study how RNA binding proteins and RNA modifications affect cellular homeostasis in human pluripotent stem cells.</p>
 </section>
 
   </div>
@@ -31,7 +31,7 @@ em{
   <header>
     <h3>Neural RNA binding proteins</h3>
   </header>
-  <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+  <p>We are interested in how defects in RNA binding proteins cause neurological disease, such as ALS.</p>
 </section>
 
   </div>
@@ -44,7 +44,7 @@ em{
   <header>
     <h3>RNA Processing</h3>
   </header>
-  <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+  <p>We study post-transcriptional processing of RNAs by multiple mechanisms.</p>
 </section>
 
   </div>
