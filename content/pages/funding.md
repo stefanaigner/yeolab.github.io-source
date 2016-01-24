@@ -26,8 +26,10 @@ icon: mdi mdi-currency-usd
   	
   * **U19 MH107369-01** [NIH/NIMH]  (PI: Yeo)
   	*Collaboration on preclinical autism cellular assays, biosignatures, and network analyses (Copacabana)*  
-  * ** ALS**  	
-  * **CIRM** 
+
+  * ** ALSA** (PI: Yeo) 
+        *Comprehensive analysis of RNA localization and transport mechanisms in wildtype and ALS motor neurons*
+
 </a><br>
 ## Post-Doctoral Fellows
 
