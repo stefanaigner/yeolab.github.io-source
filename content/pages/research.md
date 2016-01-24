@@ -55,7 +55,7 @@ em{
   <header>
     <h3>Single-cell analyses</h3>
   </header>
-  <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+  <p>We develop new computational approaches to decipher biological meaning from thousands of single-cell RNA-seq/proteomics data.</p>
 </section>
 
   </div>
