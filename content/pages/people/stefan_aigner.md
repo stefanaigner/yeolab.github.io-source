@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation: Cellular and Molecular Medicine
 Email: saigner@ucsd.edu
 Fellowship:
-Headshot: 
+Headshot: /images/people/Stefan_Aigner.jpg
 Template: person
 alumni_or_current: Current
 
