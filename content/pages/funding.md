@@ -28,7 +28,9 @@ icon: mdi mdi-currency-usd
 
 ## Graduate Students
 
-<!-- The divs make a table of the fellowships, with 3 fellowships per row -->
+<!-- The grid system we're using is 12 units wide -->
+<!-- Each div for a fellowship is of class "3u" which means 3 units wide -->
+<!-- Thus the divs make a table of the fellowships, with 4 fellowships per row -->
 
 <div class="row">
 <div class="3u">
