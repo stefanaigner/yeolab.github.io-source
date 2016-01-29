@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: 
+Headshot: /images/people/grace_chen.jpg
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA
