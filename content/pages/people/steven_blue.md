@@ -1,7 +1,7 @@
 Title: Steven Blue
 Date: 2013-06-01
 Position: Staff
-Position_suffix: Research Associated I
+Position_suffix: Research Associate I
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
