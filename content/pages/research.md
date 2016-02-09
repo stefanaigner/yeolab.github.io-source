@@ -27,7 +27,7 @@ em{
   <div class="6u">
 
 <section>
-  <a href="#neural-rbps" class="image feature"><img src="/images/pic02.jpg" alt="" /></a>
+  <a href="#neural-rbps" class="image feature"><img src="/images/research/neuron.png" alt="" /></a>
   <header>
     <h3>Neural RNA binding proteins</h3>
   </header>
