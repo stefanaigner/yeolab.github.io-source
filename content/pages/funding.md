@@ -56,6 +56,7 @@ icon: mdi mdi-currency-usd
   <div class="fellowship-people">
   <a href="/people/thomas_stark">Thomas Stark</a><br>
   <a href="/people/melissa_wilbert">Melissa Wilbert</a><br>
+  <a href="/people/fernando_martinez">Fernando Martinez</a><br>
   </div>
 </div>
 <div class="3u">
@@ -71,6 +72,7 @@ Past:
   <div class="fellowship-people">
     <a href="/people/stephanie_huelga">Stephanie Huelga</a><br>
     <a href="/people/david_nelles">David Nelles</a><br>
+    <a href="/people/boyko_kakaradov">Boyko Kakaradov</a><br>
   </div>
 </div>
 <div class="3u">
@@ -90,10 +92,12 @@ Current:
   <div class="fellowship-people">
     <a href="/people/gabriel_pratt">Gabriel Pratt</a><br>
     <a href="/people/david_nelles">David Nelles</a><br>
+    <a href="/people/julia_nussbacher">Julia Nussbacher</a><br>
   </div>
 Past:
   <div class="fellowship-people">
     <a href="/people/stephanie_huelga">Stephanie Huelga</a><br>
+    <a href="/people/mike_lovci">Michael Lovci</a><br>
   </div>
 </div>
 </div>
