@@ -6,7 +6,7 @@ Affiliation: UCSD School of Medicine
 Email: mfang@ucsd.edu
 Fellowship:
 Alumni_or_current: Current
-Headshot: 
+Headshot: /images/people/mark_fang.jpg
 Template: person
 <!-- Status: draft -->
 

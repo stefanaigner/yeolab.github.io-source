@@ -5,6 +5,17 @@ icon: mdi mdi-file-multiple
 # Papers
 
 ### 2015
+
+* **PPAR-δ is repressed in Huntington's disease, is required for normal neuronal function and can be targeted therapeutically.**  
+Dickey AS, Pineda VV, Tsunemi T, Liu PP, Miranda HC, Gilmore-Hall SK, Lomas N, Sampat KR, Buttgereit A, Torres MM, Flores AL, Arreola M, Arbez N, Akimov SS, Gaasterland T, Lazarowski ER, Ross CA, **Yeo GW**, Sopher BL, Magnuson GK, Pinkerton AB, Masliah E, La Spada AR.  
+Nature Medicine  
+[[PDF](/papers/2015/PPAR-δ.pdf)] 
+
+* **A Gene Regulatory Network Cooperatively Controlled by Pdx1 and Sox9 Governs Lineage Allocation of Foregut Progenitor Cells.**  
+Shih HP, Seymour PA, Patel NA, Xie R, Wang A, Liu PP, **Yeo GW**, Magnuson MA, Sander M.  
+Cell Reports  
+[[PDF](/papers/2015/A_Gene_Regulatory_cell.pdf)] 
+
 * **The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**
 *Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)*  
 Science  
@@ -83,13 +94,13 @@ Nature Immunology
 * **The dsRBP and inactive editor, ADR-1, utilizes dsRNA binding to regulate A-to-I RNA editing across the C. elegans transcriptome.**  
 *Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW** * , Hundley HA * . ( * co-corresponding) (+equal contribution)*  
 Cell Reports   
-[[PDF](/papers/2014/PIIS221112471400028X.pdf)]
+[[PDF](/papers/2014/PIIS221112471400028X.pdf)] [[Data](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51556)]
 
 ### 2013
 * **Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges.**  
 *Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman LT, Hoon S, Massirer KB, Pratt GA, Black DL, Gray JW, Conboy JG, **Yeo GW**.*  
 Nature Structural and Molecular Biology  
-[[PDF](/papers/2013/nsmb2699.pdf)]
+[[PDF](/papers/2013/nsmb2699.pdf)] [[Human fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP029987)] [[Mouse fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP030031)] [[Data](http://sauron.ucsd.edu/public_hubs/nsmb_fox_hub/index.html)] [[Hub](/papers/2013/hub.txt)]
 
 * **Coordinate Nodal and BMP inhibition directs Baf60c-dependent cardiomyocyte commitment.**  
 *Cai W, Albini S, Wei K, Willems E, Guzzo RM, Tsuda M, Giordani L, Spiering S, Kurian L, **Yeo GW**, Puri PL, Mercola M.*  
@@ -141,7 +152,7 @@ Human Molecular Genetics
 * **Circadian oscillations of protein-coding and regulatory RNAs in a highly dynamic mammalian liver epigenome.**  
 *Vollmers C, Schmitz RJ, Nathanson J, **Yeo GW**, Ecker JR, Panda S.*   
 Cell Metabolism     
-[[PDF](/papers/2012/Cell2012.pdf)]
+[[PDF](/papers/2012/Cell2012.pdf)] [[Data](/papers/2012/Vollmers_smRNA_data.zip)]
 
 * **Alternative Splicing of a Novel Inducible Exon Diversifies the CASK Guanylate Kinase Domain**  
 *Dembowski JA, An P, Scoulos-Hanson M, **Yeo G**, Han J, Fu XD, Grabowski PJ.*   
@@ -156,13 +167,13 @@ Frontiers in Neuroscience
 * **Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect in processing long pre-mRNAs.**  
 *Lagier-Tourenne C*, Polymenidou M*, Hutt KR*, Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY,Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & **Yeo GW**.*  
 Nature Neuroscience    
-[[PDF](/papers/2012/natureneuroscience_ALS_FUs_TLS_2012.pdf)]
+[[PDF](/papers/2012/natureneuroscience_ALS_FUs_TLS_2012.pdf)] [[News&Views](/papers/2012/Gitler_newsandviews_Nat_Neurosc_2012.pdf)]
 
 * **LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance.**  
 *Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H,
 Vu AQ, Massirer KB, Morris Q, Hoon S, **Yeo GW.***   
 Molecular Cell     
-[[PDF](/papers/2012/wilbert2012.pdf)]
+[[PDF](/papers/2012/wilbert2012.pdf)] [[ES CLIP Clusters](/papers/2012/LIN28ES_CLIPseq_clusters.BED.txt)] [[293 CLIP clusters](/papers/2012/LIN28V5_CLIPseq_clusters.BED.txt)]
 
 * **Misregulated RNA processing in amyotrophic lateral sclerosis.**  
 *Polymenidou M, Lagier-Tourenne C, Hutt KR, Bennett CF, Cleveland DW, **Yeo GW.** *   
@@ -172,7 +183,7 @@ Brain Research
 * **Integrative genome-wide analysis reveals cooperative regulation of alternative splicing by hnRNP proteins.**  
 *Huelga SC, Vu AQ, Arnold JD, Liang TY, Liu PP, Yan BY, Donohue JP, Shiue L, Hoon S, Brenner S, Ares M, **Yeo GW.** *   
 Cell Reports     
-[[PDF](/papers/2012/PIIS2211124712000435.pdf)]
+[[PDF](/papers/2012/PIIS2211124712000435.pdf)] [[RNAbind](http://rnabind.ucsd.edu)]
 
 * **High-resolution profiling and analysis of viral and host small RNAs during human cytomegalovirus infection.**  
 *Stark TJ, Arnold JD, Spector DH, **Yeo GW.** *   
@@ -186,12 +197,12 @@ Journal Virology
 *Polymenidou M * , Lagier-Tourenne C * , Hutt KR * , Huelga SC, Moran J, Liang TY, Ling SC, Sun E, Wancewicz E, Mazur C, Kordasiewicz H, Sedaghat Y, Donohue JP, Shiue L, Bennett CF, **Yeo GW** * , Cleveland DW ** ( * authors contributed
 equally, ** co-corresponding)*   
 Nature Neuroscience     
-[[PDF](/papers/2011/nn.2779.pdf)]
+[[PDF](/papers/2011/nn.2779.pdf)] [[Data](/papers/2011/TDP43data.zip)]
 
 * **RNA-seq analysis of gene expression and alternative splicing by double-random priming strategy.**  
 *Lovci MT, Li HR, Fu XD, Yeo GW.*   
 Methods in Molecular Biology     
-[[PDF](/papers/2011/LovciYeoRNA_seq.pdf)]
+[[PDF](/papers/2011/LovciYeoRNA_seq.pdf)] [[Example](/papers/2011/EXAMPLE-2.xls)]
 
 * **Genome-wide approaches in the study of microRNA biology.**  
 *Wilbert ML, **Yeo GW**.*   
@@ -213,7 +224,7 @@ The Cell Biology of Stem Cells. Meshorer E, Plath K (Eds.). Landes Biosciences
 * **Comprehensive discovery of endogenous argonaute binding sites in Caenorhabditis elegans.**  
 *Zisoulis DG, Lovci MT, Wilbert ML, Hutt KR, Liang YL, Pasquinelli AE, **Yeo GW**.*   
 Nature Structural and Molecular Biology     
-[[PDF](/papers/2010/nsmb.1745.pdf)]
+[[PDF](/papers/2010/nsmb.1745.pdf)] [[Fasta](/papers/2010/ALG1_MT-WT_raw.tar)] [[Data](/papers/2010/NSMB_012010.tar)] [[Array Data](/papers/2010/alg1_arraydata.zip)]
 
 
 ### 2009
@@ -251,7 +262,7 @@ RNA
 * **An RNA code for the FOX2 splicing regulator revealed by mapping RNA-protein interactions in stem cells.**  
 ***Yeo GW** *, Coufal, NG, Liang, TY, Peng GE, Fu, X-D*, Gage, FH * ( * co-corresponding)*   
 Nature Structural and Molecular Biology     
-[[PDF](/papers/2009/Yeo_RNA_code_for_the_FOX2_splicing.pdf)]
+[[PDF](/papers/2009/Yeo_RNA_code_for_the_FOX2_splicing.pdf)] [[Fasta](/papsrs/2009/Yeo_RNA_code_for_the_FOX2_splicing_Fasta.txt)] [[Data](/papers/2009/Yeo_RNA_code_for_the_FOX2_splicing_data.BED)]
 
 ### 2008
 
@@ -263,7 +274,7 @@ Encyclopedia of Life Sciences
 * **Determination of tag density required for digital transcriptome analysis: Application to an androgen-sensitive prostate cancer model.**  
 *Li H, Lovci MT, Kwon Y-S, Rosenfeld MG, Fu, X-D * , **Yeo GW** * ( * co-corresponding)*   
 PNAS     
-[[PDF](/papers/2008/Lovci_RNAseq_PNAS_2008.pdf)]
+[[PDF](/papers/2008/Lovci_RNAseq_PNAS_2008.pdf)] [[Data](/papers/2008/Lovci_RNAseq_PNAS_2008_data.tar)]
 
 * **Divergent transcription from active promoters.**  
 *Seila AC, Calabrese JM, Levine SS, **Yeo GW**, Rahl PB, Flynn RA, Young RA, Sharp PA.*   
@@ -290,7 +301,7 @@ Nature Structural and Molecular Biology
 * **Alternative events identified in human embryonic stem cells and neural progenitors.**  
  ***Yeo G** * , Xiang-dong X, Liang YT, Muotri AM, Carson C, Coufal N, Gage FH *  ( * co-corresponding)*   
 PLoS Computational Biology     
-[[PDF](/papers/2007/Yeo_PlosCompBiol07.pdf)]
+[[PDF](/papers/2007/Yeo_PlosCompBiol07.pdf)] [[Data](/papers/2007/Yeo_PlosCompBiol07_data.tar)]
 
 * **Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements in mammalian genomes.**  
 ***Yeo G**, Van Nostrand E, Liang Y.T.*   
@@ -300,7 +311,7 @@ PLoS Genetics
 * **Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters.**  
 *Zimmerman AM, **Yeo G**, Howe K, Maddox BJ, Steiner*   
 LA Dev. Computational Immunology     
-[[PDF](/papers/2007/sdarticle.pdf)]
+[[PDF](/papers/2007/sdarticle.pdf)] [[Data](/papers/2007DiscoveryandAnalysis_data_2007.tar)]
 
 * **The EJC factor eIFAIII modulates synaptic strength and neuronal protein expression.**  
 *Giorgi. C, **Yeo G**, Stone, ME, Katz, DB, Burge C, Turrigiano, C, Moore, MJ.*  

@@ -1,7 +1,7 @@
 Title: Thai Bao Nguyen
 Date: 2013-06-01
 Position: Staff
-Position_suffix: Research Associated I
+Position_suffix: Research Associate I
 Affiliation:
 Email: tbn006@ucsd.edu
 Fellowship:

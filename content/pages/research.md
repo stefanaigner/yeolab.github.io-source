@@ -20,18 +20,18 @@ em{
   <header>
     <h3>Homeostasis in pluripotent stem cells</h3>
   </header>
-  <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+  <p>We study how RNA binding proteins and RNA modifications affect cellular homeostasis in human pluripotent stem cells.</p>
 </section>
 
   </div>
   <div class="6u">
 
 <section>
-  <a href="#neural-rbps" class="image feature"><img src="/images/pic02.jpg" alt="" /></a>
+  <a href="#neural-rbps" class="image feature"><img src="/images/research/neuron.svg" alt="" /></a>
   <header>
     <h3>Neural RNA binding proteins</h3>
   </header>
-  <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+  <p>We are interested in how defects in RNA binding proteins cause neurological disease, such as ALS.</p>
 </section>
 
   </div>
@@ -44,7 +44,7 @@ em{
   <header>
     <h3>RNA Processing</h3>
   </header>
-  <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+  <p>We study post-transcriptional processing of RNAs by multiple mechanisms.</p>
 </section>
 
   </div>
@@ -55,7 +55,7 @@ em{
   <header>
     <h3>Single-cell analyses</h3>
   </header>
-  <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+  <p>We develop new computational approaches to decipher biological meaning from thousands of single-cell RNA-seq/proteomics data.</p>
 </section>
 
   </div>

@@ -14,16 +14,26 @@ icon: mdi mdi-currency-usd
 
 ## Grants
 
-* Current:
-  * NIH RO1
-  * CIRM
-  * NCRCRG COPACABANA
-* Past
-  * ??
+###**Current:**
+  * **R01 NS075449-03** [NIH/NINDS]  (PI: Yeo)
+  	*Defining the messenger RNP code in the brain* 
+  	 
+  * **R01 HG004659-07** [NHGRI]   (PIs: Fu and Yeo)
+  	*Functional RNA elements in the human genome*
+  	
+  * **U54 HG007005-03** [NIH/NHGRI]   (PI: Graveley)
+  	*Comprehensive analysis of functional RNA elements encoded in the human genome*     	
+  	
+  * **U19 MH107369-01** [NIH/NIMH]  (PI: Yeo)
+  	*Collaboration on preclinical autism cellular assays, biosignatures, and network analyses (Copacabana)*  
 
+  * ** ALSA** (PI: Yeo) 
+        *Comprehensive analysis of RNA localization and transport mechanisms in wildtype and ALS motor neurons*
+
+</a><br>
 ## Post-Doctoral Fellows
 
-* Damon Runyon Fellowship
+* **Damon Runyon Fellowship**
   * Current: [Eric Van Nostrand](/people/eric_van_nostrand)
 
 ## Graduate Students
