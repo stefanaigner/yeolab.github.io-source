@@ -16,7 +16,7 @@ em{
   <div class="6u">
 
 <section>
-  <a href="#stem-cells" class="image feature"><img src="/images/pic01.jpg" alt="" /></a>
+  <a href="#stem-cells" class="image feature"><img src="/images/research/pic2.png" alt="" /></a>
   <header>
     <h3>Homeostasis in pluripotent stem cells</h3>
   </header>

@@ -99,6 +99,12 @@ Current:
     <a href="/people/ron_batra">Ron Batra</a><br>
  </div>
 </div>
+<div class="3u">
+  <div class="fellowship-title">
+    <a href=""></a>
+  </div>
+ </div>
+</div>
 
 
 ## Graduate Students
