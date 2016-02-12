@@ -64,7 +64,7 @@ Current:
 </div>
 <div class="3u">
   <div class="fellowship-title">
-    <a href="http://ppfp.ucop.edu/info/">University of California President's Postdoctoral Fellowship</a>
+    <a href="http://ppfp.ucop.edu/info/">UC President's Postdoctoral Fellowship</a>
   </div>
 Current:
   <div class="fellowship-people">
