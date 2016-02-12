@@ -41,7 +41,7 @@ icon: mdi mdi-currency-usd
 <!-- The divs make a table of the fellowships, with 3 fellowships per row -->
 
 <div class="row">
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
     <a href="http://genetics.ucsd.edu/">Genetics Training Grant</a><br>
   </div>
@@ -57,7 +57,7 @@ icon: mdi mdi-currency-usd
   <a href="/people/fernando_martinez">Fernando Martinez</a><br>
   </div>
 </div>
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
     <a href="https://www.fastlane.nsf.gov/grfp/Login.do">NSF GRFP</a>
   </div>
@@ -73,7 +73,7 @@ Past:
     <a href="/people/boyko_kakaradov">Boyko Kakaradov</a><br>
   </div>
 </div>
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
     <a href="http://sciencebridge.ucsd.edu/programs/socrates/">NSF GK12 Socrates Fellowship</a>
   </div>
@@ -82,9 +82,7 @@ Past:
     <a href="/people/mike_lovci">Michael Lovci</a><br>
   </div>
 </div>
-</div>
-<div class="row">
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
   <a href="https://www.arcsfoundation.org/">ARCS Award</a>
   </div>
@@ -100,7 +98,9 @@ Past:
     <a href="/people/mike_lovci">Michael Lovci</a><br>
   </div>
 </div>
-<div class="4u">
+</div>
+<div class="row">
+<div class="3u">
   <div class="fellowship-title">
     <a href="https://ndseg.asee.org/">NDSEG</a>
   </div>
@@ -109,13 +109,31 @@ Current:
     <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
 </div>
 </div>
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
   <a href="http://www.numfocus.org/john-hunter-technology-fellowship.html">NumFOCUS John Hunter Technology Fellowship</a>
   </div>
 Current:
   <div class="fellowship-people">
     <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
+</div>
+</div>
+<div class="3u">
+  <div class="fellowship-title">
+  <a href="http://cancertraining.ucsd.edu/">Cancer Training Grand</a>
+  </div>
+Past:
+  <div class="fellowship-people">
+    <a href="/people/julia_nussbacher">Julia Nussbacher</a><br>
+</div>
+</div>
+<div class="3u">
+  <div class="fellowship-title">
+  <a href="https://www.cirm.ca.gov/our-funding/research-rfas/training-grant-i-1">CIRM pre-doc fellowship</a>
+  </div>
+Past:
+  <div class="fellowship-people">
+    <a href="/people/melissa_wilbert">Melissa Wilbert</a><br>
   </div>
 </div>
-</div>
+
