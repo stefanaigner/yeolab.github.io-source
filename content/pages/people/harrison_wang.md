@@ -13,7 +13,9 @@ End_date:
 <!-- Status: draft -->
 
 ## Degrees
-Coming Soon!
+B.S. Physics-Biophysics, B.S. Physiology and Neuroscience, UCSD, 2015
+
+
 ## Summary
 Coming Soon!
 ##Publications
