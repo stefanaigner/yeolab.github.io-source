@@ -1,8 +1,39 @@
 Title: Papers
-Date: 2015-09-21
+Date: 2016-03-11
 icon: mdi mdi-file-multiple
 
 # Papers
+### 2016
+* **Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**  
+Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, Yeo GW. **Yeo GW**.     
+Cell Reports    
+[[PDF]()] 
+
+* **Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
+Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.     
+Cell     
+[[PDF]()] 
+
+* **Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**  
+Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
+Nature Methods     
+[[PDF]()] 
+
+* **Resources for the comprehensive discovery of functional RNA elements.**  
+Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR, **Yeo GW**.     
+Molecular Cell   
+[[PDF]()] 
+
+* **Musashi-2 Postranscriptionally Attenuates Aryl Hydrocarbon Receptor Signaling to Expand Human Hematopoietic Stem Cells.**  
+Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW*** , Hope K*. ***Corresponding.**   
+Nature 
+[[PDF]()] 
+
+* **A small RNA-catalytic Argonaute pathway tunes germline transcript levels to ensure embryonic divisions.**  
+Gerson-Gurwitz A, Wang S, Sathe S, Green R, **Yeo GW**, Oegema K, Desai A.  
+Cell  
+[[PDF]()] 
+
 
 ### 2015
 
@@ -16,7 +47,7 @@ Shih HP, Seymour PA, Patel NA, Xie R, Wang A, Liu PP, **Yeo GW**, Magnuson MA, S
 Cell Reports  
 [[PDF](/papers/2015/A_Gene_Regulatory_cell.pdf)] 
 
-* **The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**
+* **The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**  
 *Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)*  
 Science  
 [[PDF](/papers/2015/Science-2015-Hung-science.aac7442.pdf)]  
@@ -176,17 +207,17 @@ Molecular Cell
 [[PDF](/papers/2012/wilbert2012.pdf)] [[ES CLIP Clusters](/papers/2012/LIN28ES_CLIPseq_clusters.BED.txt)] [[293 CLIP clusters](/papers/2012/LIN28V5_CLIPseq_clusters.BED.txt)]
 
 * **Misregulated RNA processing in amyotrophic lateral sclerosis.**  
-*Polymenidou M, Lagier-Tourenne C, Hutt KR, Bennett CF, Cleveland DW, **Yeo GW.** *   
+Polymenidou M, Lagier-Tourenne C, Hutt KR, Bennett CF, Cleveland DW, **Yeo GW.**    
 Brain Research     
 [[PDF](/papers/2012/Magdalini_Polymenidou.pdf)]
 
 * **Integrative genome-wide analysis reveals cooperative regulation of alternative splicing by hnRNP proteins.**  
-*Huelga SC, Vu AQ, Arnold JD, Liang TY, Liu PP, Yan BY, Donohue JP, Shiue L, Hoon S, Brenner S, Ares M, **Yeo GW.** *   
+Huelga SC, Vu AQ, Arnold JD, Liang TY, Liu PP, Yan BY, Donohue JP, Shiue L, Hoon S, Brenner S, Ares M, **Yeo GW.**    
 Cell Reports     
 [[PDF](/papers/2012/PIIS2211124712000435.pdf)] [[RNAbind](http://rnabind.ucsd.edu)]
 
 * **High-resolution profiling and analysis of viral and host small RNAs during human cytomegalovirus infection.**  
-*Stark TJ, Arnold JD, Spector DH, **Yeo GW.** *   
+Stark TJ, Arnold JD, Spector DH, **Yeo GW.**    
 Journal Virology     
 [[PDF](/papers/2012/JVirol_2012_Stark.pdf)]
 
@@ -200,7 +231,7 @@ Nature Neuroscience
 [[PDF](/papers/2011/nn.2779.pdf)] [[Data](/papers/2011/TDP43data.zip)]
 
 * **RNA-seq analysis of gene expression and alternative splicing by double-random priming strategy.**  
-*Lovci MT, Li HR, Fu XD, Yeo GW.*   
+*Lovci MT, Li HR, Fu XD, **Yeo GW**.*   
 Methods in Molecular Biology     
 [[PDF](/papers/2011/LovciYeoRNA_seq.pdf)] [[Example](/papers/2011/EXAMPLE-2.xls)]
 
