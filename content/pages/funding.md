@@ -72,7 +72,7 @@ Current:
  </div>
 </div>
 <div class="row">
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
     <a href="https://www.nhlbi.nih.gov/research/training/programs/postdoc/pathway-parent-k99-r00/">K99</a>
   </div>
@@ -81,7 +81,7 @@ Current:
     <a href="/people/ashleigh_schaffer">Ashleigh Schaffer</a><br>
 </div>
 </div>
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
     <a href="https://"> Blasker</a>
   </div>
@@ -90,7 +90,7 @@ Current:
     <a href="/people/tomas_bos">Tomas Bos</a><br>
  </div>
 </div>
-<div class="4u">
+<div class="3u">
   <div class="fellowship-title">
     <a href="https://www.mda.org/research/guidelines.html">MDA</a>
   </div>
@@ -104,14 +104,11 @@ Current:
 
 ## Graduate Students
 
-<<<<<<< HEAD
 <!-- The grid system we're using is 12 units wide -->
 <!-- Each div for a fellowship is of class "3u" which means 3 units wide -->
-<!-- Thus the divs make a table of the fellowships, with 4 fellowships per row -->
-=======
-<!-- The divs make a table of the fellowships, with 4 fellowships per row -->
->>>>>>> bad96c0fd7ee56cb5d7a21d90f033c778092a5d2
+<!-- Thus the divs make a table of the fellowships, with four (4) fellowships per row -->
 
+<!-- First row of four fellowships -->
 <div class="row">
 <div class="3u">
   <div class="fellowship-title">
@@ -168,6 +165,7 @@ Past:
 </div>
 </div>
 
+<!-- Second row of four fellowships -->
 <div class="row">
 <div class="3u">
   <div class="fellowship-title">
