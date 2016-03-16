@@ -34,168 +34,167 @@ icon: mdi mdi-currency-usd
 ## Post-Doctoral Fellows
 
 * **Damon Runyon Fellowship**
- <div class="row">
-<div class="3u">
-  <div class="fellowship-title">
-    <a href="https://www.damonrunyon.org">Damon Runyon Fellowship</a><br>
+<div class="row">
+  <div class="3u">
+      <div class="fellowship-title">
+        <a href="https://www.damonrunyon.org">Damon Runyon Fellowship</a><br>
+      </div>
+      Current:
+      <div class="fellowship-people">
+        <a href="/people/eric_van_nostrand">Eric Van Nostrand</a><br>
+      </div>
   </div>
-  Current:
-  <div class="fellowship-people">
-    <a href="/people/eric_van_nostrand">Eric Van Nostrand</a><br>
-</div>
-</div>
-<div class="3u">
-  <div class="fellowship-title">
-    <a href="http://">Hillbllom</a>
+  <div class="3u">
+    <div class="fellowship-title">
+      <a href="http://">Hillbllom</a>
+    </div>
+    Current:
+    <div class="fellowship-people">
+      <a href="/people/sebastian_markmiller">Sebastian</a><br>
+   </div>
   </div>
-Current:
-  <div class="fellowship-people">
-    <a href="/people/sebastian_markmiller">Sebastian</a><br>
- </div>
-</div>
-<div class="3u">
-  <div class="fellowship-title">
-    <a href="https://www.cirm.ca.gov/our-funding/research-rfas/training-grant-i-1">CIRM Post-Doc Fellowship</a>
+  <div class="3u">
+    <div class="fellowship-title">
+      <a href="https://www.cirm.ca.gov/our-funding/research-rfas/training-grant-i-1">CIRM Post-Doc Fellowship</a>
+    </div>
+    Current:
+    <div class="fellowship-people">
+      <a href="/people/kris_brannan">Kris Brannan</a><br>
+   </div>
   </div>
-Current:
-  <div class="fellowship-people">
-    <a href="/people/kris_brannan">Kris Brannan</a><br>
- </div>
-</div>
-<div class="3u">
-  <div class="fellowship-title">
-    <a href="http://ppfp.ucop.edu/info/">UC President's Postdoctoral Fellowship</a>
+  <div class="3u">
+    <div class="fellowship-title">
+      <a href="http://ppfp.ucop.edu/info/">UC President's Postdoctoral Fellowship</a>
+    </div>
+    Current:
+    <div class="fellowship-people">
+      <a href="/people/kris_brannan">Kris Brannan</a><br>
+    </div>
   </div>
-Current:
-  <div class="fellowship-people">
-    <a href="/people/kris_brannan">Kris Brannan</a><br>
-</div>
-</div>
-
 </div>
 <div class="row">
-<div class="4u">
-  <div class="fellowship-title">
-    <a href="https://www.nhlbi.nih.gov/research/training/programs/postdoc/pathway-parent-k99-r00/">K99</a>
+  <div class="4u">
+    <div class="fellowship-title">
+      <a href="https://www.nhlbi.nih.gov/research/training/programs/postdoc/pathway-parent-k99-r00/">K99</a>
+    </div>
+    Current:
+    <div class="fellowship-people">
+      <a href="/people/ashleigh_schaffer">Ashleigh Schaffer</a><br>
+    </div>
   </div>
-Current:
-<div class="fellowship-people">
-    <a href="/people/ashleigh_schaffer">Ashleigh Schaffer</a><br>
-</div>
-</div>
-<div class="4u">
-  <div class="fellowship-title">
-    <a href="https://"> Blasker</a>
+  <div class="4u">
+    <div class="fellowship-title">
+      <a href="https://"> Blasker</a>
+    </div>
+    Current:
+    <div class="fellowship-people">
+      <a href="/people/tomas_bos">Tomas Bos</a><br>
+    </div>
   </div>
-Current:
-  <div class="fellowship-people">
-    <a href="/people/tomas_bos">Tomas Bos</a><br>
- </div>
-</div>
-<div class="4u">
-  <div class="fellowship-title">
-    <a href="https://www.mda.org/research/guidelines.html">MDA</a>
+  <div class="4u">
+    <div class="fellowship-title">
+      <a href="https://www.mda.org/research/guidelines.html">MDA</a>
+    </div>
+    Current:
+    <div class="fellowship-people">
+      <a href="/people/ron_batra">Ron Batra</a><br>
+    </div>
   </div>
-Current:
-  <div class="fellowship-people">
-    <a href="/people/ron_batra">Ron Batra</a><br>
- </div>
- </div>
-
+</div>
 ## Graduate Students
 
 <!-- The divs make a table of the fellowships, with 4 fellowships per row -->
 
 <div class="row">
-<div class="3u">
-  <div class="fellowship-title">
-    <a href="http://genetics.ucsd.edu/">Genetics Training Grant</a><br>
-  </div>
-  Current:
-  <div class="fellowship-people">
-    <a href="/people/emily_wheeler">Emily Wheeler</a><br>
-    <a href="/people/gabriel_pratt">Gabriel Pratt</a><br>
-  </div>
-  Past:
-  <div class="fellowship-people">
-  <a href="/people/thomas_stark">Thomas Stark</a><br>
-  <a href="/people/melissa_wilbert">Melissa Wilbert</a><br>
-  </div>
-</div>
-<div class="3u">
-  <div class="fellowship-title">
-    <a href="https://www.fastlane.nsf.gov/grfp/Login.do">NSF GRFP</a>
-  </div>
-Current:
-  <div class="fellowship-people">
-    <a href="/people/leen_jamal_schafer">Leen Jamal Schafer</a><br>
-    <a href="/people/gabriel_pratt">Gabriel Pratt</a><br>
-  </div>
-Past:
-  <div class="fellowship-people">
-    <a href="/people/stephanie_huelga">Stephanie Huelga</a><br>
-    <a href="/people/david_nelles">David Nelles</a><br>
-  </div>
-</div>
-<div class="3u">
-  <div class="fellowship-title">
-    <a href="http://sciencebridge.ucsd.edu/programs/socrates/">NSF GK12 Socrates Fellowship</a>
-  </div>
-Past:
-  <div class="fellowship-people">
-    <a href="/people/mike_lovci">Michael Lovci</a><br>
-  </div>
-</div>
-<div class="3u">
-  <div class="fellowship-title">
-  <a href="https://www.arcsfoundation.org/">ARCS Award</a>
-  </div>
-Current:
-  <div class="fellowship-people">
-    <a href="/people/gabriel_pratt">Gabriel Pratt</a><br>
-    <a href="/people/david_nelles">David Nelles</a><br>
-  </div>
-Past:
-  <div class="fellowship-people">
-    <a href="/people/stephanie_huelga">Stephanie Huelga</a><br>
-  </div>
-</div>
+    <div class="3u">
+      <div class="fellowship-title">
+        <a href="http://genetics.ucsd.edu/">Genetics Training Grant</a><br>
+      </div>
+        Current:
+      <div class="fellowship-people">
+        <a href="/people/emily_wheeler">Emily Wheeler</a><br>
+        <a href="/people/gabriel_pratt">Gabriel Pratt</a><br>
+      </div>
+      Past:
+      <div class="fellowship-people">
+      <a href="/people/thomas_stark">Thomas Stark</a><br>
+      <a href="/people/melissa_wilbert">Melissa Wilbert</a><br>
+      </div>
+    </div>
+    <div class="3u">
+        <div class="fellowship-title">
+          <a href="https://www.fastlane.nsf.gov/grfp/Login.do">NSF GRFP</a>
+        </div>
+          Current:
+        <div class="fellowship-people">
+          <a href="/people/leen_jamal_schafer">Leen Jamal Schafer</a><br>
+          <a href="/people/gabriel_pratt">Gabriel Pratt</a><br>
+        </div>
+      Past:
+        <div class="fellowship-people">
+          <a href="/people/stephanie_huelga">Stephanie Huelga</a><br>
+          <a href="/people/david_nelles">David Nelles</a><br>
+        </div>
+    </div>
+    <div class="3u">
+        <div class="fellowship-title">
+          <a href="http://sciencebridge.ucsd.edu/programs/socrates/">NSF GK12 Socrates Fellowship</a>
+        </div>
+      Past:
+        <div class="fellowship-people">
+          <a href="/people/mike_lovci">Michael Lovci</a><br>
+        </div>
+    </div>
+    <div class="3u">
+        <div class="fellowship-title">
+        <a href="https://www.arcsfoundation.org/">ARCS Award</a>
+        </div>
+      Current:
+        <div class="fellowship-people">
+          <a href="/people/gabriel_pratt">Gabriel Pratt</a><br>
+          <a href="/people/david_nelles">David Nelles</a><br>
+        </div>
+      Past:
+        <div class="fellowship-people">
+          <a href="/people/stephanie_huelga">Stephanie Huelga</a><br>
+        </div>
+    </div>
 </div>
 <div class="row">
-<div class="3u">
-  <div class="fellowship-title">
-    <a href="https://ndseg.asee.org/">NDSEG</a>
-  </div>
-Current:
-<div class="fellowship-people">
-    <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
-</div>
-</div>
-<div class="3u">
-  <div class="fellowship-title">
-  <a href="http://www.numfocus.org/john-hunter-technology-fellowship.html">NumFOCUS John Hunter Technology Fellowship</a>
-  </div>
-Current:
-  <div class="fellowship-people">
-    <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
-</div>
-</div>
-<div class="3u">
-  <div class="fellowship-title">
-  <a href="http://cancertraining.ucsd.edu/">Cancer Training Grand</a>
-  </div>
-Past:
-  <div class="fellowship-people">
-    <a href="/people/julia_nussbacher">Julia Nussbacher</a><br>
-</div>
-</div>
-<div class="3u">
-  <div class="fellowship-title">
-  <a href="https://www.cirm.ca.gov/our-funding/research-rfas/training-grant-i-1">CIRM Pre-Doc Fellowship</a>
-  </div>
-Past:
-  <div class="fellowship-people">
-    <a href="/people/melissa_wilbert">Melissa Wilbert</a><br>
-  </div>
+    <div class="3u">
+      <div class="fellowship-title">
+        <a href="https://ndseg.asee.org/">NDSEG</a>
+      </div>
+    Current:
+    <div class="fellowship-people">
+        <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
+    </div>
+    </div>
+    <div class="3u">
+      <div class="fellowship-title">
+      <a href="http://www.numfocus.org/john-hunter-technology-fellowship.html">NumFOCUS John Hunter Technology Fellowship</a>
+      </div>
+    Current:
+      <div class="fellowship-people">
+        <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
+    </div>
+    </div>
+    <div class="3u">
+      <div class="fellowship-title">
+      <a href="http://cancertraining.ucsd.edu/">Cancer Training Grand</a>
+      </div>
+    Past:
+      <div class="fellowship-people">
+        <a href="/people/julia_nussbacher">Julia Nussbacher</a><br>
+    </div>
+    </div>
+    <div class="3u">
+      <div class="fellowship-title">
+      <a href="https://www.cirm.ca.gov/our-funding/research-rfas/training-grant-i-1">CIRM Pre-Doc Fellowship</a>
+      </div>
+    Past:
+      <div class="fellowship-people">
+        <a href="/people/melissa_wilbert">Melissa Wilbert</a><br>
+      </div>
 </div>
 
