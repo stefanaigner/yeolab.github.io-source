@@ -34,6 +34,7 @@ icon: mdi mdi-currency-usd
 ## Post-Doctoral Fellows
 
 * **Damon Runyon Fellowship**
+
 <div class="row">
   <div class="3u">
       <div class="fellowship-title">
@@ -73,7 +74,7 @@ icon: mdi mdi-currency-usd
   </div>
 </div>
 <div class="row">
-  <div class="4u">
+  <div class="3u">
     <div class="fellowship-title">
       <a href="https://www.nhlbi.nih.gov/research/training/programs/postdoc/pathway-parent-k99-r00/">K99</a>
     </div>
@@ -82,7 +83,7 @@ icon: mdi mdi-currency-usd
       <a href="/people/ashleigh_schaffer">Ashleigh Schaffer</a><br>
     </div>
   </div>
-  <div class="4u">
+  <div class="3u">
     <div class="fellowship-title">
       <a href="https://"> Blasker</a>
     </div>
@@ -91,7 +92,7 @@ icon: mdi mdi-currency-usd
       <a href="/people/tomas_bos">Tomas Bos</a><br>
     </div>
   </div>
-  <div class="4u">
+  <div class="3u">
     <div class="fellowship-title">
       <a href="https://www.mda.org/research/guidelines.html">MDA</a>
     </div>
@@ -101,6 +102,7 @@ icon: mdi mdi-currency-usd
     </div>
   </div>
 </div>
+
 ## Graduate Students
 
 <!-- The divs make a table of the fellowships, with 4 fellowships per row -->
