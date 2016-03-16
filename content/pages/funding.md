@@ -100,7 +100,7 @@ Current:
   <div class="fellowship-people">
     <a href="/people/ron_batra">Ron Batra</a><br>
  </div>
-
+ </div>
 
 ## Graduate Students
 
