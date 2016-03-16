@@ -16,18 +16,18 @@ icon: mdi mdi-currency-usd
 
 ###**Current:**
   * **R01 NS075449-03** [NIH/NINDS]  (PI: Yeo)
-  	*Defining the messenger RNP code in the brain*
-
+  	*Defining the messenger RNP code in the brain* 
+  	 
   * **R01 HG004659-07** [NHGRI]   (PIs: Fu and Yeo)
   	*Functional RNA elements in the human genome*
-
+  	
   * **U54 HG007005-03** [NIH/NHGRI]   (PI: Graveley)
   	*Comprehensive analysis of functional RNA elements encoded in the human genome*     	
-
+  	
   * **U19 MH107369-01** [NIH/NIMH]  (PI: Yeo)
   	*Collaboration on preclinical autism cellular assays, biosignatures, and network analyses (Copacabana)*  
 
-  * ** ALSA** (PI: Yeo)
+  * ** ALSA** (PI: Yeo) 
         *Comprehensive analysis of RNA localization and transport mechanisms in wildtype and ALS motor neurons*
 
 </a><br>
@@ -74,7 +74,7 @@ Current:
 
 </div>
 <div class="row">
-<div class="3u">
+<div class="4u">
   <div class="fellowship-title">
     <a href="https://www.nhlbi.nih.gov/research/training/programs/postdoc/pathway-parent-k99-r00/">K99</a>
   </div>
@@ -83,7 +83,7 @@ Current:
     <a href="/people/ashleigh_schaffer">Ashleigh Schaffer</a><br>
 </div>
 </div>
-<div class="3u">
+<div class="4u">
   <div class="fellowship-title">
     <a href="https://"> Blasker</a>
   </div>
@@ -92,7 +92,7 @@ Current:
     <a href="/people/tomas_bos">Tomas Bos</a><br>
  </div>
 </div>
-<div class="3u">
+<div class="4u">
   <div class="fellowship-title">
     <a href="https://www.mda.org/research/guidelines.html">MDA</a>
   </div>
@@ -104,11 +104,8 @@ Current:
 
 ## Graduate Students
 
-<!-- The grid system we're using is 12 units wide -->
-<!-- Each div for a fellowship is of class "3u" which means 3 units wide -->
-<!-- Thus the divs make a table of the fellowships, with four (4) fellowships per row -->
+<!-- The divs make a table of the fellowships, with 4 fellowships per row -->
 
-<!-- First row of four fellowships -->
 <div class="row">
 <div class="3u">
   <div class="fellowship-title">
@@ -164,17 +161,15 @@ Past:
   </div>
 </div>
 </div>
-
-<!-- Second row of four fellowships -->
 <div class="row">
 <div class="3u">
   <div class="fellowship-title">
     <a href="https://ndseg.asee.org/">NDSEG</a>
   </div>
 Current:
-  <div class="fellowship-people">
-      <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
-  </div>
+<div class="fellowship-people">
+    <a href="/people/olga_botvinnik">Olga Botvinnik</a><br>
+</div>
 </div>
 <div class="3u">
   <div class="fellowship-title">
@@ -203,3 +198,4 @@ Past:
     <a href="/people/melissa_wilbert">Melissa Wilbert</a><br>
   </div>
 </div>
+
