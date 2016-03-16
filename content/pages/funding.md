@@ -69,7 +69,9 @@ Current:
 Current:
   <div class="fellowship-people">
     <a href="/people/kris_brannan">Kris Brannan</a><br>
- </div>
+</div>
+</div>
+
 </div>
 <div class="row">
 <div class="3u">
@@ -98,8 +100,6 @@ Current:
   <div class="fellowship-people">
     <a href="/people/ron_batra">Ron Batra</a><br>
  </div>
-</div>
-
 
 
 ## Graduate Students

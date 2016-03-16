@@ -25,7 +25,7 @@ Molecular Cell
 [[PDF]()] 
 
 * **Musashi-2 Postranscriptionally Attenuates Aryl Hydrocarbon Receptor Signaling to Expand Human Hematopoietic Stem Cells.**  
-Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW*** , Hope K*. ***Corresponding.**   
+Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW*** , Hope K*. * **Corresponding.**   
 Nature 
 [[PDF]()] 
 
