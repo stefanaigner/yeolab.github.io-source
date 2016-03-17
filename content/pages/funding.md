@@ -33,8 +33,6 @@ icon: mdi mdi-currency-usd
 </a><br>
 ## Post-Doctoral Fellows
 
-* **Damon Runyon Fellowship**
-
 <div class="row">
   <div class="3u">
       <div class="fellowship-title">
@@ -103,8 +101,11 @@ icon: mdi mdi-currency-usd
   </div>
 </div>
 
-<br>
-<br>
+
+
+
+
+
 ## Graduate Students
 
 <!-- The divs make a table of the fellowships, with 4 fellowships per row -->
