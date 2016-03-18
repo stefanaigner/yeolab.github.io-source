@@ -5,11 +5,10 @@ Position_suffix: Research Associate I
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: 
+Headshot: /images/people/justin_arnold1.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: Grad school at Yale
-Headshot: /images/people/justin_arnold1.jpg
 End_date: 2011-09-01
 <!-- Status: draft -->
 
