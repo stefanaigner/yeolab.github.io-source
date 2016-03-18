@@ -9,7 +9,7 @@ Headshot:
 Template: person
 Alumni_or_current: Alumni
 Current_position: Grad school at Yale
-Headshot: /images/people/justin_arnold.jpg
+Headshot: /images/people/justin_arnold1.jpg
 End_date: 2011-09-01
 <!-- Status: draft -->
 
