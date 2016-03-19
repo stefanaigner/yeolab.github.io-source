@@ -20,8 +20,12 @@ David Nelles received his B.S. in Engineering Physics from the University of Pit
 
 ## Publications
 
+Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
+**Nelles DA**, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, Yeo GW  
+Cell, 2016. [[PDF](/papers/2016/nelles_rcas9_2016.pdf)] 
+
 Applications of Cas9 as an RNA-programmed RNA-binding protein. Nelles DA, Fang MY, Aigner S, Yeo GW
-Bioessays, 2015. [[Bioessays](http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/bies.201500001)]
+Bioessays, 2015. [[PDF](http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002/bies.201500001)]
 
 Intracellular mRNA Regulation with Self-Assembled Locked Nucleic Acid Polymer Nanoparticles
     Rush A, Nelles D, Blum A,  Barnhill S, Tatro E, Yeo G, Gianneschi NC. In: Journal of the American Chemical Society, 2014. [[JACS](http://pubs.acs.org/doi/abs/10.1021/ja503598z)]
