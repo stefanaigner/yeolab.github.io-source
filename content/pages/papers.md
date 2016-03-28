@@ -5,9 +5,9 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 * **Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**  
-Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, Yeo GW. **Yeo GW**.     
+Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, **Yeo GW**.     
 Cell Reports    
-[[PDF](/papers/2016/nmeth_eric_2016.pdf)] 
+[[PDF]()] 
 
 * **Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
 Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.     
@@ -18,7 +18,7 @@ Cell
 * **Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**  
 Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
 Nature Methods     
-[[PDF]()] 
+[[PDF](/papers/2016/nmeth_eric_2016.pdf)] 
 
 * **Resources for the comprehensive discovery of functional RNA elements.**  
 Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR, **Yeo GW**.     
