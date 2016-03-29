@@ -20,14 +20,14 @@ S.B. (Biology) Massachusetts Institute of Technology, 2005<br>
 Eric Van Nostrand received his S.B. in Biology from MIT in 2005, with research experience in Dr. Chris Burge’s lab on computational and experimental analysis of alternative splicing regulation. After spending a year with Dr. Fred Gage & Dr. Gene Yeo at the Salk Institute for Biological Studies, Eric attended Stanford University for graduate school, joining Dr. Stuart Kim’s lab. Eric’s thesis work focused on genomic, genetic, and molecular analysis of aging in *C. elegans*, identifying novel regulators of transcriptional changes with age that revealed links between developmental regulators and aging. As a part of this work, Eric identified transcription factor complexity (defined as the number of factors that bind to the same genomic loci) as a significant feature for biological interpretation of ChIP-seq data. Low-complexity binding sites tended to correlate with factor-responsive target expression, whereas analysis of HOT (highly occupied target regions) bound by 65% or more of factors revealed a potential novel regulatory mechanism for highly expressed, essential, ubiquitous genes. In 2013, Eric joined the Yeo lab to perform postdoctoral research on general RNA binding protein regulatory networks as well as identification and characterization of critical RNA binding proteins in neuronal stem cell maintenance and differentiation.
 
 ## Publications
-* Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites. 
-**Van Nostrand EL**, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, Yeo GW.  Nature Methods (2016)    
-[[PDF](/papers/2016/nmeth_eric_2016.pdf)]   
+* **Van Nostrand EL**, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, Yeo GW.   
+Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites. 
+Nature Methods (2016)[[PDF](/papers/2016/nmeth_eric_2016.pdf)]   
 
 
-* Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival. 
-Conway AE, **Van Nostrand EL**, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, Yeo GW. Cell Reports (2016)   
-[[PDF](/papers/2016/nmeth_eric_2016.pdf)] 
+* Conway AE, **Van Nostrand EL**, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, Yeo GW.   
+Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival. 
+ Cell Reports (2016) [[PDF](/papers/2016/nmeth_eric_2016.pdf)] 
 
 * **Van Nostrand, E.L.** & Kim, S.K. Integrative analysis of C. elegans modENCODE ChIP-seq datasets to infer transcription factor-responsive targets and upstream regulators of differentially-expressed genes from expression profiling experiments. Genome Research (26, 2013, doi:10.1101/gr.152876.112). [[PMID](http://genome.cshlp.org/content/early/2013/03/25/gr.152876.112.abstract)]
 
