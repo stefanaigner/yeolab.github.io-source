@@ -27,7 +27,7 @@ Molecular Cell
 
 * **Musashi-2 Postranscriptionally Attenuates Aryl Hydrocarbon Receptor Signaling to Expand Human Hematopoietic Stem Cells.**  
 Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW** * , Hope K * . * **Corresponding.**   
-Nature 
+Nature   
 [[PDF]()] 
 
 * **A small RNA-catalytic Argonaute pathway tunes germline transcript levels to ensure embryonic divisions.**  
@@ -56,7 +56,7 @@ Science
 * **Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity.**  
 *Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corresponding)*  
     Molecular Cell  
-    [[PDF](/papers/2015/Lee_molcell2015.pdf)]  
+    [[PDF](/papers/2015/Lee_molcell_2015.pdf)]  
 
 * **Applications of Cas9 as an RNA-programmed RNA-binding protein.**  
 *Nelles DA, Fang MY, Aigner S, **Yeo GW***  
@@ -87,12 +87,12 @@ Nature Communications
 * **Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**  
 *Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Ohno S, **Yeo GW**, Chang JT*  
 Journal of Immunology  
-[[PDF](http://example.com)]
+[PDF]
 
 * **Identification of novel long non-coding RNAs underlying vertebrate cardiovascular development**  
 *Kurian L, Aguirre A, Sancho-Martinez I, Benner C, Hishida T, Nguyen T, Reddy P, Nivet E, Krause MN, Nelles D, Esteban CR, Campistol J, **Yeo GW**, Belmonte JCI*  
 Circulation  
-[[PDF](/papers/2015/Circulation-2015-Kurian-1278-90)]
+[[PDF](/papers/2015/Circulation_2015.pdf)]
 
 
 ### 2014
@@ -338,7 +338,7 @@ PLoS Computational Biology
 * **Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements in mammalian genomes.**  
 ***Yeo G**, Van Nostrand E, Liang Y.T.*   
 PLoS Genetics     
-[[PDF](/papers/2007/DiscoveryandAnalysis_2008.pdf)]
+[[PDF](/papers/2007/DiscoveryandAnalysis_2007.pdf)]
 
 * **Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters.**  
 *Zimmerman AM, **Yeo G**, Howe K, Maddox BJ, Steiner*   
