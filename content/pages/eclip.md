@@ -1,6 +1,8 @@
-Title: Frequently asked questions about eCLIP
-Date: 2015-09-21
+Title: eCLIP
+Date: 2016-04-01
 icon: mdi mdi-paperclip
+
+# Frequently asked questions about eCLIP
 
 ## Do I need a lot of cells?
 

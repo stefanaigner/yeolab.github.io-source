@@ -1,6 +1,8 @@
-Title: Frequently Asked Questions
-Date: 2015-09-21
+Title: FAQ
+Date: 2016-04-01
 icon: mdi mdi-help-circle
+
+# Frequently asked questions
 
 ## I'm new to the lab.. what do I do?
 
