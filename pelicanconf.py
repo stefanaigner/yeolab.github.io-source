@@ -71,7 +71,7 @@ TYPOGRIFY = True
 MENUITEMS = [('Research', '/research/'),
              ('Papers', '/papers/'),
             #  ('People', '/people/'),
-             ('Photos', '/gallery/'),
+            #  ('Photos', '/gallery/'),
              ('Funding', '/funding/'),
             #  ('Collaborators', '/collaborators/'),
              ('Software', '/software/'),
