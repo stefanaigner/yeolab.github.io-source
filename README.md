@@ -173,7 +173,7 @@ hit "refresh" when you rebuild, without having to re-serve.
 
 ### Debugging
 
-If you get the error, `CRITICAL: UndefinedError: 'page' is undefined`, double check that you have put individual "person" pages **only** in `content/pages/people`. If it's in `content/`  but not the subdirectory `people`, then Pelican will try to use the Article template instead of the Page template, leading to `page` being undefined.
+If you get the error, `CRITICAL: UndefinedError: 'page' is undefined`, double check that you have put individual "person" pages **only** in `content/pages/people`. If it's in `content/`  but not the subdirectory `people`, then Pelican will try to use the Article template (Article = blog post) instead of the Page template (from which the "Person" template is derived), leading to `page` being undefined.
 
 ### Organization
 
