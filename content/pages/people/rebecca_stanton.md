@@ -1,7 +1,7 @@
 Title: Rebecca Stanton
 Date: 2013-06-01
 Position: Staff
-Position_suffix: Research Associated II
+Position_suffix: Research Associate II
 Affiliation:
 Email: rstanton@ucsd.edu
 Fellowship:

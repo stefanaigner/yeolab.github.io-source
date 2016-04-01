@@ -1,7 +1,7 @@
 Title: Tiffany Yujing Liang
 Date: 2008-06-01
 Position: Staff
-Position_suffix: Research Associated II, Lab Manarger
+Position_suffix: Research Associate II, Lab Manarger
 Affiliation:
 Email: yuliang@ucsd.edu
 Fellowship:
