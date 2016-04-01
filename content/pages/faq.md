@@ -15,7 +15,3 @@ Check out the [Getting started](http://yeolab.github.io/onboarding/getting_start
 ### How do I get my computational environment set up?
 
 Check out the [Getting started (drylab)](http://yeolab.github.io/onboarding/#getting-started-drylab) section of the onboarding website
-
-## eCLIP
-
-For questions about "enhanced crosslinking and immunopreciptiation" (eCLIP, from [Van Nostrand et al, *Nature Methods* 2016](http://yeolab.github.io/papers/2016/nmeth_eric_2016.pdf)), check out [this page](eclip).
