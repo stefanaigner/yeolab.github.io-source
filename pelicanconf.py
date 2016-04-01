@@ -75,7 +75,7 @@ MENUITEMS = [('Research', '/research/'),
              ('Funding', '/funding/'),
             #  ('Collaborators', '/collaborators/'),
              ('Software', '/software/'),
-            #  ('Blog', '/blog/'),
+             ('FAQ', '/faq/'),
 ]
 
 # IPython notebook blog posts
