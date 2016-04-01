@@ -44,6 +44,12 @@ fab build
 
 `fab` stands for `fabric` which is the system we use to "weave" together all of the components of the website.
 
+To remove the built folder (say you want to start fresh), do
+
+```
+fab build
+```
+
 ### Viewing the built website
 
 To see what the website would look like online, do
