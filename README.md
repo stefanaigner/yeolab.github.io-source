@@ -181,6 +181,24 @@ If you get the error, `CRITICAL: UndefinedError: 'page' is undefined`, double ch
 
 This folder contains most of the things that will be edited.
 
+##### `pages` folder
+
+This contains pages that you can put content in to. They are required to have a header like this:
+
+```
+Title: Funding
+Date: 2015-09-21
+icon: mdi mdi-currency-usd
+```
+
+* `Title`: This is the name of the folder that will be created for this content. In this example, this page is located at `yeolab.github.io/funding/`, **not** the name of the file (e.g. `funding.md`). You would link to it from another page with `[here's where you can find out more about funding](/funding/)`. So if in the file `funding.md`, your title was "Moolah" then the website builder would create `yeolab.github.io/moohah/` Moral of the story is, if your link isn't working, check the title!
+* `Date`: This is required for legacy reasons because the system we're using is actually a blogging system. I use the date the file was created
+* `icon`: This puts an icon at the top of the page. You can choose from any [Material Design](https://materialdesignicons.com/) icon. Notice that you have to say `mdi mdi-iconname` to specify the icon. This is because CSS is stupid. Say you wanted to use the `paperclip` icon, then you would put `mdi mdi-paperclip`.
+
+#### `people` folder
+
+This contains individual pages for each person. This is explained in depth in the [Adding People](#adding-people) section.
+
 #### `extras` folder
 
 This folder contains icons
