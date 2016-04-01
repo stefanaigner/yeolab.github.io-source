@@ -65,8 +65,7 @@ THEME = "twenty-pelican-html5up"
 DISQUS_SITENAME = "yeolab"
 
 TYPOGRIFY = True
-# GOOGLE_ANALYTICS = "UA-53680167-1"
-
+GOOGLE_ANALYTICS = "UA-75886209-1"
 
 MENUITEMS = [('Research', '/research/'),
              ('Papers', '/papers/'),
