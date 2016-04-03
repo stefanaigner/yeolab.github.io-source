@@ -3,6 +3,7 @@ branches:
   - master
 language: python
 python:
+  # Must be done on Python 2.7 for pydrive
 - 2.7
 install:
 - pip install -r requirements.txt
