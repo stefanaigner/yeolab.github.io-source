@@ -11,3 +11,5 @@ output/
 *.BED
 *.zip/
 
+# API key for Google Drive
+client_secret.json
