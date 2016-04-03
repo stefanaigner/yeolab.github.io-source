@@ -86,10 +86,7 @@ PLUGINS = [
     'people',
 
     # Make gallery pages
-    'gallery',
-
-    # Make 200x200 sizes of gallery images
-    'thumbnailer']
+    'gdrivegallery']
 # PLUGINS = ['ipynb']
 
 IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')),
