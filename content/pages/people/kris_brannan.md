@@ -4,18 +4,23 @@ Position: Post-Doctoral Fellow
 Position_suffix: Post-Doc
 Affiliation: Cellular and Molecular Medicine
 Email: kbrannan@ucsd.edu
-Fellowship: 
+Fellowship:
 Headshot: /images/people/kris_brannan.jpg
 Template: person
 alumni_or_current: Current
 
 ## Degrees
 
-Coming Soon!
+Ph.D. Molecular Biology, University of Colorado School of Medicine, 2014 <br>
+B.A. MCD Biology/ Biochemistry, University of Colorado at Boulder, 2007
 
 ## Summary
+Kristopher completed his B.A. in Biochemistry at the University of Colorado Boulder with Dr. Jens Lykke-Andersen’s lab, studying mammalian gene expression regulation by mRNA turnover.  Kristopher conducted his thesis research at the University of Colorado School of Medicine with Dr. David Bentley focusing on the molecular mechanisms of RNA Polymerase II (pol II) transcription termination and elongation in mammalian systems.  This research uncovered a role for termination factors at gene promoter regions, and showed that these factors cooperate with decapping factors in the nucleus to elicit widespread premature termination of transcription important for limiting pol II elongation away from promoter proximal pause regions.  In 2014 Kristopher began his postdoctoral research with the Yeo lab, focusing on protein-protein and protein-RNA interactions important for controlling mRNA fate in the context of neuronal development and neurodegenerative disease.  
 
-Coming Soon!
 ## Publications
 
-Coming Soon!
+Fong N, **Brannan K**, Erickson B, et al. Effects of Transcription Elongation Rate and Xrn2 Exonuclease Activity on RNA Polymerase II Termination Suggest Widespread Kinetic Competition. Mol Cell. 60(2):256-267. doi:10.1016/j.molcel.2015.09.026.
+
+**Brannan K**, Bentley DL. Control of Transcriptional Elongation by RNA Polymerase II: A Retrospective. Genet Res Int. 2012;2012:170173. http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3335475&tool=pmcentrez&rendertype=abstract.
+
+**Brannan K**, Kim H, Erickson B, et al. MRNA Decapping Factors and the Exonuclease Xrn2 Function in Widespread Premature Termination of RNA Polymerase II Transcription. Mol Cell. 2012;46(3):311-324.
