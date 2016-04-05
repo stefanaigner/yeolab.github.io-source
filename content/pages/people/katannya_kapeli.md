@@ -3,7 +3,7 @@ Date: 2013-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: kkapeli@ucsd.edu
-Fellowship: 
+Fellowship:
 Headshot: /images/people/katannya_kapeli.png
 Template: person
 Alumni_or_current: Alumni
@@ -21,11 +21,10 @@ RNA binding proteins in translational control and seeks to understand how disrup
 
 
 ## Publications
- **Kapeli K** and Yeo GW. Genome-wide approaches to dissect the roles of RNA binding proteins in translational control: implications for neurological diseases Frontiers in Neuroscience, 2012. 
+**Kapeli K** and Yeo GW. Genome-wide approaches to dissect the roles of RNA binding proteins in translational control: implications for neurological diseases Frontiers in Neuroscience, 2012.
 
- Wilbert MW, Huelga SC, **Kapeli K**, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H, Vu AQ, Massirer KB, Morris Q, Hoon S, Yeo GW. LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance. Molecular Cell, 2012. [[Mol Cell](http://www.cell.com/molecular-cell/abstract/S1097-2765(12)00690-9)]
+Wilbert MW, Huelga SC, **Kapeli K**, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H, Vu AQ, Massirer KB, Morris Q, Hoon S, Yeo GW. LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance. Molecular Cell, 2012. [[Mol Cell](http://www.cell.com/molecular-cell/abstract/S1097-2765(12)00690-9)]
 
 **Kapeli, K** and Hurlin PJ. Differential regulation of N-Myc and c-Myc synthesis, degradation, and transcriptional activity by the Ras/MAPK pathway. Journal of Biological Chemistry. 2011; 286(44):38498-38508.
 
 Maslen CL, Babcock D, Redig JK, **Kapeli K**, Akkari YM, Olson SB. CRELD2: Gene mapping, alternate splicing, and comparative genomic identification of the promoter region. Gene. 2008; 382:111-120.
-
