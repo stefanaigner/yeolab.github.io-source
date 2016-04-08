@@ -7,13 +7,14 @@ icon: mdi mdi-file-multiple
 * **Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**  
 Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, **Yeo GW**.     
 Cell Reports    
-[[PDF]()] 
+[[PDF](/papers/2016/anne_cell_reports_2016.pdf)] 
 
 * **Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
 Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.     
 Cell     
 [[PDF](/papers/2016/nelles_rcas9_2016.pdf)]
-[[Video](https://youtu.be/6vyomsWHgCo)] 
+[[Video](https://youtu.be/6vyomsWHgCo)]
+[[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
 
 * **Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**  
 Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
