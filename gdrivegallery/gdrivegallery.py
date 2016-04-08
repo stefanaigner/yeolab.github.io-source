@@ -20,7 +20,7 @@ CLIENT_SECRET_FILE = 'client_secret.json'
 APPLICATION_NAME = 'Drive API Python Quickstart'
 
 
-def get_credentials(flags=None):
+def get_credentials(commandline_flags=None):
     """Gets valid user credentials from storage.
 
     If nothing has been stored, or if the stored credentials are invalid,
@@ -41,8 +41,8 @@ def get_credentials(flags=None):
     if not credentials or credentials.invalid:
         flow = client.flow_from_clientsecrets(CLIENT_SECRET_FILE, SCOPES)
         flow.user_agent = APPLICATION_NAME
-        if flags:
-            credentials = tools.run_flow(flow, store, flags)
+        if commandline_flags:
+            credentials = tools.run_flow(flow, store, commandline_flags)
         else: # Needed only for compatibility with Python 2.6
             credentials = tools.run(flow, store)
         print('Storing credentials to ' + credential_path)
@@ -59,7 +59,7 @@ def generate_gallery_page(generator):
         if page.metadata.get('template') != 'gallery':
             continue
 
-        credentials = get_credentials(flags='--noauth_local_webserver')
+        credentials = get_credentials(commandline_flags='--noauth_local_webserver')
         http = credentials.authorize(httplib2.Http())
         service = discovery.build('drive', 'v3', http=http)
 
