@@ -6,7 +6,7 @@ Affiliation: Bioengineering
 Email: jeinstei@ucsd.edu
 Fellowship:
 Alumni_or_current: Current
-Headshot: 
+Headshot: /images/people/jaclyn_einstein.jpg
 Template: person
 <!-- Status: draft -->
 
