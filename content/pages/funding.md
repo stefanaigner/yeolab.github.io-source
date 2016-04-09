@@ -99,6 +99,15 @@ icon: mdi mdi-currency-usd
       <a href="/people/ron_batra">Ron Batra</a><br>
     </div>
   </div>
+  <div class="3u">
+    <div class="fellowship-title">
+      <a href="https://http://www.cancer.org.html">American Cancer Society Postdoc Fellowship</a>
+    </div>
+    Current:
+    <div class="fellowship-people">
+      <a href="/people/ron_batra">Frederick Tan</a><br>
+    </div>
+  </div>
 </div>
 
 
@@ -134,6 +143,7 @@ icon: mdi mdi-currency-usd
         <div class="fellowship-people">
           <a href="/people/leen_jamal_schafer">Leen Jamal Schafer</a><br>
           <a href="/people/gabriel_pratt">Gabriel Pratt</a><br>
+          <a href="/people/gabriel_pratt">Emily Wheeler</a><br>
         </div>
       Past:
         <div class="fellowship-people">
