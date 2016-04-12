@@ -24,7 +24,8 @@ Nature Methods
 * **Resources for the comprehensive discovery of functional RNA elements.**  
 Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR, **Yeo GW**.     
 Molecular Cell   
-[[PDF](/papers/2016/sundararaman_molcell_2016.pdf)] 
+[[PDF](/papers/2016/sundararaman_molcell_2016.pdf)]
+[[Hihglight in Nature Reviews genetics](/papers/2016/nrg_highlight_2016.pdf)]
 
 * **Musashi-2 Postranscriptionally Attenuates Aryl Hydrocarbon Receptor Signaling to Expand Human Hematopoietic Stem Cells.**  
 Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW** * , Hope K * . * **Corresponding.**   
