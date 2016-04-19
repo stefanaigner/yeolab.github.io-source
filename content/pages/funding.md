@@ -197,7 +197,7 @@ icon: mdi mdi-currency-usd
     </div>
     <div class="3u">
       <div class="fellowship-title">
-      <a href="http://cancertraining.ucsd.edu/">Cancer Training Grand</a>
+      <a href="http://cancertraining.ucsd.edu/">Cancer Training Grant</a>
       </div>
     Past:
       <div class="fellowship-people">
