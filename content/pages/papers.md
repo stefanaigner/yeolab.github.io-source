@@ -7,7 +7,7 @@ icon: mdi mdi-file-multiple
 * **Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**  
 Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, **Yeo GW**.     
 Cell Reports    
-[[PDF](/papers/2016/anne_cell_reports_2016.pdf)] 
+[[PDF](/papers/2016/anne_cell_reports_2016.pdf)]
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
 
 * **Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
@@ -16,29 +16,29 @@ Cell
 [[PDF](/papers/2016/nelles_rcas9_2016.pdf)]
 [[Video](https://youtu.be/6vyomsWHgCo)]
 [[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
-[[Hihglight in Nature Reviews genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
+[[Highlight in Nature Reviews genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
 
 * **Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**  
 Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
 Nature Methods     
-[[PDF](/papers/2016/nmeth_eric_2016.pdf)] 
+[[PDF](/papers/2016/nmeth_eric_2016.pdf)]
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
 
 * **Resources for the comprehensive discovery of functional RNA elements.**  
 Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR, **Yeo GW**.     
 Molecular Cell   
 [[PDF](/papers/2016/sundararaman_molcell_2016.pdf)]
-[[Hihglight in Nature Reviews genetics](/papers/2016/nrg_highlight_2016.pdf)]
+[[Highlight in Nature Reviews genetics](/papers/2016/nrg_highlight_2016.pdf)]
 
 * **Musashi-2 Postranscriptionally Attenuates Aryl Hydrocarbon Receptor Signaling to Expand Human Hematopoietic Stem Cells.**  
 Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW** * , Hope K * . * **Corresponding.**   
 Nature   
-[[PDF]()] 
+[[PDF]()]
 
 * **A small RNA-catalytic Argonaute pathway tunes germline transcript levels to ensure embryonic divisions.**  
 Gerson-Gurwitz A, Wang S, Sathe S, Green R, **Yeo GW**, Oegema K, Desai A.  
 Cell  
-[[PDF]()] 
+[[PDF]()]
 
 
 ### 2015
@@ -46,12 +46,12 @@ Cell
 * **PPAR-δ is repressed in Huntington's disease, is required for normal neuronal function and can be targeted therapeutically.**  
 Dickey AS, Pineda VV, Tsunemi T, Liu PP, Miranda HC, Gilmore-Hall SK, Lomas N, Sampat KR, Buttgereit A, Torres MM, Flores AL, Arreola M, Arbez N, Akimov SS, Gaasterland T, Lazarowski ER, Ross CA, **Yeo GW**, Sopher BL, Magnuson GK, Pinkerton AB, Masliah E, La Spada AR.  
 Nature Medicine  
-[[PDF](/papers/2015/PPAR-δ.pdf)] 
+[[PDF](/papers/2015/PPAR-δ.pdf)]
 
 * **A Gene Regulatory Network Cooperatively Controlled by Pdx1 and Sox9 Governs Lineage Allocation of Foregut Progenitor Cells.**  
 Shih HP, Seymour PA, Patel NA, Xie R, Wang A, Liu PP, **Yeo GW**, Magnuson MA, Sander M.  
 Cell Reports  
-[[PDF](/papers/2015/A_Gene_Regulatory_cell.pdf)] 
+[[PDF](/papers/2015/A_Gene_Regulatory_cell.pdf)]
 
 * **The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**  
 *Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)*  
