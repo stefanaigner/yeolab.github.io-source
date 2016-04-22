@@ -1,11 +1,11 @@
 Title: Links
-Date: 2016-04-01
+Date: 2016-04-21
 icon: mdi mdi-link
 
 ## FAQ
 
-[Frequently Asked Questions](faq/)
+[Frequently Asked Questions](/faq/)
 
 ## Meetings
 
-[2016 Meeting in Singapore](singapore-2016/)
+[2016 Meeting in Singapore](/singapore-2016/)
