@@ -10,9 +10,9 @@ icon: mdi mdi-cookie
 
 ![](http://www2.convention.co.jp/rna2016/images/head_top.png)
 
-### Dates
+### Date
 
-July 50th-75th
+July 5, 2016
 
 ### Accomodation
 
