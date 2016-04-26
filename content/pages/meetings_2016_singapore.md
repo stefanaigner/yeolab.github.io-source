@@ -14,13 +14,11 @@ icon: mdi mdi-cookie
 
 July 5, 2016
 
-### Accomodation
-
-You can stay at Gene's house!
-
 ### Location
 
-THe food court
+National University of Singapore
+Center for Life Sciences
+Auditorium (First floor)
 
 ### Registration
 
