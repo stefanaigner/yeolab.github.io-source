@@ -1,4 +1,4 @@
-Title: Singapore 2016
+Title: SingaRAN Symposium 2016
 Date: 2016-04-21
 icon: mdi mdi-cookie
 
