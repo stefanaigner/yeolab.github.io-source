@@ -4,6 +4,12 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2016
+* **Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**  
+Stefan Rentas,	Nicholas T. Holzapfel,	Muluken S. Belew, Gabriel A. Pratt,	Veronique Voisin, Brian T. Wilhelm, Gary D. Bader, **Gene W. Yeo**, Kristin J. Hope  
+Nature  
+[[PDF](/papers/2016/gabe_nature_2016.pdf)]
+[[News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
+
 * **Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**  
 Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, **Yeo GW**.     
 Cell Reports    
