@@ -23,6 +23,7 @@ Cell
 [[Video](https://youtu.be/6vyomsWHgCo)]
 [[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
 [[Highlight in Nature Reviews genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
+[[F1000Prime Recommended](http://f1000.com/prime/726227831?bd=1)]
 
 * **Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**  
 Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
