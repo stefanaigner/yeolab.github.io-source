@@ -8,4 +8,4 @@ icon: mdi mdi-link
 
 ## Meetings
 
-[2016 Meeting in Singapore](http://yeolab.github.io/singapore-2016/)
+[SingaRNA Symposium 2016](http://yeolab.github.io/SingaRNA Symposium 2016/)
