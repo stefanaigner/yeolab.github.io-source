@@ -23,3 +23,5 @@ Auditorium (First floor)
 ### Registration
 
 Register your abstract with this [google form](http://example.com)
+
+### [Speaker Bios](http://yeolab.github.io/singarna-2016-speaker-bios)
