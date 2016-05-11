@@ -15,6 +15,7 @@ Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Free
 Cell Reports    
 [[PDF](/papers/2016/anne_cell_reports_2016.pdf)]
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
+[[News](http://www.biotechniques.com/news/eCLIPsing-CLIP-RNA-Protein-Interactions-Revealed/biotechniques-364116.html#.VzI2ZmNqlZU)]
 
 * **Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
 Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.     
@@ -67,9 +68,9 @@ Science
 [[PDF](/papers/2015/Science-2015-Hung-science.aac7442.pdf)]  
 
 * **Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity.**  
-*Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corresponding)*  
-    Molecular Cell  
-    [[PDF](/papers/2015/Lee_molcell_2015.pdf)]  
+*Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corresponding)*    
+Molecular Cell  
+[[PDF](/papers/2015/Lee_molcell_2015.pdf)]  
 
 * **Applications of Cas9 as an RNA-programmed RNA-binding protein.**  
 *Nelles DA, Fang MY, Aigner S, **Yeo GW***  
