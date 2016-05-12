@@ -15,7 +15,7 @@ Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Free
 Cell Reports    
 [[PDF](/papers/2016/anne_cell_reports_2016.pdf)]
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
-[[News](http://www.biotechniques.com/news/eCLIPsing-CLIP-RNA-Protein-Interactions-Revealed/biotechniques-364116.html#.VzI2ZmNqlZU)]
+
 
 * **Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
 Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.     
@@ -32,6 +32,7 @@ Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman
 Nature Methods     
 [[PDF](/papers/2016/nmeth_eric_2016.pdf)]
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
+[[News](http://www.biotechniques.com/news/eCLIPsing-CLIP-RNA-Protein-Interactions-Revealed/biotechniques-364116.html#.VzI2ZmNqlZU)]
 
 * **Resources for the comprehensive discovery of functional RNA elements.**  
 Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR, **Yeo GW**.     
