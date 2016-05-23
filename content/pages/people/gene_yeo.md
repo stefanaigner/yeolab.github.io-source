@@ -1,7 +1,7 @@
 Title: Gene Yeo
 Date: 2015-07-29 11:46
 Position: Principal Investigator
-Affiliation: Associate Professor (w/ tenure), UCSD
+Affiliation: Professor (w/ tenure), UCSD
 Email: geneyeo@ucsd.edu
 Template: person
 Alumni_or_current: Current
@@ -10,7 +10,7 @@ Headshot: /images/people/gene_yeo.png
 <!-- Status: draft -->
 
 ## Degrees
-[[CV](/papers/2016/YeoCV_ucsd_Jan2016_withBlurb.pdf)] <br>
+[[CV](/papers/2016/YeoCV_ucsd_May2016_withBlurb.pdf)] <br>
 MBA, University of California, San Diego, 2008<br>
 Ph.D., Computational Neuroscience, MIT, 2005<br>
 B.S., Chemical Engineering, University of Illinois, Urbana-Champaign 1998<br>

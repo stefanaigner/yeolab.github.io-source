@@ -4,11 +4,18 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2016
+* **Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**  
+Stefan Rentas,	Nicholas T. Holzapfel,	Muluken S. Belew, Gabriel A. Pratt,	Veronique Voisin, Brian T. Wilhelm, Gary D. Bader, **Gene W. Yeo**, Kristin J. Hope  
+Nature  
+[[PDF](http://www.nature.com/nature/journal/v532/n7600/full/nature17665.html)]
+[[News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
+
 * **Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**  
 Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, **Yeo GW**.     
 Cell Reports    
 [[PDF](/papers/2016/anne_cell_reports_2016.pdf)]
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
+
 
 * **Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
 Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.     
@@ -16,13 +23,16 @@ Cell
 [[PDF](/papers/2016/nelles_rcas9_2016.pdf)]
 [[Video](https://youtu.be/6vyomsWHgCo)]
 [[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
-[[Highlight in Nature Reviews genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
+[[F1000Prime Recommended](http://f1000.com/prime/726227831?bd=1)]   
+[[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
+[[Highlight in Nature Methods](/papers/2016/nave_hihglights_2016.pdf)]
 
 * **Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**  
 Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
 Nature Methods     
 [[PDF](/papers/2016/nmeth_eric_2016.pdf)]
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
+[[News](http://www.biotechniques.com/news/eCLIPsing-CLIP-RNA-Protein-Interactions-Revealed/biotechniques-364116.html#.VzI2ZmNqlZU)]
 
 * **Resources for the comprehensive discovery of functional RNA elements.**  
 Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR, **Yeo GW**.     
@@ -59,9 +69,9 @@ Science
 [[PDF](/papers/2015/Science-2015-Hung-science.aac7442.pdf)]  
 
 * **Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity.**  
-*Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corresponding)*  
-    Molecular Cell  
-    [[PDF](/papers/2015/Lee_molcell_2015.pdf)]  
+*Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corresponding)*    
+Molecular Cell  
+[[PDF](/papers/2015/Lee_molcell_2015.pdf)]  
 
 * **Applications of Cas9 as an RNA-programmed RNA-binding protein.**  
 *Nelles DA, Fang MY, Aigner S, **Yeo GW***  

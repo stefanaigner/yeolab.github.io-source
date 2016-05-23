@@ -1,4 +1,4 @@
-Title: Singapore 2016
+Title: SingaRNA Symposium 2016
 Date: 2016-04-21
 icon: mdi mdi-cookie
 
@@ -10,18 +10,20 @@ icon: mdi mdi-cookie
 
 ![](http://www2.convention.co.jp/rna2016/images/head_top.png)
 
-### Dates
+### Date
 
-July 50th-75th
-
-### Accomodation
-
-You can stay at Gene's house!
+July 5, 2016
 
 ### Location
 
-THe food court
+National University of Singapore
+Center for Life Sciences
+Auditorium (First floor)
 
 ### Registration
 
 Register your abstract with this [google form](http://example.com)
+
+### Schedule
+
+You can find the speaker bios [here](http://yeolab.github.io/singarna-2016-speaker-bios).

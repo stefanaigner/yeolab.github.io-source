@@ -83,7 +83,7 @@ icon: mdi mdi-currency-usd
   </div>
   <div class="3u">
     <div class="fellowship-title">
-      <a href="https://"> Blasker</a>
+      <a href="https://www.baef.be/"> Belgian American Education Foundation</a>
     </div>
     Current:
     <div class="fellowship-people">
