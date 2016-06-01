@@ -4,11 +4,18 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2016
+<<<<<<< HEAD
 * **Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.**  
 Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
 Cell Reports  
 [[PDF](/papers/2016/Olga_2016_cellreports.pdf)]
 
+=======
+
+* **Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.** Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
+Cell Reports.
+[[PDF](/papers/2016/Nutter_CellReports_2016.pdf)]
+>>>>>>> origin/master
 
 * **Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**  
 Stefan Rentas,	Nicholas T. Holzapfel,	Muluken S. Belew, Gabriel A. Pratt,	Veronique Voisin, Brian T. Wilhelm, Gary D. Bader, **Gene W. Yeo**, Kristin J. Hope  
