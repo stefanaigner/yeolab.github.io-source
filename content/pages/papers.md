@@ -4,18 +4,11 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2016
-<<<<<<< HEAD
-* **Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.**  
-Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
-Cell Reports  
-[[PDF](/papers/2016/Olga_2016_cellreports.pdf)]
-
-=======
 
 * **Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.** Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
 Cell Reports.
 [[PDF](/papers/2016/Nutter_CellReports_2016.pdf)]
->>>>>>> origin/master
+
 
 * **Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**  
 Stefan Rentas,	Nicholas T. Holzapfel,	Muluken S. Belew, Gabriel A. Pratt,	Veronique Voisin, Brian T. Wilhelm, Gary D. Bader, **Gene W. Yeo**, Kristin J. Hope  
@@ -35,10 +28,10 @@ Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.
 Cell     
 [[PDF](/papers/2016/nelles_rcas9_2016.pdf)]
 [[Video](https://youtu.be/6vyomsWHgCo)]
-[[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
-[[F1000Prime Recommended](http://f1000.com/prime/726227831?bd=1)]   
+[[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)] 
 [[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
 [[Highlight in Nature Methods](/papers/2016/nave_hihglights_2016.pdf)]
+ <a href="http://f1000.com/prime/726227831?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * **Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**  
 Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
