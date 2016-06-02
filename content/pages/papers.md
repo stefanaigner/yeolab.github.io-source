@@ -28,7 +28,7 @@ Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.
 Cell     
 [[PDF](/papers/2016/nelles_rcas9_2016.pdf)]
 [[Video](https://youtu.be/6vyomsWHgCo)]
-[[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)] 
+[[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]   
 [[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
 [[Highlight in Nature Methods](/papers/2016/nave_hihglights_2016.pdf)]
  <a href="http://f1000.com/prime/726227831?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
