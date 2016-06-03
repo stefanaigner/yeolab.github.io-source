@@ -207,7 +207,7 @@ Develop. Growth Differ.
 Human Molecular Genetics     
 [[PDF](/papers/2012/hummolgenet_2012.pdf)]
 
-* **Circadian oscillations of protein-coding and regulatory RNAs in a highly dynamic mammalian liver epigenome.**  
+* **Circadian oscillations of protein-coding and regulatory RNAs in a highly dynamic mammalian liver epigenome.**   
 *Vollmers C, Schmitz RJ, Nathanson J, **Yeo GW**, Ecker JR, Panda S.*   
 Cell Metabolism     
 [[PDF](/papers/2012/Cell2012.pdf)] [[Data](/papers/2012/Vollmers_smRNA_data.zip)]
@@ -232,7 +232,9 @@ Nature Neuroscience
 *Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H,
 Vu AQ, Massirer KB, Morris Q, Hoon S, **Yeo GW.***   
 Molecular Cell     
-[[PDF](/papers/2012/wilbert2012.pdf)] [[ES CLIP Clusters](/papers/2012/LIN28ES_CLIPseq_clusters.BED.txt)] [[293 CLIP clusters](/papers/2012/LIN28V5_CLIPseq_clusters.BED.txt)]
+[[PDF](/papers/2012/wilbert2012.pdf)]
+<a href="http://f1000.com/prime/717964369"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
+[[ES CLIP Clusters](/papers/2012/LIN28ES_CLIPseq_clusters.BED.txt)] [[293 CLIP clusters](/papers/2012/LIN28V5_CLIPseq_clusters.BED.txt)]
 
 * **Misregulated RNA processing in amyotrophic lateral sclerosis.**  
 Polymenidou M, Lagier-Tourenne C, Hutt KR, Bennett CF, Cleveland DW, **Yeo GW.**    
@@ -257,6 +259,7 @@ Journal Virology
 equally, ** co-corresponding)*   
 Nature Neuroscience     
 [[PDF](/papers/2011/nn.2779.pdf)] [[Data](/papers/2011/TDP43data.zip)]
+<a href="http://f1000.com/prime/10067966"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * **RNA-seq analysis of gene expression and alternative splicing by double-random priming strategy.**  
 *Lovci MT, Li HR, Fu XD, **Yeo GW**.*   
@@ -284,6 +287,12 @@ The Cell Biology of Stem Cells. Meshorer E, Plath K (Eds.). Landes Biosciences
 *Zisoulis DG, Lovci MT, Wilbert ML, Hutt KR, Liang YL, Pasquinelli AE, **Yeo GW**.*   
 Nature Structural and Molecular Biology     
 [[PDF](/papers/2010/nsmb.1745.pdf)] [[Fasta](/papers/2010/ALG1_MT-WT_raw.tar)] [[Data](/papers/2010/NSMB_012010.tar)] [[Array Data](/papers/2010/alg1_arraydata.zip)]
+
+* **A model for neural development and treatment of Rett syndrome using human induced pluripotent stem cells.**
+*Marchetto MC, Carromeu C, Acab A, Yu D, **Yeo GW**, Mu Y, Chen G, Gage FH, Muotri AR
+Cell
+[[PDF](/papers/Maria_cell_2010.pdf)]
+<a href="http://f1000.com/prime/6397956"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 
 ### 2009
@@ -339,6 +348,8 @@ PNAS
 *Seila AC, Calabrese JM, Levine SS, **Yeo GW**, Rahl PB, Flynn RA, Young RA, Sharp PA.*   
 Science     
 [[PDF](/papers/2008/Divergent_seila_2008.pdf)]
+<a href="http://f1000.com/prime/1147319"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
+
 
 * **The PIWI proteins SMEDWI2 and SMEDWI3 are required for stem cell function and piRNA expression in planarians.**  
 *Palakodeti D, Smielewska M, Liu Y, **Yeo G** * , Graveley BR *  ( * co-corresponding)*   
@@ -384,6 +395,7 @@ Cell
 *Stadler MB, Shomron N, **Yeo GW**, Schneider A, Xiao X, Burge CB*   
 PLoS Genetics     
 [[PDF](/papers/2006/MichaelBS_Plosgenetics_2006.pdf)]
+<a href="http://f1000.com/prime/1059762"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 ### 2005
 
