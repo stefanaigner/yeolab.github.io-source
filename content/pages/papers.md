@@ -64,6 +64,8 @@ Cell
 Dickey AS, Pineda VV, Tsunemi T, Liu PP, Miranda HC, Gilmore-Hall SK, Lomas N, Sampat KR, Buttgereit A, Torres MM, Flores AL, Arreola M, Arbez N, Akimov SS, Gaasterland T, Lazarowski ER, Ross CA, **Yeo GW**, Sopher BL, Magnuson GK, Pinkerton AB, Masliah E, La Spada AR.  
 Nature Medicine  
 [[PDF](/papers/2015/PPAR-δ.pdf)]
+ <a href="http://f1000.com/prime/725995535"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
+
 
 * **A Gene Regulatory Network Cooperatively Controlled by Pdx1 and Sox9 Governs Lineage Allocation of Foregut Progenitor Cells.**  
 Shih HP, Seymour PA, Patel NA, Xie R, Wang A, Liu PP, **Yeo GW**, Magnuson MA, Sander M.  
@@ -154,7 +156,9 @@ Cell Reports
 * **Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges.**  
 *Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman LT, Hoon S, Massirer KB, Pratt GA, Black DL, Gray JW, Conboy JG, **Yeo GW**.*  
 Nature Structural and Molecular Biology  
-[[PDF](/papers/2013/nsmb2699.pdf)] [[Human fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP029987)] [[Mouse fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP030031)] [[Data](http://sauron.ucsd.edu/public_hubs/nsmb_fox_hub/index.html)] [[Hub](/papers/2013/hub.txt)]
+[[PDF](/papers/2013/nsmb2699.pdf)]
+ <a href="http://f1000.com/prime/718170823"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
+[[Human fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP029987)] [[Mouse fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP030031)] [[Data](http://sauron.ucsd.edu/public_hubs/nsmb_fox_hub/index.html)] [[Hub](/papers/2013/hub.txt)]
 
 * **Coordinate Nodal and BMP inhibition directs Baf60c-dependent cardiomyocyte commitment.**  
 *Cai W, Albini S, Wei K, Willems E, Guzzo RM, Tsuda M, Giordani L, Spiering S, Kurian L, **Yeo GW**, Puri PL, Mercola M.*  
@@ -222,6 +226,7 @@ Frontiers in Neuroscience
 *Lagier-Tourenne C*, Polymenidou M*, Hutt KR*, Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY,Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & **Yeo GW**.*  
 Nature Neuroscience    
 [[PDF](/papers/2012/natureneuroscience_ALS_FUs_TLS_2012.pdf)] [[News&Views](/papers/2012/Gitler_newsandviews_Nat_Neurosc_2012.pdf)]
+<a href="http://f1000.com/prime/717961255"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a> 
 
 * **LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance.**  
 *Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H,
