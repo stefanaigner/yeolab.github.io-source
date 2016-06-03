@@ -139,7 +139,7 @@ Journal of Virology
 
 * **The Period protein homolog LIN-42 negatively regulates microRNA biogenesis in C. elegans.**  
 *Van Wynsberghe PM, Finnegana EF, Stark TJ, Angelus EP, Homan KE, **Yeo GW**, Pasquinelli AE*  
-ScienceDirect  
+Developmental Biology  
 [[PDF](/papers/2014/Van_Wynsberghe_ScienceDirect_2014.pdf)]
 
 * **Early specification of CD8+ T lymphocyte fates during adaptive immunity revealed by single-cell gene expression analyses.**  
@@ -290,7 +290,7 @@ Nature Structural and Molecular Biology
 
 * **A model for neural development and treatment of Rett syndrome using human induced pluripotent stem cells.**
 *Marchetto MC, Carromeu C, Acab A, Yu D, **Yeo GW**, Mu Y, Chen G, Gage FH, Muotri AR
-Cell
+Cell  
 [[PDF](/papers/Maria_cell_2010.pdf)]
 <a href="http://f1000.com/prime/6397956"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
