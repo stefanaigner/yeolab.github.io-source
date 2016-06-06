@@ -8,4 +8,4 @@ icon: mdi mdi-cookie
 
 ## Introducing the [speakers] (http://yeolab.github.io/singarna-2016-speaker-bios).
 
-## View the symposium schedule [here] 
+## View the symposium [schedule] (http://anthonybourdainontour.com/) 
