@@ -20,7 +20,7 @@ icon: mdi mdi-link
         <img src="/images/people/gene_yeo.png" alt="Gene&nbsp;Yeo">
         Gene Yeo</a><br>
       </div>
-      Gene Yeo studies RNA I guesss..
+      Gene Yeo likes RNA.
   </div>
   <div class="3u">
     <div class="speaker-name">
@@ -28,7 +28,7 @@ icon: mdi mdi-link
       <img src="http://www.fashion365.ro/file/2015/10/tomb-raider-angelina-jolie.jpg", alt="Yes, this is the real Katannya!">
       Katannya Kapeli</a>
     </div>
-    Katanya Loves ribosomes
+    Katannya likes ribosomes.
   </div>
   <div class="3u">
     <div class="speaker-name">
