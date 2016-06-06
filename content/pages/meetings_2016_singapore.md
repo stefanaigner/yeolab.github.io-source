@@ -4,10 +4,8 @@ icon: mdi mdi-cookie
 
 
 
-### Registration
+## Click [here](http://goo.gl/forms/0awa0rCjGbMxPWBI3)to register.
 
-[Here](http://goo.gl/forms/0awa0rCjGbMxPWBI3)
+### Introducing the [speakers] (http://yeolab.github.io/singarna-2016-speaker-bios).
 
-### Speaker Bios
-
-[Here](http://yeolab.github.io/singarna-2016-speaker-bios).
+## View the symposium schedule [here] 
