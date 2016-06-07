@@ -2,7 +2,7 @@ Title: SingaRNA Symposium 2016
 Date: 2016-04-21
 icon: mdi mdi-account-multiple
 
-## Click <span style="color:green">[here]</span>(http://goo.gl/forms/0awa0rCjGbMxPWBI3) to register.
+## Click _[here]_(http://goo.gl/forms/0awa0rCjGbMxPWBI3) to register.
 
 ![](singaRNA/SG-RNA_flyer.png)
 
