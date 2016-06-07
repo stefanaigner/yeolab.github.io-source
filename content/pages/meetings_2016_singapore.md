@@ -7,7 +7,7 @@ icon: mdi mdi-account-multiple
 ![**](singaRNA/SG-RNA_flyer.pdf)
 ![](http://www2.convention.co.jp/rna2016/images/head_top.png)
 
-## Introducing the [speakers](http://yeolab.github.io/singarna-2016-speaker-bios).
+##### Introducing the [speakers](http://yeolab.github.io/singarna-2016-speaker-bios).
 
-## View the symposium [schedule](http://anthonybourdainontour.com/) 
+##### View the symposium [schedule](http://anthonybourdainontour.com/) 
 
