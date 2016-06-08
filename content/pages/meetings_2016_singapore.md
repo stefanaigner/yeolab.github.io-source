@@ -30,8 +30,8 @@ em{
 [flyer](https://github.com/YeoLab/yeolab.github.io-source/blob/master/content/pages/singaRNA/SG-RNA_flyer.pdf)
 
 
-#### Introducing the [**speakers**](singaRNA/Speaker profiles.pdf).
+### Introducing the [**speakers**](singaRNA/Speaker profiles.pdf).
 
-#### View the symposium [**schedule**](singaRNA/schedulev2.pdf). 
+### View the symposium [**schedule**](singaRNA/schedulev2.pdf). 
 
 
