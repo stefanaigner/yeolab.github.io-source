@@ -1,6 +1,7 @@
 Title: SingaRNA Symposium 2016
 Date: 2016-04-21
 icon: mdi mdi-account-multiple
+[image](singaRNA/singaRNA_header.jpg)
 
 ## Click [**here**](http://goo.gl/forms/0awa0rCjGbMxPWBI3) to register.
 
