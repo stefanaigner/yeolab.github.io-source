@@ -32,6 +32,6 @@ em{
 
 #### Introducing the [**speakers**](singaRNA/Speaker profiles.pdf).
 
-#### View the symposium [**schedule**](singaRNA/schedulev2.pdf) 
+#### View the symposium [**schedule**](singaRNA/schedulev2.pdf). 
 
 
