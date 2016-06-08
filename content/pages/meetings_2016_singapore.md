@@ -4,7 +4,7 @@ icon: mdi mdi-account-multiple
 
 ## Click [**here**](http://goo.gl/forms/0awa0rCjGbMxPWBI3) to register.
 
-![](singaRNA/SG-RNA_flyer.png)
+![flyer](/singaRNA/SG-RNA_flyer.png)
 
 
 #### Introducing the [**speakers**](http://yeolab.github.io/singarna-2016-speaker-bios).
