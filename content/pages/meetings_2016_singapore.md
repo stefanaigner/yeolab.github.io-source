@@ -30,8 +30,8 @@ em{
 [flyer](https://github.com/YeoLab/yeolab.github.io-source/blob/master/content/pages/singaRNA/SG-RNA_flyer.pdf)
 
 
-#### Introducing the [**speakers**](http://yeolab.github.io/singarna-2016-speaker-bios).
+#### Introducing the ![**speakers**](singaRNA/Speaker profiles.pdf).
 
-#### View the symposium [**schedule**](http://anthonybourdainontour.com/) 
+#### View the symposium ![**schedule**](singaRNA/schedulev2.pdf) 
 
 
