@@ -28,7 +28,7 @@ em{
 
   </div>
 
-[flyer](https://github.com/YeoLab/yeolab.github.io-source/blob/master/content/pages/singaRNA/SG-RNA_flyer.pdf)
+[flyer](singaRNA/SG-RNA_flyer.png)
 
 
 ### Introducing the [**speakers**](singaRNA/Speaker profiles.pdf).
