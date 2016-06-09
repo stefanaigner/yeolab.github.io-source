@@ -9,8 +9,9 @@ icon: mdi mdi-account-multiple
   <div class="6u">
 
 <section>
-  <a href="#stem-cells" class="image feature"><img src="/images/research/IMP1_OCT4 IF_2.svg" alt="" /></a>
   <a href="#stem-cells" class="image feature"><img src="/pages/singaRNA/SG-RNA_flyer.pdf" alt="" /></a>
+  
+  
 </section>
 
   </div>
