@@ -19,7 +19,7 @@ em{
   <div class="6u">
 
 <section>
-  <a href="#stem-cells" class="image feature"><img src="/pages/singaRNA/SG-RNA flyer.png" alt="" /></a>
+  <a href="#stem-cells" class="image feature"><img src="./singaRNA/SG-RNA_flyer.png" alt="" /></a>
   <header>
     <h3>Some text</h3>
   </header>
