@@ -31,7 +31,7 @@ em{
 [](singaRNA/SG-RNA_flyer.png)
 
 
-### Introducing the [**speakers**](/pages/singaRNA/Speaker profiles.pdf).
+### Introducing the [**speakers**](./singaRNA/Speaker profiles.pdf).
 
 ### View the symposium [**schedule**](../content/singaRNA/schedulev2.pdf). 
 
