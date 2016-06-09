@@ -17,7 +17,7 @@ icon: mdi mdi-account-multiple
 [](singaRNA/SG-RNA_flyer.png)
 
 
-### Introducing the [**speakers**](./singaRNA/Speaker profiles.pdf).
+### Introducing the [**speakers**](yeolab.github.io-source/content/pages/singaRNA/Speaker profiles.pdf).
 
 ### View the symposium [**schedule**](./singaRNA/schedulev2.pdf). 
 
