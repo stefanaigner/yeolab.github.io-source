@@ -5,25 +5,12 @@ icon: mdi mdi-account-multiple
 
 ## Click [**here**](http://goo.gl/forms/0awa0rCjGbMxPWBI3) to register.
 
-<style>
-.image:before{
-  background-image: None;
-  height: 100%;
-}
-em{
-  font-style: italic;
-}
-</style>
 
 <div class="row">
   <div class="6u">
 
 <section>
   <a href="#stem-cells" class="image feature"><img src="./singaRNA/SG-RNA_flyer.png" alt="" /></a>
-  <header>
-    <h3>Some text</h3>
-  </header>
-  <p>and some more text</p>
 </section>
 
   </div>
