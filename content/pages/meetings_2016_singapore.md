@@ -10,6 +10,7 @@ icon: mdi mdi-account-multiple
 
 <section>
   <a href="#stem-cells" class="image feature"><img src="singaRNA/SG-RNA_flyer.png" alt="" /></a>
+  <a href="#neural-rbps" class="image feature"><img src="/images/research/neuron.svg" alt="" /></a>
 </section>
 
   </div>
