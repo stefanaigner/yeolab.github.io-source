@@ -9,7 +9,7 @@ icon: mdi mdi-account-multiple
   <div class="6u">
 
 <section>
-  <a href="#stem-cells" class="image feature"><img src="./singaRNA/SG-RNA_flyer.png" alt="" /></a>
+  <a href="#stem-cells" class="image feature"><img src="singaRNA/SG-RNA_flyer.png" alt="" /></a>
 </section>
 
   </div>
@@ -19,9 +19,9 @@ icon: mdi mdi-account-multiple
 
 ### Introducing the [**speakers**](singaRNA/Speaker profiles.pdf).
 
-### View the symposium [**schedule**](./singaRNA/schedulev2.pdf). 
+### View the symposium [**schedule**](singaRNA/schedulev2.pdf). 
 
-#### Print out a [flyer](./singaRNA/SG-RNA_flyer.pdf)!
+#### Print out a [flyer](singaRNA/SG-RNA_flyer.pdf)!
 
 
 
