@@ -15,8 +15,6 @@ icon: mdi mdi-account-multiple
 
   </div>
 
-[Flyer](singaRNA/SG-RNA_flyer.png)
-
 
 ### Introducing the [**speakers**](/pages/singaRNA/Speaker profiles.pdf).
 
