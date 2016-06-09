@@ -16,7 +16,7 @@ icon: mdi mdi-account-multiple
   </div>
 
 
-### Introducing the [**speakers**](/pages/singaRNA/Speaker profiles.pdf).
+### Introducing the [**speakers**](/pages/singaRNA/Speaker_profiles.pdf).
 
 ### View the symposium [**schedule**](/pages/singaRNA/schedulev2.pdf). 
 
