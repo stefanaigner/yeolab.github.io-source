@@ -15,7 +15,7 @@ icon: mdi mdi-account-multiple
   </div>
 
 
-### Introducing the [**speakers**](Speaker_profiles.pdf).
+### Introducing the [**speakers**](Speaker_profilesv2.pdf).
 
 ### View the symposium [**schedule**](schedulev3.pdf).
 
