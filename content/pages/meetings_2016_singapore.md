@@ -17,6 +17,6 @@ icon: mdi mdi-account-multiple
 
 ### Introducing the [**speakers**](Speaker_profiles.pdf).
 
-### View the symposium [**schedule**](schedulev2.pdf).
+### View the symposium [**schedule**](schedulev3.pdf).
 
 #### Print out a [**flyer**](SG-RNA_flyer.pdf)!
