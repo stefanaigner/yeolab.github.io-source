@@ -10,9 +10,7 @@ icon: mdi mdi-account-multiple
 
 <section>
   <a href="SG-RNA_flyer.pdf" class="image feature"><img src="SG-RNA_flyer.png" alt="" /></a>
-  <a href="#stem-cells" class="image feature"><img src="/images/research/IMP1_OCT4 IF_2.svg" alt="" /></a>
-
-</section>
+ </section>
 
   </div>
 
