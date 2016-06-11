@@ -9,7 +9,7 @@ icon: mdi mdi-account-multiple
   <div class="6u">
 
 <section>
-  <a href="SG-RNA_flyer.pdf" class="image feature"><img src="SG-RNA_flyerv3.png" alt="" /></a>
+  <a href="SG-RNA_flyer3.pdf" class="image feature"><img src="SG-RNA_flyerv3.png" alt="" /></a>
  </section>
 
   </div>
