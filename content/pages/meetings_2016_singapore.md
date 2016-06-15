@@ -9,7 +9,7 @@ icon: mdi mdi-account-multiple
   <div class="6u">
 
 <section>
-<a href="SG-RNA_flyerv3.pdf" class="image feature"><img src="SG-RNA_flyerv3.png" alt="" /></a>
+<a href="SG-RNA_flyerv7.pdf" class="image feature"><img src="flyerv7.png" alt="" /></a>
 </section>
 
   </div>
@@ -17,6 +17,6 @@ icon: mdi mdi-account-multiple
 
 ### Introducing the [**speakers**](Speaker_profilesv4.pdf).
 
-### View the symposium [**schedule**](schedulev4.pdf).
+### View the symposium [**schedule**](schedulev6.pdf).
 
-### Print and post a [**flyer**](SG-RNA_flyerv3.pdf)!
+### Print and post a [**flyer**](SG-RNA_flyerv7.pdf)!
