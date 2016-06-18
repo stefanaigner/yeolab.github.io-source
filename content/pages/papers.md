@@ -50,7 +50,7 @@ Molecular Cell
 * **Musashi-2 Postranscriptionally Attenuates Aryl Hydrocarbon Receptor Signaling to Expand Human Hematopoietic Stem Cells.**  
 Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW** * , Hope K * . * **Corresponding.**   
 Nature   
-[[PDF]()]
+[[PDF](/papers/2016/gabe_nature_2016.pdf)]
 
 * **A small RNA-catalytic Argonaute pathway tunes germline transcript levels to ensure embryonic divisions.**  
 Gerson-Gurwitz A, Wang S, Sathe S, Green R, **Yeo GW**, Oegema K, Desai A.  
