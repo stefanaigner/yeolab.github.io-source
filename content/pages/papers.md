@@ -13,7 +13,7 @@ Cell Reports.
 * **Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**  
 Stefan Rentas,	Nicholas T. Holzapfel,	Muluken S. Belew, Gabriel A. Pratt,	Veronique Voisin, Brian T. Wilhelm, Gary D. Bader, **Gene W. Yeo**, Kristin J. Hope  
 Nature  
-[[PDF](http://www.nature.com/nature/journal/v532/n7600/full/nature17665.html)]
+[[PDF](/papers/2016/gabe_nature_2016.pdf)]
 [[News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
 
 * **Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**  
@@ -47,10 +47,6 @@ Molecular Cell
 [[PDF](/papers/2016/sundararaman_molcell_2016.pdf)]
 [[Highlight in Nature Reviews genetics](/papers/2016/nrg_highlight_2016.pdf)]
 
-* **Musashi-2 Postranscriptionally Attenuates Aryl Hydrocarbon Receptor Signaling to Expand Human Hematopoietic Stem Cells.**  
-Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW** * , Hope K * . * **Corresponding.**   
-Nature   
-[[PDF](/papers/2016/gabe_nature_2016.pdf)]
 
 * **A small RNA-catalytic Argonaute pathway tunes germline transcript levels to ensure embryonic divisions.**  
 Gerson-Gurwitz A, Wang S, Sathe S, Green R, **Yeo GW**, Oegema K, Desai A.  
@@ -59,6 +55,11 @@ Cell
 
 
 ### 2015
+
+* **Musashi-2 Postranscriptionally Attenuates Aryl Hydrocarbon Receptor Signaling to Expand Human Hematopoietic Stem Cells.**  
+Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW** * , Hope K * . * **Corresponding.**   
+Poster Presentations/Experimental Hematology  
+[[PDF]()]
 
 * **PPAR-δ is repressed in Huntington's disease, is required for normal neuronal function and can be targeted therapeutically.**  
 Dickey AS, Pineda VV, Tsunemi T, Liu PP, Miranda HC, Gilmore-Hall SK, Lomas N, Sampat KR, Buttgereit A, Torres MM, Flores AL, Arreola M, Arbez N, Akimov SS, Gaasterland T, Lazarowski ER, Ross CA, **Yeo GW**, Sopher BL, Magnuson GK, Pinkerton AB, Masliah E, La Spada AR.  
