@@ -3,8 +3,6 @@ Date: 2016-04-21
 icon: mdi mdi-account-multiple
 
 ## Click [**here**](http://goo.gl/forms/0awa0rCjGbMxPWBI3) to register.
-<!--## Online registration is now closed. 
-### Please come and enjoy the talks, however lunch will be reserved for online registrants only.//-->
 
 <div class="row">
   <div class="6u">
