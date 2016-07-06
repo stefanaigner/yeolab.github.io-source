@@ -7,10 +7,11 @@ icon: mdi mdi-file-multiple
 
 * **Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**
 Kapeli K*, Pratt GA*, Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lambert NJ, Huelga SC, Chun S, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Ares M, Burge CB, Rigo F, **Yeo GW**.
+Nature Communications
 [[PDF](/papers/2016/katannya_naturecommuicate_2016.pdf)]
 
 * **Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.** Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
-Cell Reports.
+Cell Reports
 [[PDF](/papers/2016/Nutter_CellReports_2016.pdf)]
 
 
