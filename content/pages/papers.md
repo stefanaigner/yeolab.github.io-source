@@ -5,6 +5,10 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 
+* **Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**
+Kapeli K*, Pratt GA*, Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lambert NJ, Huelga SC, Chun S, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Ares M, Burge CB, Rigo F, **Yeo GW**.
+[[PDF](/papers/2016/katannya_naturecommuicate_2016.pdf)]
+
 * **Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.** Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
 Cell Reports.
 [[PDF](/papers/2016/Nutter_CellReports_2016.pdf)]
@@ -39,6 +43,7 @@ Nature Methods
 [[PDF](/papers/2016/nmeth_eric_2016.pdf)]
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
 [[News](http://www.biotechniques.com/news/eCLIPsing-CLIP-RNA-Protein-Interactions-Revealed/biotechniques-364116.html#.VzI2ZmNqlZU)]
+[[Technology Priview in Molecular Cell](/papers/2016/eClip_techonologypreview_2016.pdf)]
 <a href="http://f1000.com/prime/726248372?bd=1 &ui=30714 " target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * **Resources for the comprehensive discovery of functional RNA elements.**  
