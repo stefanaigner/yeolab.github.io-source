@@ -7,7 +7,7 @@ Email: email@ucsd.edu
 Fellowship:
 Headshot: /images/people/lucy_xu.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Current_position: UCSD, CA
 End_date: 
 <!-- Status: draft -->
