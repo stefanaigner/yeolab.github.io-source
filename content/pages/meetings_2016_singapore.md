@@ -21,4 +21,3 @@ icon: mdi mdi-account-multiple
 
 ### View the symposium [***schedule***](schedulev7.pdf).
 
-### Post a [***flyer***](SG-RNA_flyerv7.pdf)!
