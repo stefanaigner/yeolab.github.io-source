@@ -3,7 +3,7 @@ Date: 2016-04-21
 icon: mdi mdi-account-multiple
 
 <section>
-  <a href="#symposium_header" class="image feature"><img src="/content/pages/singarna-symposium-2016/header3.tif" alt="" /></a>
+  <a href="symposium_header" class="image feature"><img src="header3.tif" alt="" /></a>
 </section>
 
 
