@@ -167,7 +167,11 @@ icon: mdi mdi-currency-usd
       Current:
         <div class="fellowship-people">
           <a href="/people/gabriel_pratt">Gabriel Pratt</a><br>
-          <a href="/people/david_nelles">David Nelles</a>
+          <a href="/people/david_nelles">David Nelles</a><br>
+          <a href="/people/julia_nussbacher">Julia Nussbacher</a><br>
+          <a href="/people/olga_botvinnik">Olga Botvinnik</a>
+
+
         </div>
       Past:
         <div class="fellowship-people">

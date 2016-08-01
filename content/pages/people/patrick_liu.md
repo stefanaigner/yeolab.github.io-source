@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/patrick_liu.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: CS Master’s at UCSD
+Current_position: Invivoscribe 
 End_date: 2014-09-01
 <!-- Status: draft -->
 

@@ -8,7 +8,7 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/anne_conway.jpg
 Template: person
-Current_position: San Diego, CA
+Current_position: Miltenyi Biotec
 End_date: 2014-09-01
 
 <!-- Status: draft -->

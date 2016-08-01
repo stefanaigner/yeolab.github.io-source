@@ -7,7 +7,7 @@ Email: cgelboinburkhart@ucsd.edu
 Fellowship:
 Headshot: /images/people/chelsea_gelboin_burkhart.jpg
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: Alumni
 Current_position: UCSD, CA
 End_date: 
 <!-- Status: draft -->

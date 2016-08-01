@@ -8,7 +8,7 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/mike_lovci.jpg
 Template: person
-Current_position: Univ of Campinas, São Paulo, Brazil
+Current_position: Intrexon
 End_date: 2014-09-01
 
 <!-- Status: draft -->
