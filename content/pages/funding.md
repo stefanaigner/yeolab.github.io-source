@@ -170,8 +170,6 @@ icon: mdi mdi-currency-usd
           <a href="/people/david_nelles">David Nelles</a><br>
           <a href="/people/julia_nussbacher">Julia Nussbacher</a><br>
           <a href="/people/olga_botvinnik">Olga Botvinnik</a>
-
-
         </div>
       Past:
         <div class="fellowship-people">
