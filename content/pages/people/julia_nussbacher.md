@@ -16,8 +16,12 @@ Sc.B Biochemistry, Brown University, 2010<br>
 
 ## Summary
 
-Julia Nussbacher received her undergraduate degree in Biochemistry from Brown University. While at Brown, Julia completed a thesis project in the lab of Dr. Anatoly Zhitkovich in the department of Pathology and Laboratory Medicine. She used a lung cancer model to study the role of mismatch repair proteins in the development of chemotherapeutic resistance to DNA crosslinking compounds. As an undergraduate, Julia also gained experience in the biotech industry. She interned two summers at Achaogen, performing bacterial assays to determine dose response, as well as synthesizing novel antibiotics to counter bacterial resistance. She also interned at Affymetrix in Assay and Application Development where she worked to design and optimize a new genotyping protocol. Before beginning graduate studies in biomedical sciences at the UC San Diego School of Medicine, Julia worked in research and development for Pathwork Diagnostics, which performs an array-based in vitro diagnostic test to determine tumor tissue of origin.
-
+Julia comes to us with experience in both academia and industry, in fields ranging from cancer diagnostics to antibiotic synthesis. As an undergraduate at Brown University, Julia completed a thesis project in the lab of Dr. Anatoly Zhitkovich. She used a lung cancer model to study the role of mismatch repair proteins in the development of chemotherapeutic resistance to DNA crosslinking compounds. Prior to joining the graduate program in biomedical sciences, Julia worked in the biotech industry in drug development and diagnostics. As a graduate student in our lab Julia is interested in the epigenetics of the transcriptome. She hopes to apply her knowledge of biochemistry and developing computational skills to understanding how RNA modifications influence neural development and neurodegeneration. When not in the lab, Julia can usually be found lifting heavy things and eating donuts.
 
 ## Publications
-Jakob Axelsson,  Ding Xu,  Bit Na Kang,  **Julia K. Nussbacher**,  Tracy M Handel, Klaus Ley,  P Sriramarao,  and Jeffrey D. Esko. Inactivation of heparan sulfate 2-O-sulfotransferase accentuates neutrophil infiltration during acute inflammation in mice. Blood blood-2012-03-417139, 2012.
+
+Bos, T. J.; **Nussbacher, J. K.**; Aigner, S.; Yeo, G. W., Tethered Function Assays as Tools to Elucidate the Molecular Roles of RNA-Binding Proteins. Adv Exp Med Biol 2016, 907, 61-88.
+
+**Nussbacher, J. K.**; Batra, R.; Lagier-Tourenne, C.; Yeo, G. W., RNA-binding proteins in neurodegeneration: Seq and you shall receive. Trends in neurosciences 2015.
+
+Jakob Axelsson, Ding Xu, Bit Na Kang, **Julia K. Nussbacher**, Tracy M Handel, Klaus Ley, P Sriramarao, and Jeffrey D. Esko. Inactivation of heparan sulfate 2-O-sulfotransferase accentuates neutrophil infiltration during acute inflammation in mice. Blood blood-2012-03-417139, 2012.
