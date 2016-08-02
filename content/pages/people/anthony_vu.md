@@ -1,5 +1,5 @@
 Title: Anthony Vu
-Date: 2010-06-01
+Date: 2016-06-01
 Position: Graduate Student
 Position_suffix: (Ph.D.)
 Affiliation: Biomedical Sciences
@@ -8,6 +8,7 @@ Fellowship: NSF GRFP
 Headshot: /images/people/anthony_vu.jpg
 Template: person
 Alumni_or_current: Current
+
 <!-- Status: draft -->
 
 ## Degrees
