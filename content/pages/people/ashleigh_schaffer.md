@@ -19,9 +19,9 @@ Coming soon!
 
 ##Awards
 
-2015-2017	NIH K99/R00 Pathway to Independence Award (NICHD, K99HD082337)
-2012-2015	A.P. Giannini Medical Research Postdoctoral Fellowship
-2011-2012	California Institute for Regenerative Medicine (CIRM) Postdoctoral Fellowship "
+2015-2017	NIH K99/R00 Pathway to Independence Award (NICHD, K99HD082337)  
+2012-2015	A.P. Giannini Medical Research Postdoctoral Fellowship  
+2011-2012	California Institute for Regenerative Medicine (CIRM) Postdoctoral Fellowship  
 
 ## Publications
 
