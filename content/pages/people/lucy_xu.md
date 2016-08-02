@@ -9,7 +9,7 @@ Headshot: /images/people/lucy_xu.jpg
 Template: person
 Alumni_or_current: Alumni
 Current_position: UCSD, CA
-End_date: 
+End_date: 2016-03-01
 <!-- Status: draft -->
 
 ## Degrees
