@@ -57,7 +57,7 @@ Carson CT, **Aigner S**, Gage FH. Stem cells: the good, bad and barely in contro
 
 **Aigner S**, Gage FH. A small gem with great powers: geminin keeps neural progenitors thriving. Dev. Cell. 2005; 9(2):171-2. PMID: 16054024
 
-**Aigner S**, Cech TR. The Euplotes telomerase subunit p43 stimulates enzymatic activity and processivity in vitro. RNA (New York, N.Y.). 2004; 10(7):1108-18. PMID: 15208446, PMCID: PMC1370601
+**Aigner S**, Cech TR. The Euplotes telomerase subunit p43 stimulates enzymatic activity and processivity in vitro. RNA. 2004; 10(7):1108-18. PMID: 15208446
 
 **Aigner S**, Postberg J, Lipps HJ, Cech TR. The Euplotes La motif protein p43 has properties of a telomerase-specific subunit. Biochemistry. 2003; 42(19):5736-47. PMID: 12741831
 
