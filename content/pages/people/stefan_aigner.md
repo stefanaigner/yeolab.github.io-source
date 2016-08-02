@@ -23,7 +23,7 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 Conway AE, Van Nostrand EL, Pratt GA, **Aigner S**, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, Yeo GW. Enhanced CLIP Uncovers IMP Protein-RNA Targets in Human Pluripotent Stem Cells Important for Cell Adhesion and Survival. Cell Rep. 2016; 15(3):666-79. PMID: 27068461
 
-Costa V*, **Aigner S** *, Vukcevic M*, Sauter E, Behr K, Ebeling M, Dunkley T, Friedlein A, Zoffmann S, Meyer CA, Knoflach F, Lugert S, Patsch C, Fjeldskaar F, Chicha-Gaudimier L, Kiialainen A, Piraino P, Bedoucha M, Graf M, Jessberger S, Ghosh A, Bischofberger J, Jagasia R. mTORC1 Inhibition Corrects Neurodevelopmental and Synaptic Alterations in a Human Stem Cell Model of Tuberous Sclerosis. Cell Rep. 2016; 15(1):86-95. PMID: 27052171 *Co-first author
+Costa V*, **Aigner S** *, Vukcevic M *, Sauter E, Behr K, Ebeling M, Dunkley T, Friedlein A, Zoffmann S, Meyer CA, Knoflach F, Lugert S, Patsch C, Fjeldskaar F, Chicha-Gaudimier L, Kiialainen A, Piraino P, Bedoucha M, Graf M, Jessberger S, Ghosh A, Bischofberger J, Jagasia R. mTORC1 Inhibition Corrects Neurodevelopmental and Synaptic Alterations in a Human Stem Cell Model of Tuberous Sclerosis. Cell Rep. 2016; 15(1):86-95. PMID: 27052171 *Co-first author
 
 Bos TJ, Nussbacher JK, **Aigner S**, Yeo GW. Tethered Function Assays as Tools to Elucidate the Molecular Roles of RNA-Binding Proteins. Adv Exp Med Biol. 2016; 907:61-88. PMID: 27256382
 
