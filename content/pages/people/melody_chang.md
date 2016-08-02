@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/melody_chang.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Dental school at UCLA
+Current_position: Dental school, UCLA
 End_date: 2013-09-01
 <!-- Status: draft -->
 
