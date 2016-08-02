@@ -8,6 +8,7 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/layla_fijany.jpg
 Template: person
+End_date: 2016-07-31
 <!-- Status: draft -->
 
 ## Degrees
