@@ -5,84 +5,73 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 
-* **Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**
+* [**Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**](/papers/2016/katannya_naturecommuicate_2016.pdf)
 Kapeli K*, Pratt GA*, Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lambert NJ, Huelga SC, Chun S, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Ares M, Burge CB, Rigo F, **Yeo GW**.
-Nature Communications
-[[PDF](/papers/2016/katannya_naturecommuicate_2016.pdf)]
-
-* **Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.** Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
-Cell Reports
-[[PDF](/papers/2016/Nutter_CellReports_2016.pdf)]
+*Nature Communications*
 
 
-* **Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**  
+* [**Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.**](/papers/2016/Nutter_CellReports_2016.pdf)
+Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
+*Cell Reports*
+
+
+
+* [**Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**](/papers/2016/gabe_nature_2016.pdf)   
 Stefan Rentas,	Nicholas T. Holzapfel,	Muluken S. Belew, Gabriel A. Pratt,	Veronique Voisin, Brian T. Wilhelm, Gary D. Bader, **Gene W. Yeo**, Kristin J. Hope  
-Nature  
-[[PDF](/papers/2016/gabe_nature_2016.pdf)]
+*Nature*   
 [[News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
 
-* **Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**  
+* [**Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**](/papers/2016/anne_cell_reports_2016.pdf)  
 Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, **Yeo GW**.     
-Cell Reports    
-[[PDF](/papers/2016/anne_cell_reports_2016.pdf)]
+*Cell Reports*    
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
 
 
-* **Programmable RNA tracking in Live Cells with CRISPR/Cas9.**  
+* [**Programmable RNA tracking in Live Cells with CRISPR/Cas9.**](/papers/2016/nelles_rcas9_2016.pdf)  
 Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.     
-Cell     
-[[PDF](/papers/2016/nelles_rcas9_2016.pdf)]
+*Cell*     
 [[Video](https://youtu.be/6vyomsWHgCo)]
 [[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]   
 [[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
 [[Highlight in Nature Methods](/papers/2016/nave_hihglights_2016.pdf)]
  <a href="http://f1000.com/prime/726227831?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
-* **Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**  
+* [**Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**](/papers/2016/nmeth_eric_2016.pdf)  
 Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
-Nature Methods     
-[[PDF](/papers/2016/nmeth_eric_2016.pdf)]
+*Nature Methods*    
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
 [[News](http://www.biotechniques.com/news/eCLIPsing-CLIP-RNA-Protein-Interactions-Revealed/biotechniques-364116.html#.VzI2ZmNqlZU)]
 [[Technology Priview in Molecular Cell](/papers/2016/eClip_techonologypreview_2016.pdf)]
 <a href="http://f1000.com/prime/726248372?bd=1 &ui=30714 " target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
-* **Resources for the comprehensive discovery of functional RNA elements.**  
+* [**Resources for the comprehensive discovery of functional RNA elements.**](/papers/2016/sundararaman_molcell_2016.pdf)  
 Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR, **Yeo GW**.     
-Molecular Cell   
-[[PDF](/papers/2016/sundararaman_molcell_2016.pdf)]
+*Molecular Cell*   
 [[Highlight in Nature Reviews genetics](/papers/2016/nrg_highlight_2016.pdf)]
 
 
 * **A small RNA-catalytic Argonaute pathway tunes germline transcript levels to ensure embryonic divisions.**  
 Gerson-Gurwitz A, Wang S, Sathe S, Green R, **Yeo GW**, Oegema K, Desai A.  
-Cell  
-[[PDF]()]
+*Cell*  
 
 
 ### 2015
 
-* **Musashi-2 Postranscriptionally Attenuates Aryl Hydrocarbon Receptor Signaling to Expand Human Hematopoietic Stem Cells.**  
-Rentas S, Holzapfel N, Belew MS, Pratt G, Voisin V, Wilhelm BT, Bader GD, **Yeo GW** * , Hope K * . * **Corresponding.**   
-Poster Presentations/Experimental Hematology  
-[[PDF]()]
-
-* **PPAR-δ is repressed in Huntington's disease, is required for normal neuronal function and can be targeted therapeutically.**  
+* [**PPAR-δ is repressed in Huntington's disease, is required for normal neuronal function and can be targeted therapeutically.**]((/papers/2015/PPAR-δ.pdf))  
 Dickey AS, Pineda VV, Tsunemi T, Liu PP, Miranda HC, Gilmore-Hall SK, Lomas N, Sampat KR, Buttgereit A, Torres MM, Flores AL, Arreola M, Arbez N, Akimov SS, Gaasterland T, Lazarowski ER, Ross CA, **Yeo GW**, Sopher BL, Magnuson GK, Pinkerton AB, Masliah E, La Spada AR.  
-Nature Medicine  
-[[PDF](/papers/2015/PPAR-δ.pdf)]
+*Nature Medicine*  
  <a href="http://f1000.com/prime/725995535"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 
-* **A Gene Regulatory Network Cooperatively Controlled by Pdx1 and Sox9 Governs Lineage Allocation of Foregut Progenitor Cells.**  
+* [**A Gene Regulatory Network Cooperatively Controlled by Pdx1 and Sox9 Governs Lineage Allocation of Foregut Progenitor Cells.**](/papers/2015/A_Gene_Regulatory_cell.pdf)  
 Shih HP, Seymour PA, Patel NA, Xie R, Wang A, Liu PP, **Yeo GW**, Magnuson MA, Sander M.  
-Cell Reports  
-[[PDF](/papers/2015/A_Gene_Regulatory_cell.pdf)]
+*Cell Reports*  
 
-* **The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**  
+
+* [**The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**](/papers/2015/Science-2015-Hung-science.aac7442.pdf)  
 *Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)*  
-Science  
-[[PDF](/papers/2015/Science-2015-Hung-science.aac7442.pdf)]  
+*Science*  
+ 
 
 * **Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity.**  
 *Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corresponding)*    
