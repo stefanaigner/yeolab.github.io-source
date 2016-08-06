@@ -4,7 +4,7 @@ Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: khutt@ucsd.edu
 Fellowship:
-Headshot: 
+Headshot:/images/people/kasey_hutt.png
 Template: person
 Alumni_or_current: Alumni
 Current_position: Bioinformatics Scientist, Invivoscribe, SD

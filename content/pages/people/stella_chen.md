@@ -5,7 +5,7 @@ Position_suffix:
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:
-Headshot: 
+Headshot: /images/people/stella_chen.png
 Template: person
 Alumni_or_current: Alumni
 Current_position: UCSD, CA
