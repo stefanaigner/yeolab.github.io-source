@@ -7,7 +7,7 @@ icon: mdi mdi-file-multiple
 
 * [**Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**](/papers/2016/katannya_naturecommuicate_2016.pdf)
 Kapeli K*, Pratt GA*, Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lambert NJ, Huelga SC, Chun S, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Ares M, Burge CB, Rigo F, **Yeo GW**.  
-*Nature Communications*
+<i>Nature Communications</i>
 
 
 * [**Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.**](/papers/2016/Nutter_CellReports_2016.pdf)
@@ -104,7 +104,7 @@ H, Fu X-D, Lagier-Tourenne C, Cleveland DW
 *Nature Communications*   
 
 
-* **Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**  
+* [**Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**]  
 Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Ohno S, **Yeo GW**, Chang JT  
 *Journal of Immunology*  
 
@@ -160,30 +160,30 @@ Cai W, Albini S, Wei K, Willems E, Guzzo RM, Tsuda M, Giordani L, Spiering S, Ku
 *Genes Dev.*  
 
 
-* **Targeted degradation of sense and antisense C9orf72 RNA foci as therapy for ALS and frontotemporal degeneration.**  
-*Lagier-Tourenne C, Baughn M, Rigo F, Sun S, Liu P, Li HR, Jiang J, Watt AT, Chun S, Katz M, Qiu J, Sun Y, Ling SC, Zhu Q, Polymenidou M, Drenner K, Artates JW, McAlonis-Downes M, Markmiller S, Hutt KR, Pizzo DP, Cady J, Harms MB, Baloh RH, Vandenberg SR, **Yeo GW**, Fu XD, Bennett CF, Cleveland DW, Ravits J.*  
-PNAS    
-[[PDF](/papers/2013/PNAS_2013_Lagier_Tourenne.pdf)]
+* [**Targeted degradation of sense and antisense C9orf72 RNA foci as therapy for ALS and frontotemporal degeneration.**](/papers/2013/PNAS_2013_Lagier_Tourenne.pdf)  
+Lagier-Tourenne C, Baughn M, Rigo F, Sun S, Liu P, Li HR, Jiang J, Watt AT, Chun S, Katz M, Qiu J, Sun Y, Ling SC, Zhu Q, Polymenidou M, Drenner K, Artates JW, McAlonis-Downes M, Markmiller S, Hutt KR, Pizzo DP, Cady J, Harms MB, Baloh RH, Vandenberg SR, **Yeo GW**, Fu XD, Bennett CF, Cleveland DW, Ravits J.   
+*PNAS*    
 
-* **Reactivation of fetal splicing programs in diabetic hearts is mediated by protein kinase C signaling.**  
-*Verma SK, Deshmukj V, Liu P, Nutter CA, Espejo R, Hung M-L, Wang G-S, **Yeo GW**, Kuyumcu-Martinez MN.*  
-The Journal of Biological Chemistry
-[[PDF](/papers/2013/JBiolChem_2013.pdf)]
 
-* **Differential L1 regulation in pluripotent stem cells of humans and apes.**  
-*Marchetto MCN, Narvaiza I, Denli AM, Benner C, Lazzarini TA, Nathanson JL, Paquola ACM, Desai KN, Herai RH, Weitzman MD, **Yeo GW**, Muotri AR, & Gage FH.*  
-Nature  
-[[PDF](/papers/2013/nature12686.pdf)]
+* [**Reactivation of fetal splicing programs in diabetic hearts is mediated by protein kinase C signaling.**](/papers/2013/JBiolChem_2013.pdf)  
+Verma SK, Deshmukj V, Liu P, Nutter CA, Espejo R, Hung M-L, Wang G-S, **Yeo GW**, Kuyumcu-Martinez MN.  
+*The Journal of Biological Chemistry*
 
-* **Genome-wide analysis reveals SR protein cooperation and competition in regulated splicing.**  
-*Pandit S, Zhou Y, Shiue L, Coutinho-Mansfield G, Li H, Qiu J, Huang J, Yeo GW, Ares M Jr.,  Fu XD.*  
-Molecular Cell    
-[[PDF](/papers/2013/Cell_2013.pdf)]
 
-* **Functional Genomic Analysis of the let-7 Regulatory Network in Caenorhabditis elegans.**  
-*Hunter SE, Finnegan EF, Zisoulis DG, Lovci MT, Melnik-Martinez KV, **Yeo GW**, Pasquinelli AE.*   
-PLoS Genetics     
-[[PDF](/papers/2013/2013_Hunter_Finnegan_PLoS.pdf)]
+* [**Differential L1 regulation in pluripotent stem cells of humans and apes.**](/papers/2013/nature12686.pdf)  
+Marchetto MCN, Narvaiza I, Denli AM, Benner C, Lazzarini TA, Nathanson JL, Paquola ACM, Desai KN, Herai RH, Weitzman MD, **Yeo GW**, Muotri AR, & Gage FH.  
+*Nature*  
+
+
+* [**Genome-wide analysis reveals SR protein cooperation and competition in regulated splicing.**](/papers/2013/Cell_2013.pdf)  
+Pandit S, Zhou Y, Shiue L, Coutinho-Mansfield G, Li H, Qiu J, Huang J, Yeo GW, Ares M Jr.,  Fu XD.   
+*Molecular Cell*    
+
+
+* [**Functional Genomic Analysis of the let-7 Regulatory Network in Caenorhabditis elegans.**](/papers/2013/2013_Hunter_Finnegan_PLoS.pdf)  
+Hunter SE, Finnegan EF, Zisoulis DG, Lovci MT, Melnik-Martinez KV, **Yeo GW**, Pasquinelli AE.   
+*PLoS Genetics*     
+
 
 * **ALS-linked TDP-43 mutations produce aberrant RNA splicing and adult-onset motor neuron disease without aggregation or loss of nuclear TDP-43.**  
 *Arnold ES, Ling SC, Huelga SC, Lagier-Tourenne C, Polymenidou M, Ditsworth D, Kordasiewicz HB, McAlonis-Downes M, Platoshyn O, Parone PA, Da Cruz S, Clutario KM, Swing D, Tessarollo L, Marsala M, Shaw CE, **Yeo GW**, Cleveland DW.*   
