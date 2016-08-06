@@ -5,12 +5,12 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 
-* [**Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**](/papers/2016/katannya_naturecommuicate_2016.pdf)
+* [**Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**](/papers/2016/katannya_naturecommuicate_2016.pdf)  
 Kapeli K*, Pratt GA*, Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lambert NJ, Huelga SC, Chun S, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Ares M, Burge CB, Rigo F, **Yeo GW**.  
 <i>Nature Communications</i>
 
 
-* [**Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.**](/papers/2016/Nutter_CellReports_2016.pdf)
+* [**Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.**](/papers/2016/Nutter_CellReports_2016.pdf)  
 Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
 *Cell Reports*
 
@@ -78,10 +78,10 @@ Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corres
 *Molecular Cell*  
   
 
-* **Applications of Cas9 as an RNA-programmed RNA-binding protein.**  
-*Nelles DA, Fang MY, Aigner S, **Yeo GW***  
+* [**Applications of Cas9 as an RNA-programmed RNA-binding protein.**](/papers/2015/Nelles_et_al-2015-BioEssays.pdf)  
+Nelles DA, Fang MY, Aigner S, **Yeo GW**   
 *Bioessays*
-[[PDF](/papers/2015/Nelles_et_al-2015-BioEssays.pdf)]  
+  
 
 * [**The Clothes Make the mRNA: Past and Present Trends in mRNP Fashion.**](/papers/2015/ClothesMakeMrna_annurev-biochem2015.pdf)  
 Singh G, Pratt GA, **Yeo GW**, Moore MJ  
@@ -104,7 +104,7 @@ H, Fu X-D, Lagier-Tourenne C, Cleveland DW
 *Nature Communications*   
 
 
-* [**Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**]  
+* **Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**  
 Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Ohno S, **Yeo GW**, Chang JT  
 *Journal of Immunology*  
 
@@ -124,7 +124,7 @@ GW**, Khor CC
 
 * [**Intracellular mRNA Regulation with Self-Assembled Locked Nucleic Acid Polymer Nanoparticles.**](/papers/2014/ja503598z.pdf)]  
 Siddiqi S, Foo JN, Vu A, Azim S, Silver DL, Mansoor A, Tay SKH, Abbasi S, Hashmi AH, Janjua J, Khalid S, Tai ES, **Yeo
-GW**, Khor CC 
+GW**, Khor CC   
 *Plos One*  
 [[JACS](http://pubs.acs.org/doi/full/10.1021/ja503598z)] 
 
@@ -144,8 +144,8 @@ Arsenio J+, Kakaradov B+, Metz PJ, Kim SH, **Yeo GW** * , Chang JT * . ( * co-co
 
 
 * [**The dsRBP and inactive editor, ADR-1, utilizes dsRNA binding to regulate A-to-I RNA editing across the C. elegans transcriptome.**](/papers/2014/PIIS221112471400028X.pdf)  
-*Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW** * , Hundley HA * . ( * co-corresponding) (+equal contribution)*  
-*Cell Reports*   
+Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW** * , Hundley HA * . ( * co-corresponding) (+equal contribution)*  
+*Cell Reports  
 [[Data](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51556)]
 
 ### 2013
@@ -185,66 +185,65 @@ Hunter SE, Finnegan EF, Zisoulis DG, Lovci MT, Melnik-Martinez KV, **Yeo GW**, P
 *PLoS Genetics*     
 
 
-* **ALS-linked TDP-43 mutations produce aberrant RNA splicing and adult-onset motor neuron disease without aggregation or loss of nuclear TDP-43.**  
-*Arnold ES, Ling SC, Huelga SC, Lagier-Tourenne C, Polymenidou M, Ditsworth D, Kordasiewicz HB, McAlonis-Downes M, Platoshyn O, Parone PA, Da Cruz S, Clutario KM, Swing D, Tessarollo L, Marsala M, Shaw CE, **Yeo GW**, Cleveland DW.*   
-PNAS     
-[[PDF](/papers/2013/PNAS_2013.pdf)]
+* [**ALS-linked TDP-43 mutations produce aberrant RNA splicing and adult-onset motor neuron disease without aggregation or loss of nuclear TDP-43.**](/papers/2013/PNAS_2013.pdf)  
+Arnold ES, Ling SC, Huelga SC, Lagier-Tourenne C, Polymenidou M, Ditsworth D, Kordasiewicz HB, McAlonis-Downes M, Platoshyn O, Parone PA, Da Cruz S, Clutario KM, Swing D, Tessarollo L, Marsala M, Shaw CE, **Yeo GW**, Cleveland DW.   
+*PNAS*     
+
 
 
 ### 2012
-* **Retrotransposon long interspersed nucleotide element-1 (LINE-1) is activated during salamander limb regeneration.**  
-*Zhu W, Kuo D, Nathanson J, Satoh A, Pao GM, **Yeo GW**, Bryant SV, Voss SR, Gardiner DM, Hunter T.*   
-Develop. Growth Differ.     
-[[PDF](/papers/2012/DevGrowthDiffer.pdf)]
+* [**Retrotransposon long interspersed nucleotide element-1 (LINE-1) is activated during salamander limb regeneration.**](/papers/2012/DevGrowthDiffer.pdf)  
+Zhu W, Kuo D, Nathanson J, Satoh A, Pao GM, **Yeo GW**, Bryant SV, Voss SR, Gardiner DM, Hunter T.   
+*Develop. Growth Differ.*     
 
-* **Evidence for premature aging due to oxidative stress in iPSCs from Cockayne syndrome.**  
-*Andrade LN, Nathanson JL, **Yeo GW**, Menck CF, Muotri AR.*   
-Human Molecular Genetics     
-[[PDF](/papers/2012/hummolgenet_2012.pdf)]
 
-* **Circadian oscillations of protein-coding and regulatory RNAs in a highly dynamic mammalian liver epigenome.**   
-*Vollmers C, Schmitz RJ, Nathanson J, **Yeo GW**, Ecker JR, Panda S.*   
-Cell Metabolism     
-[[PDF](/papers/2012/Cell2012.pdf)] [[Data](/papers/2012/Vollmers_smRNA_data.zip)]
+* [**Evidence for premature aging due to oxidative stress in iPSCs from Cockayne syndrome.**](/papers/2012/hummolgenet_2012.pdf)  
+Andrade LN, Nathanson JL, **Yeo GW**, Menck CF, Muotri AR.   
+*Human Molecular Genetics*     
 
-* **Alternative Splicing of a Novel Inducible Exon Diversifies the CASK Guanylate Kinase Domain**  
-*Dembowski JA, An P, Scoulos-Hanson M, **Yeo G**, Han J, Fu XD, Grabowski PJ.*   
-Journal of Nucleic Acids     
-[[PDF](/papers/2012/JNA2012_altspli.pdf)]
 
-* **Genome-wide approaches to dissect the roles of RNA binding proteins in translational control: implications for neurological diseases.**  
-*Kapeli K and **Yeo GW**.*   
-Frontiers in Neuroscience      
-[[PDF](/papers/2012/frontiers_neuroscience_katannya.pdf)]
+* [**Circadian oscillations of protein-coding and regulatory RNAs in a highly dynamic mammalian liver epigenome.**](/papers/2012/Cell2012.pdf)   
+Vollmers C, Schmitz RJ, Nathanson J, **Yeo GW**, Ecker JR, Panda S.   
+*Cell Metabolism*     
+[[Data](/papers/2012/Vollmers_smRNA_data.zip)]
 
-* **Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect in processing long pre-mRNAs.**  
-*Lagier-Tourenne C*, Polymenidou M*, Hutt KR*, Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY,Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & **Yeo GW**.*  
-Nature Neuroscience    
-[[PDF](/papers/2012/natureneuroscience_ALS_FUs_TLS_2012.pdf)] [[News&Views](/papers/2012/Gitler_newsandviews_Nat_Neurosc_2012.pdf)]
+* [**Alternative Splicing of a Novel Inducible Exon Diversifies the CASK Guanylate Kinase Domain**](/papers/2012/JNA2012_altspli.pdf)  
+Dembowski JA, An P, Scoulos-Hanson M, **Yeo G**, Han J, Fu XD, Grabowski PJ.   
+*Journal of Nucleic Acids*     
+
+
+* [**Genome-wide approaches to dissect the roles of RNA binding proteins in translational control: implications for neurological diseases.**](/papers/2012/frontiers_neuroscience_katannya.pdf)  
+Kapeli K and **Yeo GW**.   
+*Frontiers in Neuroscience*      
+
+
+
+* [**Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect in processing long pre-mRNAs.**](/papers/2012/natureneuroscience_ALS_FUs_TLS_2012.pdf)  
+Lagier-Tourenne C * , Polymenidou M * , Hutt KR * , Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY,Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & **Yeo GW**. *Co-first authors  
+*Nature Neuroscience*    
+[[News&Views](/papers/2012/Gitler_newsandviews_Nat_Neurosc_2012.pdf)]
 <a href="http://f1000.com/prime/717961255"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a> 
 
-* **LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance.**  
-*Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H,
-Vu AQ, Massirer KB, Morris Q, Hoon S, **Yeo GW.***   
-Molecular Cell     
-[[PDF](/papers/2012/wilbert2012.pdf)]
+* [**LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance.**](/papers/2012/wilbert2012.pdf)  
+Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H,
+Vu AQ, Massirer KB, Morris Q, Hoon S, **Yeo GW.**   
+*Molecular Cell*     
 <a href="http://f1000.com/prime/717964369"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
 [[ES CLIP Clusters](/papers/2012/LIN28ES_CLIPseq_clusters.BED.txt)] [[293 CLIP clusters](/papers/2012/LIN28V5_CLIPseq_clusters.BED.txt)]
 
-* **Misregulated RNA processing in amyotrophic lateral sclerosis.**  
+* [**Misregulated RNA processing in amyotrophic lateral sclerosis.**](/papers/2012/Magdalini_Polymenidou.pdf)  
 Polymenidou M, Lagier-Tourenne C, Hutt KR, Bennett CF, Cleveland DW, **Yeo GW.**    
-Brain Research     
-[[PDF](/papers/2012/Magdalini_Polymenidou.pdf)]
+*Brain Research*    
 
-* **Integrative genome-wide analysis reveals cooperative regulation of alternative splicing by hnRNP proteins.**  
+
+* [**Integrative genome-wide analysis reveals cooperative regulation of alternative splicing by hnRNP proteins.**](/papers/2012/PIIS2211124712000435.pdf)  
 Huelga SC, Vu AQ, Arnold JD, Liang TY, Liu PP, Yan BY, Donohue JP, Shiue L, Hoon S, Brenner S, Ares M, **Yeo GW.**    
-Cell Reports     
-[[PDF](/papers/2012/PIIS2211124712000435.pdf)] [[RNAbind](http://rnabind.ucsd.edu)]
+*Cell Reports*     
+[[RNAbind](http://rnabind.ucsd.edu)]
 
-* **High-resolution profiling and analysis of viral and host small RNAs during human cytomegalovirus infection.**  
+* [**High-resolution profiling and analysis of viral and host small RNAs during human cytomegalovirus infection.**](/papers/2012/JVirol_2012_Stark.pdf)  
 Stark TJ, Arnold JD, Spector DH, **Yeo GW.**    
-Journal Virology     
-[[PDF](/papers/2012/JVirol_2012_Stark.pdf)]
+*Journal Virology*     
 
 
 ### 2011
