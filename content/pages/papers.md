@@ -69,97 +69,96 @@ Shih HP, Seymour PA, Patel NA, Xie R, Wang A, Liu PP, **Yeo GW**, Magnuson MA, S
 
 
 * [**The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**](/papers/2015/Science-2015-Hung-science.aac7442.pdf)  
-*Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)*  
+Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)  
 *Science*  
  
 
-* **Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity.**  
-*Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corresponding)*    
-Molecular Cell  
-[[PDF](/papers/2015/Lee_molcell_2015.pdf)]  
+* [**Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity.**](/papers/2015/Lee_molcell_2015.pdf)  
+Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corresponding)    
+*Molecular Cell*  
+  
 
 * **Applications of Cas9 as an RNA-programmed RNA-binding protein.**  
 *Nelles DA, Fang MY, Aigner S, **Yeo GW***  
-Bioessays
+*Bioessays*
 [[PDF](/papers/2015/Nelles_et_al-2015-BioEssays.pdf)]  
 
-* **The Clothes Make the mRNA: Past and Present Trends in mRNP Fashion.**  
-*Singh G, Pratt GA, **Yeo GW**, Moore MJ*  
-Annual Review of Biochemistry  
-[[PDF](/papers/2015/ClothesMakeMrna_annurev-biochem2015.pdf)]
+* [**The Clothes Make the mRNA: Past and Present Trends in mRNP Fashion.**](/papers/2015/ClothesMakeMrna_annurev-biochem2015.pdf)  
+Singh G, Pratt GA, **Yeo GW**, Moore MJ  
+*Annual Review of Biochemistry*  
 
-* **Nxf1 natural variant E610G is a semi-dominant suppressor of IAP-induced RNA processing defects.**  
-*Concepcion D, Ross KD, Hutt KR, **Yeo GW**, Hamilton BA*  
-Annual Review of Biochemistry  
-[[PDF](/papers/2015/concepcion_genetics_2015.pdf)]
 
-* **RNA-binding proteins in neurodegeneration: Seq and you shall receive.**  
-*Nussbacher JK, Batra R, Lagier-Tourenne C, **Yeo GW** *  
-Trends in Neurosciences   
-[[PDF](/papers/2015/Julia_Cell.pdf)]
+* [**Nxf1 natural variant E610G is a semi-dominant suppressor of IAP-induced RNA processing defects.**](/papers/2015/concepcion_genetics_2015.pdf)  
+Concepcion D, Ross KD, Hutt KR, **Yeo GW**, Hamilton BA  
+*Annual Review of Biochemistry*  
 
-* **ALS-causative mutations in FUS/TLS confer gain- and loss-of-function by altered association with SMN and U1 snRNP.**  
-*Sun S, Ling S-C, Qiu J, Albuquerque CP, Zhou Y, Tokunaga S, Li H, Qiu H, Bui A, **Yeo GW**, Huang EJ, Eggan K, Zhou
-H, Fu X-D, Lagier-Tourenne C, Cleveland DW*  
-Nature Communications   
-[[PDF](/papers/2015/ALS2015.pdf)]
+
+* [**RNA-binding proteins in neurodegeneration: Seq and you shall receive.**](/papers/2015/Julia_Cell.pdf)  
+Nussbacher JK, Batra R, Lagier-Tourenne C, **Yeo GW**   
+*Trends in Neurosciences*   
+
+
+* [**ALS-causative mutations in FUS/TLS confer gain- and loss-of-function by altered association with SMN and U1 snRNP.**]((/papers/2015/ALS2015.pdf))  
+Sun S, Ling S-C, Qiu J, Albuquerque CP, Zhou Y, Tokunaga S, Li H, Qiu H, Bui A, **Yeo GW**, Huang EJ, Eggan K, Zhou
+H, Fu X-D, Lagier-Tourenne C, Cleveland DW  
+*Nature Communications*   
+
 
 * **Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**  
-*Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Ohno S, **Yeo GW**, Chang JT*  
-Journal of Immunology  
-[PDF]
+Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Ohno S, **Yeo GW**, Chang JT  
+*Journal of Immunology*  
 
-* **Identification of novel long non-coding RNAs underlying vertebrate cardiovascular development**  
-*Kurian L, Aguirre A, Sancho-Martinez I, Benner C, Hishida T, Nguyen T, Reddy P, Nivet E, Krause MN, Nelles D, Esteban CR, Campistol J, **Yeo GW**, Belmonte JCI*  
-Circulation  
-[[PDF](/papers/2015/Circulation_2015.pdf)]
+
+* [**Identification of novel long non-coding RNAs underlying vertebrate cardiovascular development**](/papers/2015/Circulation_2015.pdf)  
+Kurian L, Aguirre A, Sancho-Martinez I, Benner C, Hishida T, Nguyen T, Reddy P, Nivet E, Krause MN, Nelles D, Esteban CR, Campistol J, **Yeo GW**, Belmonte JCI  
+*Circulation*  
+
 
 
 ### 2014
-* **A Novel Splice-Site Mutation in ALS2 Establishes the Diagnosis of Juvenile Amyotrophic Lateral Sclerosis in a Family with Early Onset Anarthria and Generalized Dystonias.**  
-*Siddiqi S, Foo JN, Vu A, Azim S, Silver DL, Mansoor A, Tay SKH, Abbasi S, Hashmi AH, Janjua J, Khalid S, Tai ES, **Yeo
-GW**, Khor CC*  
-Plos One  
-[[PDF](/papers/2014/Siddiqi2014.pdf)]
+* [**A Novel Splice-Site Mutation in ALS2 Establishes the Diagnosis of Juvenile Amyotrophic Lateral Sclerosis in a Family with Early Onset Anarthria and Generalized Dystonias.**]((/papers/2014/Siddiqi2014.pdf))  
+Siddiqi S, Foo JN, Vu A, Azim S, Silver DL, Mansoor A, Tay SKH, Abbasi S, Hashmi AH, Janjua J, Khalid S, Tai ES, **Yeo
+GW**, Khor CC  
+*Plos One*  
 
-* **Intracellular mRNA Regulation with Self-Assembled Locked Nucleic Acid Polymer Nanoparticles.**  
-*Siddiqi S, Foo JN, Vu A, Azim S, Silver DL, Mansoor A, Tay SKH, Abbasi S, Hashmi AH, Janjua J, Khalid S, Tai ES, **Yeo
-GW**, Khor CC*  
-Plos One  
-[[PDF](/papers/2014/ja503598z.pdf)][[JACS](http://pubs.acs.org/doi/full/10.1021/ja503598z)]
 
-* **Virus-Cell Interactions Human Cytomegalovirus Infection of Human Embryonic Stem Cell-Derived Primitive Neural Stem Cells Is Restricted at Several Steps but Leads to the Persistence of Viral DNA.**
-*Belzile JP, Stark TJ, **Yeo GW**, Spector DH*  
-Journal of Virology  
-[[PDF](/papers/2014/Virol_2014_Belzile.pdf)][[JIV](http://jvi.asm.org/content/88/8/4021.long)]
+* [**Intracellular mRNA Regulation with Self-Assembled Locked Nucleic Acid Polymer Nanoparticles.**](/papers/2014/ja503598z.pdf)]  
+Siddiqi S, Foo JN, Vu A, Azim S, Silver DL, Mansoor A, Tay SKH, Abbasi S, Hashmi AH, Janjua J, Khalid S, Tai ES, **Yeo
+GW**, Khor CC 
+*Plos One*  
+[[JACS](http://pubs.acs.org/doi/full/10.1021/ja503598z)] 
 
-* **The Period protein homolog LIN-42 negatively regulates microRNA biogenesis in C. elegans.**  
-*Van Wynsberghe PM, Finnegana EF, Stark TJ, Angelus EP, Homan KE, **Yeo GW**, Pasquinelli AE*  
-Developmental Biology  
-[[PDF](/papers/2014/Van_Wynsberghe_ScienceDirect_2014.pdf)]
+* [**Virus-Cell Interactions Human Cytomegalovirus Infection of Human Embryonic Stem Cell-Derived Primitive Neural Stem Cells Is Restricted at Several Steps but Leads to the Persistence of Viral DNA.**](/papers/2014/Virol_2014_Belzile.pdf)
+Belzile JP, Stark TJ, **Yeo GW**, Spector DH  
+*Journal of Virology*  
+[[JIV](http://jvi.asm.org/content/88/8/4021.long)]
 
-* **Early specification of CD8+ T lymphocyte fates during adaptive immunity revealed by single-cell gene expression analyses.**  
-*Arsenio J+, Kakaradov B+, Metz PJ, Kim SH, **Yeo GW** * , Chang JT * . ( * co-corresponding) (+equal contribution)*  
-Nature Immunology  
-[[PDF](/papers/2014/Boyko_nature_2014.pdf)]
+* [**The Period protein homolog LIN-42 negatively regulates microRNA biogenesis in C. elegans.**](/papers/2014/Van_Wynsberghe_ScienceDirect_2014.pdf)  
+Van Wynsberghe PM, Finnegana EF, Stark TJ, Angelus EP, Homan KE, **Yeo GW**, Pasquinelli AE   
+*Developmental Biology*  
 
-* **The dsRBP and inactive editor, ADR-1, utilizes dsRNA binding to regulate A-to-I RNA editing across the C. elegans transcriptome.**  
+
+* [**Early specification of CD8+ T lymphocyte fates during adaptive immunity revealed by single-cell gene expression analyses.**](/papers/2014/Boyko_nature_2014.pdf)  
+Arsenio J+, Kakaradov B+, Metz PJ, Kim SH, **Yeo GW** * , Chang JT * . ( * co-corresponding) (+equal contribution)  
+*Nature Immunology* 
+
+
+* [**The dsRBP and inactive editor, ADR-1, utilizes dsRNA binding to regulate A-to-I RNA editing across the C. elegans transcriptome.**](/papers/2014/PIIS221112471400028X.pdf)  
 *Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW** * , Hundley HA * . ( * co-corresponding) (+equal contribution)*  
-Cell Reports   
-[[PDF](/papers/2014/PIIS221112471400028X.pdf)] [[Data](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51556)]
+*Cell Reports*   
+[[Data](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51556)]
 
 ### 2013
-* **Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges.**  
-*Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman LT, Hoon S, Massirer KB, Pratt GA, Black DL, Gray JW, Conboy JG, **Yeo GW**.*  
-Nature Structural and Molecular Biology  
-[[PDF](/papers/2013/nsmb2699.pdf)]
+* [**Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges.**](/papers/2013/nsmb2699.pdf) 
+Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman LT, Hoon S, Massirer KB, Pratt GA, Black DL, Gray JW, Conboy JG, **Yeo GW**.  
+*Nature Structural and Molecular Biology*  
  <a href="http://f1000.com/prime/718170823"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
 [[Human fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP029987)] [[Mouse fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP030031)] [[Data](http://sauron.ucsd.edu/public_hubs/nsmb_fox_hub/index.html)] [[Hub](/papers/2013/hub.txt)]
 
-* **Coordinate Nodal and BMP inhibition directs Baf60c-dependent cardiomyocyte commitment.**  
-*Cai W, Albini S, Wei K, Willems E, Guzzo RM, Tsuda M, Giordani L, Spiering S, Kurian L, **Yeo GW**, Puri PL, Mercola M.*  
-Genes Dev.  
-[[PDF](/papers/2013/Genes_Dev_2013.pdf)]
+* [**Coordinate Nodal and BMP inhibition directs Baf60c-dependent cardiomyocyte commitment.**](/papers/2013/Genes_Dev_2013.pdf)  
+Cai W, Albini S, Wei K, Willems E, Guzzo RM, Tsuda M, Giordani L, Spiering S, Kurian L, **Yeo GW**, Puri PL, Mercola M.  
+*Genes Dev.*  
+
 
 * **Targeted degradation of sense and antisense C9orf72 RNA foci as therapy for ALS and frontotemporal degeneration.**  
 *Lagier-Tourenne C, Baughn M, Rigo F, Sun S, Liu P, Li HR, Jiang J, Watt AT, Chun S, Katz M, Qiu J, Sun Y, Ling SC, Zhu Q, Polymenidou M, Drenner K, Artates JW, McAlonis-Downes M, Markmiller S, Hutt KR, Pizzo DP, Cady J, Harms MB, Baloh RH, Vandenberg SR, **Yeo GW**, Fu XD, Bennett CF, Cleveland DW, Ravits J.*  
