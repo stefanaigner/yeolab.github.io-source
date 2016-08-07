@@ -391,7 +391,7 @@ Han K * , **Yeo G** *, An P, Burge CB and Grabowski P. (co-first authors)
 
 
 * [**Identification and analysis of alternative splicing events conserved in human and mouse.**](/papers/2005/PNAS-2005-Yeo-2850-5.pdf)  
-**Yeo G** * , Van Nostrand, E Holste, D Poggio T, and Burge CB* ( * Co-corresponding)   
+**Yeo G** * , Van Nostrand, E Holste, D Poggio T, and Burge CB * ( * Co-corresponding)     
 *PNAS*      
 
 
