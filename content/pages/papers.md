@@ -309,51 +309,50 @@ PLoS One
 Nature     
 [[PDF](/papers/2009/nature08248.pdf)]
 
-* **Hippocampus-dependent learning is associated with adult neurogenesis in MRL/MpJ mice.**  
-*Thuret S, Toni N, Aigner S, **Yeo GW**, Gage FH.*   
-Hippocampus     
-[[PDF](/papers/2009/)]
+* [**Hippocampus-dependent learning is associated with adult neurogenesis in MRL/MpJ mice.**](/papers/2009/  
+Thuret S, Toni N, Aigner S, **Yeo GW**, Gage FH.   
+*Hippocampus*     
 
-* **Deep sequencing identifies new and regulated microRNAs in Schmidtea mediterranea.**  
-*Lu Y-C, Smielewska M, Palakodeti D, Lovci MT, Aigner S, **Yeo GW** * , Graveley BR* ( * co-corresponding)*   
-RNA     
-[[PDF](/papers/2009/RNA_2009.pdf)]
 
-* **An RNA code for the FOX2 splicing regulator revealed by mapping RNA-protein interactions in stem cells.**  
-***Yeo GW** *, Coufal, NG, Liang, TY, Peng GE, Fu, X-D*, Gage, FH * ( * co-corresponding)*   
-Nature Structural and Molecular Biology     
-[[PDF](/papers/2009/Yeo_RNA_code_for_the_FOX2_splicing.pdf)] [[Fasta](/papsrs/2009/Yeo_RNA_code_for_the_FOX2_splicing_Fasta.txt)] [[Data](/papers/2009/Yeo_RNA_code_for_the_FOX2_splicing_data.BED)]
+* [**Deep sequencing identifies new and regulated microRNAs in Schmidtea mediterranea.**](/papers/2009/RNA_2009.pdf)  
+Lu Y-C, Smielewska M, Palakodeti D, Lovci MT, Aigner S, **Yeo GW** * , Graveley BR * ( * co-corresponding)   
+*RNA*     
+
+
+* [**An RNA code for the FOX2 splicing regulator revealed by mapping RNA-protein interactions in stem cells.**](/papers/2009/Yeo_RNA_code_for_the_FOX2_splicing.pdf)  
+**Gene W Yeo**, Coufal, NG, Liang, TY, Peng GE, Fu, X-D , Gage, FH  
+*Nature Structural and Molecular Biology*     
+[[Fasta](/papsrs/2009/Yeo_RNA_code_for_the_FOX2_splicing_Fasta.txt)] [[Data](/papers/2009/Yeo_RNA_code_for_the_FOX2_splicing_data.BED)]
 
 ### 2008
 
-* **Evolutionarily conserved intronic splicing regulatory elements in the human genome.**  
-*Van Nostrand E and **Yeo GW***   
-Encyclopedia of Life Sciences     
-[[PDF](/papers/2008/VanNostrand_Yeo.pdf)]
+* [**Evolutionarily conserved intronic splicing regulatory elements in the human genome.**](/papers/2008/VanNostrand_Yeo.pdf)  
+Van Nostrand E and **Yeo GW**   
+*Encyclopedia of Life Sciences*     
 
-* **Determination of tag density required for digital transcriptome analysis: Application to an androgen-sensitive prostate cancer model.**  
-*Li H, Lovci MT, Kwon Y-S, Rosenfeld MG, Fu, X-D * , **Yeo GW** * ( * co-corresponding)*   
-PNAS     
-[[PDF](/papers/2008/Lovci_RNAseq_PNAS_2008.pdf)] [[Data](/papers/2008/Lovci_RNAseq_PNAS_2008_data.tar)]
 
-* **Divergent transcription from active promoters.**  
-*Seila AC, Calabrese JM, Levine SS, **Yeo GW**, Rahl PB, Flynn RA, Young RA, Sharp PA.*   
-Science     
-[[PDF](/papers/2008/Divergent_seila_2008.pdf)]
+* [**Determination of tag density required for digital transcriptome analysis: Application to an androgen-sensitive prostate cancer model.**](/papers/2008/Lovci_RNAseq_PNAS_2008.pdf)  
+Li H, Lovci MT, Kwon Y-S, Rosenfeld MG, Fu, X-D * , **Yeo GW** * ( * co-corresponding)   
+*PNAS*     
+[[Data](/papers/2008/Lovci_RNAseq_PNAS_2008_data.tar)]
+
+* [**Divergent transcription from active promoters.**](/papers/2008/Divergent_seila_2008.pdf)  
+Seila AC, Calabrese JM, Levine SS, **Yeo GW**, Rahl PB, Flynn RA, Young RA, Sharp PA.   
+*Science*     
 <a href="http://f1000.com/prime/1147319"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 
-* **The PIWI proteins SMEDWI2 and SMEDWI3 are required for stem cell function and piRNA expression in planarians.**  
-*Palakodeti D, Smielewska M, Liu Y, **Yeo G** * , Graveley BR *  ( * co-corresponding)*   
-Journal     
-[[PDF](/papers/2008/RNA_2008_Palakodeti_1174_86.pdf)]
+* [**The PIWI proteins SMEDWI2 and SMEDWI3 are required for stem cell function and piRNA expression in planarians.**](/papers/2008/RNA_2008_Palakodeti_1174_86.pdf)  
+Palakodeti D, Smielewska M, Liu Y, **Yeo G** * , Graveley BR *  ( * co-corresponding)   
+*Journal*     
+
 
 ### 2007
 
-* **RNA sequence analysis defines Dicer’s role in mouse embryonic stem cells.**  
-*Calabrese JM, Seila AC, **Yeo GW**, Sharp PA.*   
-PNAS     
-[[PDF](/papers/2007/CalabresePNAS07.pdf)]
+* [**RNA sequence analysis defines Dicer’s role in mouse embryonic stem cells.**](/papers/2007/CalabresePNAS07.pdf)  
+Calabrese JM, Seila AC, **Yeo GW**, Sharp PA.   
+*PNAS*     
+
 
 * [**A regulator of dscam mutually exclusive splicing fidelity.**](/papers/2007/regulator_olson_2007.pdf)  
 Olson S, Blanchette M, Park J, Savva Y, **Yeo G**, Yeakley J, Rio D, Graveley B.
