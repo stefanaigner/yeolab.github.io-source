@@ -351,7 +351,7 @@ Calabrese JM, Seila AC, **Yeo GW**, Sharp PA.
 
 
 * [**A regulator of dscam mutually exclusive splicing fidelity.**](/papers/2007/regulator_olson_2007.pdf)  
-Olson S, Blanchette M, Park J, Savva Y, **Yeo G**, Yeakley J, Rio D, Graveley B.
+Olson S, Blanchette M, Park J, Savva Y, **Yeo G**, Yeakley J, Rio D, Graveley B.  
 *Nature Structural and Molecular Biology*     
 
 
@@ -367,7 +367,7 @@ Olson S, Blanchette M, Park J, Savva Y, **Yeo G**, Yeakley J, Rio D, Graveley B.
 
 * [**Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters.**](/papers/2007/sdarticle.pdf)  
 Zimmerman AM, **Yeo G**, Howe K, Maddox BJ, Steiner   
-*LA Dev. Computational Immunology*     
+*Developmental and Comparative Immunology*     
 [[Data](/papers/2007DiscoveryandAnalysis_data_2007.tar)]
 
 * [**The EJC factor eIFAIII modulates synaptic strength and neuronal protein expression.**](/papers/2007/CorinnaGiorgi_Cell_2007.pdf)  
@@ -385,7 +385,7 @@ Stadler MB, Shomron N, **Yeo GW**, Schneider A, Xiao X, Burge CB
 
 ### 2005
 
-* [**Combinatorial code for splicing silencing: UAGG and GGGG motifs.**](/papers/2005/KyounghaHan_plosonebio_2005.pdf)  
+* [**A Combinatorial code for splicing silencing: UAGG and GGGG motifs.**](/papers/2005/KyounghaHan_plosonebio_2005.pdf)  
 Han K, **Yeo G**, An P, Burge CB and Grabowski P.   
 *PLoS Biology*     
 
@@ -400,7 +400,6 @@ Han K, **Yeo G**, An P, Burge CB and Grabowski P.
 * [**Systematic identification and analysis of exonic splicing silencers.**](/papers/2004/ZefengWang_Cell_2004.pdf))  
 Wang Z, Rolish ME, **Yeo G**, Tung V, Mawson M, and Burge C.B.   
 *Cell*     
-[[PDF]]
 
 * [**Variation in alternative splicing across human tissues.**](/papers/2004/YeoG_pnas-2004.pdf)  
 **Yeo G**, Holste D, Kreiman G, and Burge C.B.   
@@ -414,7 +413,7 @@ Wang Z, Rolish ME, **Yeo G**, Tung V, Mawson M, and Burge C.B.
 
 * [**RESCUE-ESE identifies candidate exonic splicing enhancers in vertebrate exons.**](/papers/2004/Nucl.AcidsRes.-2004-Fairbrother-W187-90.pdf)  
 Fairbrother WG, **Yeo G**, Yeh R, Goldstein P, Mawson M, Sharp PA, Burge CB.   
-*Nucleic Acids Res.*     
+*Nucleic Acids Research*     
 
 
 * [**Maximum entropy modeling of short sequence motifs with applications to RNA splicing signals.**](/papers/2004/yeoJCB.pdf)  
