@@ -130,7 +130,7 @@ Rush AM, Nelles DA, Blum AP, Barnhill SA, Tatro ET, **Yeo GW**, Gianneschi NC.
 * [**Human Cytomegalovirus Infection of Human Embryonic Stem Cell-Derived Primitive Neural Stem Cells Is Restricted at Several Steps but Leads to the Persistence of Viral DNA.**](/papers/2014/Virol_2014_Belzile.pdf)  
 Belzile JP, Stark TJ, **Yeo GW**, Spector DH  
 *Journal of Virology*  
-[[JIV](http://jvi.asm.org/content/88/8/4021.long)]
+
 
 * [**The Period protein homolog LIN-42 negatively regulates microRNA biogenesis in C. elegans.**](/papers/2014/Van_Wynsberghe_ScienceDirect_2014.pdf)  
 Van Wynsberghe PM, Finnegana EF, Stark TJ, Angelus EP, Homan KE, **Yeo GW**, Pasquinelli AE   
@@ -138,12 +138,12 @@ Van Wynsberghe PM, Finnegana EF, Stark TJ, Angelus EP, Homan KE, **Yeo GW**, Pas
 
 
 * [**Early specification of CD8+ T lymphocyte fates during adaptive immunity revealed by single-cell gene expression analyses.**](/papers/2014/Boyko_nature_2014.pdf)  
-Arsenio J+, Kakaradov B+, Metz PJ, Kim SH, **Yeo GW** * , Chang JT * . ( * co-corresponding) (+equal contribution)  
+Arsenio J+, Kakaradov B+, Metz PJ, Kim SH, **Yeo GW** * , Chang JT * . ( * co-corresponding)  
 *Nature Immunology* 
 
 
 * [**The dsRBP and inactive editor, ADR-1, utilizes dsRNA binding to regulate A-to-I RNA editing across the C. elegans transcriptome.**](/papers/2014/PIIS221112471400028X.pdf)  
-Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW** * , Hundley HA * . ( * co-corresponding) (+equal contribution)*  
+Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW** * , Hundley HA * . ( * co-corresponding)   
 *Cell Reports  
 [[Data](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51556)]
 
