@@ -69,7 +69,7 @@ Shih HP, Seymour PA, Patel NA, Xie R, Wang A, Liu PP, **Yeo GW**, Magnuson MA, S
 
 
 * [**The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**](/papers/2015/Science-2015-Hung-science.aac7442.pdf)  
-Hung T * , Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)  
+Hung T * , Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T * . ( * co-corresponding)  
 *Science*  
  
 
@@ -217,7 +217,7 @@ Kapeli K and **Yeo GW**.
 
 
 * [**Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect in processing long pre-mRNAs.**](/papers/2012/natureneuroscience_ALS_FUs_TLS_2012.pdf)  
-Lagier-Tourenne C, Polymenidou M, Hutt KR, Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY,Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & **Yeo GW**. 
+Lagier-Tourenne C, Polymenidou M, Hutt KR, Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY,Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & **Yeo GW**.   
 *Nature Neuroscience*    
 [[News&Views](/papers/2012/Gitler_newsandviews_Nat_Neurosc_2012.pdf)]
 <a href="http://f1000.com/prime/717961255"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a> 
@@ -247,7 +247,7 @@ Stark TJ, Arnold JD, Spector DH, **Yeo GW.**
 ### 2011
 
 * [**Long pre-mRNA depletion and RNA missplicing contribute to neuronal vulnerability from loss of TDP-43.**](/papers/2011/nn.2779.pdf)  
-Polymenidou M * , Lagier-Tourenne C * , Hutt KR * , Huelga SC, Moran J, Liang TY, Ling SC, Sun E, Wancewicz E, Mazur C, Kordasiewicz H, Sedaghat Y, Donohue JP, Shiue L, Bennett CF, **Yeo GW** * , Cleveland DW ** ( * authors contributed equally, ** co-corresponding)   
+Polymenidou M * , Lagier-Tourenne C * , Hutt KR * , Huelga SC, Moran J, Liang TY, Ling SC, Sun E, Wancewicz E, Mazur C, Kordasiewicz H, Sedaghat Y, Donohue JP, Shiue L, Bennett CF, **Yeo GW** * , Cleveland DW * ( * co-corresponding)   
 *Nature Neuroscience*     
 [[Data](/papers/2011/TDP43data.zip)]
 <a href="http://f1000.com/prime/10067966"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
