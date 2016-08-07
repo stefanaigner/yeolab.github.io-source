@@ -17,7 +17,7 @@ Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, A
 
 
 * [**Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**](/papers/2016/gabe_nature_2016.pdf)   
-Rentas S, Holzapfel NT * , Belew MS * , Pratt GA * , Voisin V, Wilhelm BT, Bader GD, **Yeo GW**, Hope KJ. ( * These authors contributed equally to this work.)   
+Rentas S, Holzapfel NT, Belew MS, Pratt GA, Voisin V, Wilhelm BT, Bader GD, **Yeo GW**, Hope KJ.   
 *Nature*   
 [[News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
 
@@ -69,7 +69,7 @@ Shih HP, Seymour PA, Patel NA, Xie R, Wang A, Liu PP, **Yeo GW**, Magnuson MA, S
 
 
 * [**The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**](/papers/2015/Science-2015-Hung-science.aac7442.pdf)  
-Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)  
+Hung T * , Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T. ( * co-corresponding)  
 *Science*  
  
 
@@ -217,7 +217,7 @@ Kapeli K and **Yeo GW**.
 
 
 * [**Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect in processing long pre-mRNAs.**](/papers/2012/natureneuroscience_ALS_FUs_TLS_2012.pdf)  
-Lagier-Tourenne C * , Polymenidou M * , Hutt KR * , Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY,Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & **Yeo GW**. *Co-first authors  
+Lagier-Tourenne C, Polymenidou M, Hutt KR, Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY,Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & **Yeo GW**. 
 *Nature Neuroscience*    
 [[News&Views](/papers/2012/Gitler_newsandviews_Nat_Neurosc_2012.pdf)]
 <a href="http://f1000.com/prime/717961255"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a> 
