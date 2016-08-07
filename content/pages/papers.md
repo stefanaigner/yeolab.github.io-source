@@ -17,7 +17,7 @@ Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, A
 
 
 * [**Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**](/papers/2016/gabe_nature_2016.pdf)   
-Stefan Rentas,	Nicholas T. Holzapfel,	Muluken S. Belew, Gabriel A. Pratt,	Veronique Voisin, Brian T. Wilhelm, Gary D. Bader, **Gene W. Yeo**, Kristin J. Hope  
+Rentas S, Holzapfel NT, Belew MS, Pratt GA, Voisin V, Wilhelm BT, Bader GD, **Yeo GW**, Hope KJ.  
 *Nature*   
 [[News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
 
@@ -36,7 +36,7 @@ Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.
 [[Highlight in Nature Methods](/papers/2016/nave_hihglights_2016.pdf)]
  <a href="http://f1000.com/prime/726227831?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
-* [**Enhanced CLIP (eCLIP) enables robust and scalable transcriptome-wide discovery and characterization of RNA binding protein binding sites.**](/papers/2016/nmeth_eric_2016.pdf)  
+* [**Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP).**](/papers/2016/nmeth_eric_2016.pdf)  
 Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
 *Nature Methods*    
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
