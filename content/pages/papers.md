@@ -116,7 +116,7 @@ Kurian L, Aguirre A, Sancho-Martinez I, Benner C, Hishida T, Nguyen T, Reddy P, 
 
 
 ### 2014
-* [**A Novel Splice-Site Mutation in ALS2 Establishes the Diagnosis of Juvenile Amyotrophic Lateral Sclerosis in a Family with Early Onset Anarthria and Generalized Dystonias.**]((/papers/2014/Siddiqi2014.pdf))  
+* [**A Novel Splice-Site Mutation in ALS2 Establishes the Diagnosis of Juvenile Amyotrophic Lateral Sclerosis in a Family with Early Onset Anarthria and Generalized Dystonias.**](/papers/2014/Siddiqi_2014.pdf)    
 Siddiqi S, Foo JN, Vu A, Azim S, Silver DL, Mansoor A, Tay SKH, Abbasi S, Hashmi AH, Janjua J, Khalid S, Tai ES, **Yeo
 GW**, Khor CC  
 *Plos One*  
