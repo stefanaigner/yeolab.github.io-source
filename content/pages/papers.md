@@ -278,7 +278,7 @@ Zisoulis DG, Lovci MT, Wilbert ML, Hutt KR, Liang YL, Pasquinelli AE, **Yeo GW**
 *Nature Structural and Molecular Biology*     
 [[Fasta](/papers/2010/ALG1_MT-WT_raw.tar)] [[Data](/papers/2010/NSMB_012010.tar)] [[Array Data](/papers/2010/alg1_arraydata.zip)]
 
-* [**A model for neural development and treatment of Rett syndrome using human induced pluripotent stem cells.**](/papers/maria_cell_2010.pdf)  
+* [**A model for neural development and treatment of Rett syndrome using human induced pluripotent stem cells.**](/papers/2010/cell_2010.pdf)  
 Marchetto MC, Carromeu C, Acab A, Yu D, **Yeo GW**, Mu Y, Chen G, Gage FH, Muotri AR.  
 *Cell*  
 <a href="http://f1000.com/prime/6397956"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
