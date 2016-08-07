@@ -258,15 +258,15 @@ Lovci MT, Li HR, Fu XD, **Yeo GW**.
 *Methods in Molecular Biology*     
 [[Example](/papers/2011/EXAMPLE-2.xls)]
 
-* **Genome-wide approaches in the study of microRNA biology.**  
-*Wilbert ML, **Yeo GW**.*   
-WIREs System Biology and Medicine     
-[[PDF](/papers/2011/128_fta.pdf)]
+* [**Genome-wide approaches in the study of microRNA biology.**](/papers/2011/128_fta.pdf)  
+Wilbert ML, **Yeo GW**.   
+*WIREs System Biology and Medicine*     
 
-* **LIN-28 co-transcriptionally binds primary let-7 to regulate miRNA maturation in Caenorhabditis elegans.**  
-*Van Wynsberghe PM, Kai ZS, Massirer KB, Burton VH, **Yeo GW**, Pasquinelli AE.*  
-Nature Structural and Molecular Biology     
-[[PDF](/papers/2011/nsmb1986.pdf)]
+
+* [**LIN-28 co-transcriptionally binds primary let-7 to regulate miRNA maturation in Caenorhabditis elegans.**](/papers/2011/nsmb1986.pdf)  
+Van Wynsberghe PM, Kai ZS, Massirer KB, Burton VH, **Yeo GW**, Pasquinelli AE.  
+*Nature Structural and Molecular Biology*     
+
 
 ### 2010
 
@@ -355,20 +355,20 @@ Journal
 PNAS     
 [[PDF](/papers/2007/CalabresePNAS07.pdf)]
 
-* **A regulator of dscam mutually exclusive splicing fidelity.**  
-*Olson S, Blanchette M, Park J, Savva Y, **Yeo G**, Yeakley J, Rio D, Graveley B.*
-Nature Structural and Molecular Biology     
-[[PDF](/papers/2007/regulator_olson_2007.pdf)]
+* [**A regulator of dscam mutually exclusive splicing fidelity.**](/papers/2007/regulator_olson_2007.pdf)  
+Olson S, Blanchette M, Park J, Savva Y, **Yeo G**, Yeakley J, Rio D, Graveley B.
+*Nature Structural and Molecular Biology*     
 
-* **Alternative events identified in human embryonic stem cells and neural progenitors.**  
- ***Yeo G** * , Xiang-dong X, Liang YT, Muotri AM, Carson C, Coufal N, Gage FH *  ( * co-corresponding)*   
-PLoS Computational Biology     
-[[PDF](/papers/2007/Yeo_PlosCompBiol07.pdf)] [[Data](/papers/2007/Yeo_PlosCompBiol07_data.tar)]
 
-* **Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements in mammalian genomes.**  
-***Yeo G**, Van Nostrand E, Liang Y.T.*   
-PLoS Genetics     
-[[PDF](/papers/2007/DiscoveryandAnalysis_2007.pdf)]
+* [**Alternative events identified in human embryonic stem cells and neural progenitors.**](/papers/2007/Yeo_PlosCompBiol07.pdf)  
+ **Yeo G** * , Xiang-dong X, Liang YT, Muotri AM, Carson C, Coufal N, Gage FH *  ( * co-corresponding)   
+*PLoS Computational Biology*     
+[[Data](/papers/2007/Yeo_PlosCompBiol07_data.tar)]
+
+* [**Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements in mammalian genomes.**](/papers/2007/DiscoveryandAnalysis_2007.pdf)  
+**Yeo G**, Van Nostrand E, Liang Y.T.   
+*PLoS Genetics*     
+
 
 * [**Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters.**](/papers/2007/sdarticle.pdf)  
 Zimmerman AM, **Yeo G**, Howe K, Maddox BJ, Steiner   
