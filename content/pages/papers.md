@@ -57,7 +57,7 @@ Gerson-Gurwitz A, Wang S, Sathe S, Green R, **Yeo GW**, Oegema K, Desai A.
 
 ### 2015
 
-* [**PPAR-δ is repressed in Huntington's disease, is required for normal neuronal function and can be targeted therapeutically.**]((/papers/2015/PPAR-δ.pdf))  
+* [**PPAR-δ is repressed in Huntington's disease, is required for normal neuronal function and can be targeted therapeutically.**](/papers/2015/PPAR_nature_2015.pdf)   
 Dickey AS, Pineda VV, Tsunemi T, Liu PP, Miranda HC, Gilmore-Hall SK, Lomas N, Sampat KR, Buttgereit A, Torres MM, Flores AL, Arreola M, Arbez N, Akimov SS, Gaasterland T, Lazarowski ER, Ross CA, **Yeo GW**, Sopher BL, Magnuson GK, Pinkerton AB, Masliah E, La Spada AR.  
 *Nature Medicine*  
  <a href="http://f1000.com/prime/725995535"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
