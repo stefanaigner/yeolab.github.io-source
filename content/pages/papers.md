@@ -193,7 +193,7 @@ Arnold ES, Ling SC, Huelga SC, Lagier-Tourenne C, Polymenidou M, Ditsworth D, Ko
 ### 2012
 * [**Retrotransposon long interspersed nucleotide element-1 (LINE-1) is activated during salamander limb regeneration.**](/papers/2012/DevGrowthDiffer.pdf)  
 Zhu W, Kuo D, Nathanson J, Satoh A, Pao GM, **Yeo GW**, Bryant SV, Voss SR, Gardiner DM, Hunter T.   
-*Develop. Growth Differ.*     
+*Development, Growth & Differentiation*     
 
 
 * [**Evidence for premature aging due to oxidative stress in iPSCs from Cockayne syndrome.**](/papers/2012/hummolgenet_2012.pdf)  
@@ -225,9 +225,9 @@ Lagier-Tourenne C * , Polymenidou M * , Hutt KR * , Vu AQ, Baughn M, Huelga SC, 
 * [**LIN28 binds messenger RNAs at GGAGA motifs and regulates splicing factor abundance.**](/papers/2012/wilbert2012.pdf)  
 Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H,
 Vu AQ, Massirer KB, Morris Q, Hoon S, **Yeo GW.**   
-*Molecular Cell*     
-<a href="http://f1000.com/prime/717964369"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
+*Molecular Cell*       
 [[ES CLIP Clusters](/papers/2012/LIN28ES_CLIPseq_clusters.BED.txt)] [[293 CLIP clusters](/papers/2012/LIN28V5_CLIPseq_clusters.BED.txt)]
+<a href="http://f1000.com/prime/717964369"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**Misregulated RNA processing in amyotrophic lateral sclerosis.**](/papers/2012/Magdalini_Polymenidou.pdf)  
 Polymenidou M, Lagier-Tourenne C, Hutt KR, Bennett CF, Cleveland DW, **Yeo GW.**    
@@ -292,7 +292,7 @@ Hinton A, Afrikanova I, Wilson M, King C, Maurer B, **Yeo G**, Hayek A, Pasquine
 
 
 * [**Genome-wide analysis of PTB-RNA interactions reveals a strategy used by the general splicing repressor to modulate exon inclusion or skipping.**](/papers/2009/Xue_MolCell_2009.pdf)   
-Xue Y, Zhou Y, Wu T, Zhu T, Ji X, Kwon YS, Zhang C, **Yeo G**, Black DL, Sun H, Fu XD, Zhang Y.*  
+Xue Y, Zhou Y, Wu T, Zhu T, Ji X, Kwon YS, Zhang C, **Yeo G**, Black DL, Sun H, Fu XD, Zhang Y.  
 *Molecular Cell*     
 
 
@@ -340,7 +340,7 @@ Seila AC, Calabrese JM, Levine SS, **Yeo GW**, Rahl PB, Flynn RA, Young RA, Shar
 
 * [**The PIWI proteins SMEDWI2 and SMEDWI3 are required for stem cell function and piRNA expression in planarians.**](/papers/2008/RNA_2008_Palakodeti_1174_86.pdf)  
 Palakodeti D, Smielewska M, Liu Y, **Yeo G** * , Graveley BR *  ( * co-corresponding)   
-*Journal*     
+*RNA*     
 
 
 ### 2007
