@@ -270,46 +270,43 @@ Van Wynsberghe PM, Kai ZS, Massirer KB, Burton VH, **Yeo GW**, Pasquinelli AE.
 
 ### 2010
 
-* **Alternative splicing in stem cell self-renewal differentiation.**  
-*Nelles DA, **Yeo GW**.*   
+* [**Alternative splicing in stem cell self-renewal differentiation.**](/papers/2010/alt_splicing_in_stem_cell.pdf)    
+Nelles DA, **Yeo GW**.   
 The Cell Biology of Stem Cells. Meshorer E, Plath K (Eds.). Landes Biosciences    
-[[PDF](/papers/2010/alt_splicing_in_stem_cell.pdf)]
 
-* **Comprehensive discovery of endogenous argonaute binding sites in Caenorhabditis elegans.**  
-*Zisoulis DG, Lovci MT, Wilbert ML, Hutt KR, Liang YL, Pasquinelli AE, **Yeo GW**.*   
-Nature Structural and Molecular Biology     
-[[PDF](/papers/2010/nsmb.1745.pdf)] [[Fasta](/papers/2010/ALG1_MT-WT_raw.tar)] [[Data](/papers/2010/NSMB_012010.tar)] [[Array Data](/papers/2010/alg1_arraydata.zip)]
+* [**Comprehensive discovery of endogenous argonaute binding sites in Caenorhabditis elegans.**](/papers/2010/nsmb.1745.pdf)    
+Zisoulis DG, Lovci MT, Wilbert ML, Hutt KR, Liang YL, Pasquinelli AE, **Yeo GW**.  
+*Nature Structural and Molecular Biology*     
+[[Fasta](/papers/2010/ALG1_MT-WT_raw.tar)] [[Data](/papers/2010/NSMB_012010.tar)] [[Array Data](/papers/2010/alg1_arraydata.zip)]
 
-* **A model for neural development and treatment of Rett syndrome using human induced pluripotent stem cells.**
-*Marchetto MC, Carromeu C, Acab A, Yu D, **Yeo GW**, Mu Y, Chen G, Gage FH, Muotri AR
-Cell  
-[[PDF](/papers/Maria_cell_2010.pdf)]
+* [**A model for neural development and treatment of Rett syndrome using human induced pluripotent stem cells.**](/papers/Maria_cell_2010.pdf)  
+Marchetto MC, Carromeu C, Acab A, Yu D, **Yeo GW**, Mu Y, Chen G, Gage FH, Muotri AR.  
+*Cell*  
 <a href="http://f1000.com/prime/6397956"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 
 ### 2009
 
-* **A distinct microRNA signature for definitive endoderm derived from human embryonic stem cells.**  
-*Hinton A, Afrikanova I, Wilson M, King C, Maurer B, **Yeo G**, Hayek A, Pasquinelli A.*   
-Stem Cells Dev.       
-[[PDF](/papers/2009/hinton_2009.pdf)]
+* [**A distinct microRNA signature for definitive endoderm derived from human embryonic stem cells.**](/papers/2009/hinton_2009.pdf)  
+Hinton A, Afrikanova I, Wilson M, King C, Maurer B, **Yeo G**, Hayek A, Pasquinelli A.   
+*Stem Cells Dev.*       
 
-* **Genome-wide analysis of PTB-RNA interactions reveals a strategy used by the general splicing repressor to modulate exon inclusion or skipping.**  
-*Xue Y, Zhou Y, Wu T, Zhu T, Ji X, Kwon YS, Zhang C, **Yeo G**, Black DL, Sun H, Fu XD, Zhang Y.*   
-Molecular Cell     
-[[PDF](/papers/2009/Xue_MolCell_2009.pdf)]
 
-* **Transcriptional signature and memory retention of human-induced pluripotent stem cells.**  
-*Marchetto MC, **Yeo GW**, Kainohana O, Marsala M, Gage FH, Muotri AR.*   
-PLoS One     
-[[PDF](/papers/2009/Marchettoe_PLoSONE09.pdf)]
+* [**Genome-wide analysis of PTB-RNA interactions reveals a strategy used by the general splicing repressor to modulate exon inclusion or skipping.**](/papers/2009/Xue_MolCell_2009.pdf)   
+Xue Y, Zhou Y, Wu T, Zhu T, Ji X, Kwon YS, Zhang C, **Yeo G**, Black DL, Sun H, Fu XD, Zhang Y.*  
+*Molecular Cell*     
 
-* **L1 retrotransposition in human neural progenitor cells.**  
-*Coufal NG, Garcia-Perez JL, Peng GE, **Yeo GW**, Mu Y, Lovci MT, Maria M, O’Shea KS, Moran JV, Gage FH.*   
-Nature     
-[[PDF](/papers/2009/nature08248.pdf)]
 
-* [**Hippocampus-dependent learning is associated with adult neurogenesis in MRL/MpJ mice.**](/papers/2009/  
+* [**Transcriptional signature and memory retention of human-induced pluripotent stem cells.**](/papers/2009/Marchettoe_PLoSONE09.pdf)  
+Marchetto MC, **Yeo GW**, Kainohana O, Marsala M, Gage FH, Muotri AR.   
+*PLoS One*     
+
+* [**L1 retrotransposition in human neural progenitor cells.**](/papers/2009/nature08248.pdf)  
+Coufal NG, Garcia-Perez JL, Peng GE, **Yeo GW**, Mu Y, Lovci MT, Maria M, O’Shea KS, Moran JV, Gage FH.   
+*Nature*     
+
+
+* [**Hippocampus-dependent learning is associated with adult neurogenesis in MRL/MpJ mice.**](/papers/2009/Thuret_et_al-2009-Hippocampus.pdf)  
 Thuret S, Toni N, Aigner S, **Yeo GW**, Gage FH.   
 *Hippocampus*     
 
@@ -389,10 +386,10 @@ Stadler MB, Shomron N, **Yeo GW**, Schneider A, Xiao X, Burge CB
 
 ### 2005
 
-* **Combinatorial code for splicing silencing: UAGG and GGGG motifs.**  
-*Han K, **Yeo G**, An P, Burge CB and Grabowski P.*   
-PLoS Biology     
-[[PDF](/papers/2005/KyounghaHan_plosonebio_2005.pdf)]
+* [**Combinatorial code for splicing silencing: UAGG and GGGG motifs.**](/papers/2005/KyounghaHan_plosonebio_2005.pdf)  
+Han K, **Yeo G**, An P, Burge CB and Grabowski P.   
+*PLoS Biology*     
+
 
 * [**Identification and analysis of alternative splicing events conserved in human and mouse.**](/papers/2005/PNAS-2005-Yeo-2850-5.pdf)  
 **Yeo G** * , Van Nostrand, E Holste, D Poggio T, and Burge CB* ( * co-corresponding)   
