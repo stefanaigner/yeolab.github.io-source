@@ -90,7 +90,7 @@ Singh G, Pratt GA, **Yeo GW**, Moore MJ
 
 * [**Nxf1 natural variant E610G is a semi-dominant suppressor of IAP-induced RNA processing defects.**](/papers/2015/concepcion_genetics_2015.pdf)  
 Concepcion D, Ross KD, Hutt KR, **Yeo GW**, Hamilton BA  
-*Annual Review of Biochemistry*  
+*PLoS Genet*  
 
 
 * [**RNA-binding proteins in neurodegeneration: Seq and you shall receive.**](/papers/2015/Julia_Cell.pdf)  
@@ -98,13 +98,13 @@ Nussbacher JK, Batra R, Lagier-Tourenne C, **Yeo GW**
 *Trends in Neurosciences*   
 
 
-* [**ALS-causative mutations in FUS/TLS confer gain- and loss-of-function by altered association with SMN and U1 snRNP.**]((/papers/2015/ALS2015.pdf))  
+* [**ALS-causative mutations in FUS/TLS confer gain- and loss-of-function by altered association with SMN and U1 snRNP.**](/papers/2015/ALS2015.pdf)  
 Sun S, Ling S-C, Qiu J, Albuquerque CP, Zhou Y, Tokunaga S, Li H, Qiu H, Bui A, **Yeo GW**, Huang EJ, Eggan K, Zhou
 H, Fu X-D, Lagier-Tourenne C, Cleveland DW  
 *Nature Communications*   
 
 
-* **Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**  
+* [**Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**](/papers/2015/J_Immunol-2015.pdf)  
 Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Ohno S, **Yeo GW**, Chang JT  
 *Journal of Immunology*  
 
@@ -123,8 +123,7 @@ GW**, Khor CC
 
 
 * [**Intracellular mRNA Regulation with Self-Assembled Locked Nucleic Acid Polymer Nanoparticles.**](/papers/2014/ja503598z.pdf)]  
-Siddiqi S, Foo JN, Vu A, Azim S, Silver DL, Mansoor A, Tay SKH, Abbasi S, Hashmi AH, Janjua J, Khalid S, Tai ES, **Yeo
-GW**, Khor CC   
+Rush AM, Nelles DA, Blum AP, Barnhill SA, Tatro ET, **Yeo GW**, Gianneschi NC.    
 *Plos One*  
 [[JACS](http://pubs.acs.org/doi/full/10.1021/ja503598z)] 
 
