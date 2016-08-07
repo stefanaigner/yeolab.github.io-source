@@ -45,7 +45,7 @@ Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman
 <a href="http://f1000.com/prime/726248372?bd=1 &ui=30714 " target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**Resources for the comprehensive discovery of functional RNA elements.**](/papers/2016/sundararaman_molcell_2016.pdf)  
-Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR *, **Yeo GW** *.  ( * co-corresponding)    
+Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR * , **Yeo GW** * .  ( * co-corresponding)    
 *Molecular Cell*   
 [[Highlight in Nature Reviews genetics](/papers/2016/nrg_highlight_2016.pdf)]
 
