@@ -31,7 +31,7 @@ Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Free
 Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.     
 *Cell*     
 [[Video](https://youtu.be/6vyomsWHgCo)]
-[[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]   
+[[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
 [[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
 [[Highlight in Nature Methods](/papers/2016/nave_hihglights_2016.pdf)]
  <a href="http://f1000.com/prime/726227831?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
@@ -105,11 +105,11 @@ H, Fu X-D, Lagier-Tourenne C, Cleveland DW
 
 
 * [**Regulation of asymmetric division and CD8+ T lympocyte fate specification by protein kinase Ceta and protein kinase C lambda.**](/papers/2015/J_Immunol-2015.pdf)  
-Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Ohno S, **Yeo GW**, Chang JT  
+Metz PJ, Arsenio J, Kakaradov B, Kim SH, Remedios KA, Oakley K, Akimoto K, Ohno S, **Yeo GW**, Chang JT  
 *Journal of Immunology*  
 
 
-* [**Identification of novel long non-coding RNAs underlying vertebrate cardiovascular development**](/papers/2015/Circulation_2015.pdf)  
+* [**Identification of novel long non-coding RNAs underlying vertebrate cardiovascular development.**](/papers/2015/Circulation_2015.pdf)  
 Kurian L, Aguirre A, Sancho-Martinez I, Benner C, Hishida T, Nguyen T, Reddy P, Nivet E, Krause MN, Nelles D, Esteban CR, Campistol J, **Yeo GW**, Belmonte JCI  
 *Circulation*  
 
@@ -124,10 +124,10 @@ GW**, Khor CC
 
 * [**Intracellular mRNA Regulation with Self-Assembled Locked Nucleic Acid Polymer Nanoparticles.**](/papers/2014/ja503598z.pdf)]  
 Rush AM, Nelles DA, Blum AP, Barnhill SA, Tatro ET, **Yeo GW**, Gianneschi NC.    
-*Plos One*  
-[[JACS](http://pubs.acs.org/doi/full/10.1021/ja503598z)] 
+*JACS*  
+ 
 
-* [**Virus-Cell Interactions Human Cytomegalovirus Infection of Human Embryonic Stem Cell-Derived Primitive Neural Stem Cells Is Restricted at Several Steps but Leads to the Persistence of Viral DNA.**](/papers/2014/Virol_2014_Belzile.pdf)
+* [**Human Cytomegalovirus Infection of Human Embryonic Stem Cell-Derived Primitive Neural Stem Cells Is Restricted at Several Steps but Leads to the Persistence of Viral DNA.**](/papers/2014/Virol_2014_Belzile.pdf)  
 Belzile JP, Stark TJ, **Yeo GW**, Spector DH  
 *Journal of Virology*  
 [[JIV](http://jvi.asm.org/content/88/8/4021.long)]
