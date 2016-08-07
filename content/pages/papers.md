@@ -144,7 +144,7 @@ Arsenio J+, Kakaradov B+, Metz PJ, Kim SH, **Yeo GW** * , Chang JT * . ( * co-co
 
 * [**The dsRBP and inactive editor, ADR-1, utilizes dsRNA binding to regulate A-to-I RNA editing across the C. elegans transcriptome.**](/papers/2014/PIIS221112471400028X.pdf)  
 Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW** * , Hundley HA * . ( * co-corresponding)   
-*Cell Reports  
+*Cell Reports*  
 [[Data](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51556)]
 
 ### 2013
