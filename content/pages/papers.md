@@ -361,7 +361,7 @@ Olson S, Blanchette M, Park J, Savva Y, **Yeo G**, Yeakley J, Rio D, Graveley B.
 [[Data](/papers/2007/Yeo_PlosCompBiol07_data.tar)]
 
 * [**Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements in mammalian genomes.**](/papers/2007/DiscoveryandAnalysis_2007.pdf)  
-**Yeo G**, Van Nostrand E, Liang Y.T.   
+**Yeo G** *, Van Nostrand E, Liang Y.T.   ( * corresponding)   
 *PLoS Genetics*     
 
 
@@ -386,7 +386,7 @@ Stadler MB, Shomron N, **Yeo GW**, Schneider A, Xiao X, Burge CB
 ### 2005
 
 * [**A Combinatorial code for splicing silencing: UAGG and GGGG motifs.**](/papers/2005/KyounghaHan_plosonebio_2005.pdf)  
-Han K, **Yeo G**, An P, Burge CB and Grabowski P.   
+Han K * , **Yeo G** *, An P, Burge CB and Grabowski P. (co-first authors)    
 *PLoS Biology*     
 
 
