@@ -148,7 +148,7 @@ Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW** * , Hu
 [[Data](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51556)]
 
 ### 2013
-* [**Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges.**](/papers/2013/nsmb2699.pdf) 
+* [**Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges.**](/papers/2013/nsmb2699.pdf)   
 Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman LT, Hoon S, Massirer KB, Pratt GA, Black DL, Gray JW, Conboy JG, **Yeo GW**.  
 *Nature Structural and Molecular Biology*  
  <a href="http://f1000.com/prime/718170823"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
@@ -156,7 +156,7 @@ Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman
 
 * [**Coordinate Nodal and BMP inhibition directs Baf60c-dependent cardiomyocyte commitment.**](/papers/2013/Genes_Dev_2013.pdf)  
 Cai W, Albini S, Wei K, Willems E, Guzzo RM, Tsuda M, Giordani L, Spiering S, Kurian L, **Yeo GW**, Puri PL, Mercola M.  
-*Genes Dev.*  
+*Genes & Development*  
 
 
 * [**Targeted degradation of sense and antisense C9orf72 RNA foci as therapy for ALS and frontotemporal degeneration.**](/papers/2013/PNAS_2013_Lagier_Tourenne.pdf)  
@@ -170,7 +170,7 @@ Verma SK, Deshmukj V, Liu P, Nutter CA, Espejo R, Hung M-L, Wang G-S, **Yeo GW**
 
 
 * [**Differential L1 regulation in pluripotent stem cells of humans and apes.**](/papers/2013/nature12686.pdf)  
-Marchetto MCN, Narvaiza I, Denli AM, Benner C, Lazzarini TA, Nathanson JL, Paquola ACM, Desai KN, Herai RH, Weitzman MD, **Yeo GW**, Muotri AR, & Gage FH.  
+Marchetto MCN, Narvaiza I, Denli AM, Benner C, Lazzarini TA, Nathanson JL, Paquola ACM, Desai KN, Herai RH, Weitzman MD, **Yeo GW**, Muotri AR, Gage FH.  
 *Nature*  
 
 
