@@ -7,7 +7,7 @@ Fellowship:
 Headshot: /images/people/jason_nathanson.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Research Scientist, SD
+Current_position: Research Scientist, Sequenom, San Diego
 End_date: 2014-09-01
 
 ## Degrees

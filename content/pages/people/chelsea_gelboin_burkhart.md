@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/chelsea_gelboin_burkhart.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: UCSD, CA
+Current_position: Medical School, New Jersey 
 End_date: 2016-07-31
 <!-- Status: draft -->
 
