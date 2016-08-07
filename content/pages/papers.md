@@ -6,7 +6,7 @@ icon: mdi mdi-file-multiple
 ### 2016
 
 * [**Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**](/papers/2016/katannya_naturecommuicate_2016.pdf)  
-Kapeli K*, Pratt GA*, Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lambert NJ, Huelga SC, Chun S, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Ares M, Burge CB, Rigo F, **Yeo GW**.  
+Kapeli K *, Pratt GA *, Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lambert NJ, Huelga SC, Chun S, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Ares M, Burge CB, Rigo F, **Yeo GW**.  
 <i>Nature Communications</i>
 
 
@@ -17,12 +17,12 @@ Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, A
 
 
 * [**Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**](/papers/2016/gabe_nature_2016.pdf)   
-Rentas S, Holzapfel NT, Belew MS, Pratt GA, Voisin V, Wilhelm BT, Bader GD, **Yeo GW**, Hope KJ.  
+Rentas S, Holzapfel NT * , Belew MS * , Pratt GA * , Voisin V, Wilhelm BT, Bader GD, **Yeo GW**, Hope KJ. ( * These authors contributed equally to this work.)   
 *Nature*   
 [[News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
 
 * [**Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**](/papers/2016/anne_cell_reports_2016.pdf)  
-Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, **Yeo GW**.     
+Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL *, **Yeo GW** *. ( * co-corresponding)     
 *Cell Reports*    
 [[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
 
@@ -45,12 +45,12 @@ Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman
 <a href="http://f1000.com/prime/726248372?bd=1 &ui=30714 " target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**Resources for the comprehensive discovery of functional RNA elements.**](/papers/2016/sundararaman_molcell_2016.pdf)  
-Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR, **Yeo GW**.     
+Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR *, **Yeo GW** *.  ( * co-corresponding)    
 *Molecular Cell*   
 [[Highlight in Nature Reviews genetics](/papers/2016/nrg_highlight_2016.pdf)]
 
 
-* **A small RNA-catalytic Argonaute pathway tunes germline transcript levels to ensure embryonic divisions.**  
+* [**A small RNA-catalytic Argonaute pathway tunes germline transcript levels to ensure embryonic divisions.**](/papers/2016/Gerson-Gurwitz_cell_2016.pdf)  
 Gerson-Gurwitz A, Wang S, Sathe S, Green R, **Yeo GW**, Oegema K, Desai A.  
 *Cell*  
 
