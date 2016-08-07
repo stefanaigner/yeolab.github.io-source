@@ -12,7 +12,7 @@ Kapeli K*, Pratt GA*, Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lam
 
 * [**Dysregulation of RBFOX2 is an early event in cardiac pathogenesis of diabetes.**](/papers/2016/Nutter_CellReports_2016.pdf)  
 Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, Abass IJ, Ijaz T, Brasier AR, Garg NJ, Wehrens XH, **Yeo GW**, Kuyumcu-Martinez MN.  
-*Cell Reports*
+<i>Cell Reports</i>
 
 
 
@@ -74,7 +74,7 @@ Hung T, Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham 
  
 
 * [**Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity.**](/papers/2015/Lee_molcell_2015.pdf)  
-Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * .( * co-corresponding)    
+Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * . ( * co-corresponding)    
 *Molecular Cell*  
   
 
@@ -217,7 +217,6 @@ Kapeli K and **Yeo GW**.
 *Frontiers in Neuroscience*      
 
 
-
 * [**Divergent roles of ALS-linked proteins FUS/TLS and TDP-43 intersect in processing long pre-mRNAs.**](/papers/2012/natureneuroscience_ALS_FUs_TLS_2012.pdf)  
 Lagier-Tourenne C * , Polymenidou M * , Hutt KR * , Vu AQ, Baughn M, Huelga SC, Clutario KM, Ling SC, Liang TY,Mazur C, Wancewicz E, Kim AS, Watt A, Freier S, Hicks GG, Donohue JP, Shiue L, Bennett CF, Ravits J, Cleveland DW & **Yeo GW**. *Co-first authors  
 *Nature Neuroscience*    
@@ -248,17 +247,16 @@ Stark TJ, Arnold JD, Spector DH, **Yeo GW.**
 
 ### 2011
 
-* **Long pre-mRNA depletion and RNA missplicing contribute to neuronal vulnerability from loss of TDP-43.**  
-*Polymenidou M * , Lagier-Tourenne C * , Hutt KR * , Huelga SC, Moran J, Liang TY, Ling SC, Sun E, Wancewicz E, Mazur C, Kordasiewicz H, Sedaghat Y, Donohue JP, Shiue L, Bennett CF, **Yeo GW** * , Cleveland DW ** ( * authors contributed
-equally, ** co-corresponding)*   
-Nature Neuroscience     
-[[PDF](/papers/2011/nn.2779.pdf)] [[Data](/papers/2011/TDP43data.zip)]
+* [**Long pre-mRNA depletion and RNA missplicing contribute to neuronal vulnerability from loss of TDP-43.**](/papers/2011/nn.2779.pdf)  
+Polymenidou M * , Lagier-Tourenne C * , Hutt KR * , Huelga SC, Moran J, Liang TY, Ling SC, Sun E, Wancewicz E, Mazur C, Kordasiewicz H, Sedaghat Y, Donohue JP, Shiue L, Bennett CF, **Yeo GW** * , Cleveland DW ** ( * authors contributed equally, ** co-corresponding)   
+*Nature Neuroscience*     
+[[Data](/papers/2011/TDP43data.zip)]
 <a href="http://f1000.com/prime/10067966"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
-* **RNA-seq analysis of gene expression and alternative splicing by double-random priming strategy.**  
-*Lovci MT, Li HR, Fu XD, **Yeo GW**.*   
-Methods in Molecular Biology     
-[[PDF](/papers/2011/LovciYeoRNA_seq.pdf)] [[Example](/papers/2011/EXAMPLE-2.xls)]
+* [**RNA-seq analysis of gene expression and alternative splicing by double-random priming strategy.**](/papers/2011/LovciYeoRNA_seq.pdf)    
+Lovci MT, Li HR, Fu XD, **Yeo GW**.   
+*Methods in Molecular Biology*     
+[[Example](/papers/2011/EXAMPLE-2.xls)]
 
 * **Genome-wide approaches in the study of microRNA biology.**  
 *Wilbert ML, **Yeo GW**.*   
@@ -372,23 +370,22 @@ PLoS Computational Biology
 PLoS Genetics     
 [[PDF](/papers/2007/DiscoveryandAnalysis_2007.pdf)]
 
-* **Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters.**  
-*Zimmerman AM, **Yeo G**, Howe K, Maddox BJ, Steiner*   
-LA Dev. Computational Immunology     
-[[PDF](/papers/2007/sdarticle.pdf)] [[Data](/papers/2007DiscoveryandAnalysis_data_2007.tar)]
+* [**Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters.**](/papers/2007/sdarticle.pdf)  
+Zimmerman AM, **Yeo G**, Howe K, Maddox BJ, Steiner   
+*LA Dev. Computational Immunology*     
+[[Data](/papers/2007DiscoveryandAnalysis_data_2007.tar)]
 
-* **The EJC factor eIFAIII modulates synaptic strength and neuronal protein expression.**  
-*Giorgi. C, **Yeo G**, Stone, ME, Katz, DB, Burge C, Turrigiano, C, Moore, MJ.*  
-Cell     
-[[PDF](/papers/2007/CorinnaGiorgi_Cell_2007.pdf)]
+* [**The EJC factor eIFAIII modulates synaptic strength and neuronal protein expression.**](/papers/2007/CorinnaGiorgi_Cell_2007.pdf)  
+Giorgi. C, **Yeo G**, Stone, ME, Katz, DB, Burge C, Turrigiano, C, Moore, MJ.  
+*Cell*     
+
 
 
 ### 2006
 
-* **Inference of splicing regulatory activities by sequence neighborhood analysis.**  
-*Stadler MB, Shomron N, **Yeo GW**, Schneider A, Xiao X, Burge CB*   
-PLoS Genetics     
-[[PDF](/papers/2006/MichaelBS_Plosgenetics_2006.pdf)]
+* [**Inference of splicing regulatory activities by sequence neighborhood analysis.**](/papers/2006/MichaelBS_Plosgenetics_2006.pdf)  
+Stadler MB, Shomron N, **Yeo GW**, Schneider A, Xiao X, Burge CB   
+*PLoS Genetics*     
 <a href="http://f1000.com/prime/1059762"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 ### 2005
@@ -398,48 +395,47 @@ PLoS Genetics
 PLoS Biology     
 [[PDF](/papers/2005/KyounghaHan_plosonebio_2005.pdf)]
 
-* **Identification and analysis of alternative splicing events conserved in human and mouse.**  
-***Yeo G** * , Van Nostrand, E Holste, D Poggio T, and Burge CB* ( * co-corresponding)*   
-PNAS     
-[[PDF](/papers/2005/PNAS-2005-Yeo-2850-5.pdf)]
+* [**Identification and analysis of alternative splicing events conserved in human and mouse.**](/papers/2005/PNAS-2005-Yeo-2850-5.pdf)  
+**Yeo G** * , Van Nostrand, E Holste, D Poggio T, and Burge CB* ( * co-corresponding)   
+*PNAS*      
+
 
 ### 2004
 
-* **Systematic identification and analysis of exonic splicing silencers.**  
-*Wang Z, Rolish ME, **Yeo G**, Tung V, Mawson M, and Burge C.B.*   
-Cell     
-[[PDF](/papers/2004/ZefengWang_Cell_2004.pdf)]
+* [**Systematic identification and analysis of exonic splicing silencers.**](/papers/2004/ZefengWang_Cell_2004.pdf))  
+Wang Z, Rolish ME, **Yeo G**, Tung V, Mawson M, and Burge C.B.   
+*Cell*     
+[[PDF]]
 
-* **Variation in alternative splicing across human tissues.**  
-***Yeo G**, Holste D, Kreiman G, and Burge C.B.*   
-Genome Biology     
-[[PDF](/papers/2004/YeoG_pnas-2004.pdf)]
-
-* **Variation in the splicing regulatory elements and their organization in vertebrate genomes.**  
-***Yeo G**, Hoon S, Venkatesh B, and Burge C.B.*   
-PNAS     
-[[PDF](/papers/2004/GeneY_Genomebio_2004.pdf)]
-
-* **RESCUE-ESE identifies candidate exonic splicing enhancers in vertebrate exons.**  
-*Fairbrother WG, **Yeo G**, Yeh R, Goldstein P, Mawson M, Sharp PA, Burge CB. *   
-Nucleic Acids Res.     
-[[PDF](/papers/2004/Nucl.AcidsRes.-2004-Fairbrother-W187-90.pdf)]
+* [**Variation in alternative splicing across human tissues.**](/papers/2004/YeoG_pnas-2004.pdf)  
+**Yeo G**, Holste D, Kreiman G, and Burge C.B.   
+*Genome Biology*     
 
 
-* **Maximum entropy modeling of short sequence motifs with applications to RNA splicing signals.**  
-***Yeo G** and Burge,C.*   
-Journal of Computational Biology     
-[[PDF](/papers/2004/yeoJCB.pdf)]
+* [**Variation in the splicing regulatory elements and their organization in vertebrate genomes.**](/papers/2004/GeneY_Genomebio_2004.pdf)   
+**Yeo G**, Hoon S, Venkatesh B, and Burge C.B.   
+*PNAS*     
 
-* **Non-classical splicing mutations in the coding and non-coding regions of the ATM gene: a comparison of cDNA with maximum entropy estimates of splice junction strengths.**  
-*Eng L, Coutinho G, Nahas S, **Yeo G**, Tanouye R, Drk T, Burge C.B, and Gatti R.A.*   
-Human Mutation     
-[[PDF](/papers/2004/Eng_et_al-2004-Human_Mutation.pdf)]
+
+* [**RESCUE-ESE identifies candidate exonic splicing enhancers in vertebrate exons.**](/papers/2004/Nucl.AcidsRes.-2004-Fairbrother-W187-90.pdf)  
+Fairbrother WG, **Yeo G**, Yeh R, Goldstein P, Mawson M, Sharp PA, Burge CB.   
+*Nucleic Acids Res.*     
+
+
+* [**Maximum entropy modeling of short sequence motifs with applications to RNA splicing signals.**](/papers/2004/yeoJCB.pdf)  
+**Yeo G** and Burge,C.   
+*Journal of Computational Biology*     
+
+
+* [**Non-classical splicing mutations in the coding and non-coding regions of the ATM gene: a comparison of cDNA with maximum entropy estimates of splice junction strengths.**](/papers/2004/Eng_et_al-2004-Human_Mutation.pdf)  
+Eng L, Coutinho G, Nahas S, **Yeo G**, Tanouye R, Drk T, Burge C.B, and Gatti R.A.   
+*Human Mutation*     
+
 
 
 ### 2003
 
-* **Regularized least-squares classification.**  
-*Rifkin R, **Yeo G**, and Poggio, T.*   
-Advances in Learning Theory: Methods, Model and Applications, NATO Science Series III:  Computer and System Sciences, Vol. 190, ISO Press, Amsterdam     
-[[PDF](/papers/2003/10.1.1.7.3463.pdf)]
+* [**Regularized least-squares classification.**](/papers/2003/10.1.1.7.3463.pdf)  
+Rifkin R, **Yeo G**, and Poggio, T.   
+*Advances in Learning Theory: Methods, Model and Applications, NATO Science Series III:  Computer and System Sciences, Vol. 190, ISO Press, Amsterdam*     
+
