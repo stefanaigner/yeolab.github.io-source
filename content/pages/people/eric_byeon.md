@@ -7,7 +7,7 @@ Email: email@ucsd.edu
 Fellowship:
 Headshot: 
 Template: person
-Alumni_or_current: Alumni
+Alumni_or_current: current
 Current_position: UCSD, CA
 End_date:
 <!-- Status: draft -->
