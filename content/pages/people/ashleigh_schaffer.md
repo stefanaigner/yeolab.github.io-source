@@ -11,7 +11,7 @@ alumni_or_current: Current
 
 ## Degrees
 
-coming soon!
+PhD, Developmental and Cell Biology, University of California - Irvine, 2010 
 
 ## Summary
 
