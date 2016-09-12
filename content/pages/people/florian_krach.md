@@ -11,7 +11,7 @@ Alumni_or_current: Current
 <!-- Status: draft -->
 
 ## Degrees
-M.S., Molecular Medicine, Friedrich-Alexander University of Erlangen-Nürnberg, Germany, 2016
+M.S., Molecular Medicine, Friedrich-Alexander University of Erlangen-Nürnberg, Germany, 2016   
 B.S., Molecular Medicine, Friedrich-Alexander University of Erlangen-Nürnberg, Germany, 2014
 
 ## Summary
