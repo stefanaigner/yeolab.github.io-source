@@ -5,8 +5,8 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 
-* [**Genomic analysis of the molecular neuropathology of tuberous sclerosis using a human stem cell model**](/papers/2016/Grabole_Genome Medicine_2016.pdf)  
-Grabole N, Zhang JD, Aigner S, Ruderisch N, Costa V, Weber FC, Theron M, Berntenis N, Spleiss O, Ebeling M, Yeo GW, Jagasia R, Kiialainen A.   
+* [**Genomic analysis of the molecular neuropathology of tuberous sclerosis using a human stem cell model**](/papers/2016/Grabole_GenomeMedicine_2016.pdf)  
+Grabole N, Zhang JD, Aigner S, Ruderisch N, Costa V, Weber FC, Theron M, Berntenis N, Spleiss O, Ebeling M, **Yeo GW**, Jagasia R, Kiialainen A.   
 <i>Genome Medicine</i>
 
 * [**Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**](/papers/2016/katannya_naturecommuicate_2016.pdf)  
