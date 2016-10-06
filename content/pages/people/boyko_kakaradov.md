@@ -17,6 +17,7 @@ End_date: 2015-09-01
 
 M.S. Computer Science, Stanford University, 2008 (with distinction in research)<br>
 B.S. Mathematics, Stanford University, 2007<br>
+Ph.D.
 
 ## Summary
 

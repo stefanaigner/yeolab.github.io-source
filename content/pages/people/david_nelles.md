@@ -1,6 +1,6 @@
 Title: David Nelles
 Date: 2009-06-01
-Position: Graduate Student
+Position: Post-Doctoral Fellow
 Position_suffix: (Ph.D.)
 Affiliation: Material Science and Engineering
 Email: dnelles@ucsd.edu
@@ -14,6 +14,8 @@ Alumni_or_current: Current
 
 B.S., Engineering Physics, University of Pittsburgh, 2009<br>
 M.S., Materials Science, University of California, San Diego, 2010<br>
+Ph.D., Materials Science, University of California, San Diego, 2016<br>
+
 ## Summary
 
 David Nelles received his B.S. in Engineering Physics from the University of Pittsburgh in 2009 and now studies at the University of California, San Diego in the Materials Science and Engineering Ph.D. program. David’s undergraduate program focused on solid-state physics, materials science and engineering, and electrical engineering. In the Yeo lab, David is developing RNA-sensitive nanosystems for disease modeling and drug delivery along with high-throughput means of studying RNA interactions. David is funded by the NSF Graduate Research Fellowship.
