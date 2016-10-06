@@ -4,6 +4,15 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2016
+* [**SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes**](/papers/2016/Kris_MolecularCell_2016.pdf)  
+Brannan KW *, Jin W *, Huelga SC *,Banks CA,Gilmore JM, Florens L, Washburn MP, Nostrand EV,Pratt GA, Schwinn MK, Daniels DL, and **Yeo GW**   
+<i>Molecular Cell</i>
+
+* [**Pairing beyond the Seed Supports MicroRNA Targeting Specificity**](/papers/2016/Jame_MolecularCell_2016.pdf)  
+Broughton JP,Lovci MT, Huang JL, **Yeo GW**, and Pasquinelli AE     
+<i>Molecular Cell</i>
+
+
 
 * [**Genomic analysis of the molecular neuropathology of tuberous sclerosis using a human stem cell model**](/papers/2016/Grabole_GenomeMedicine_2016.pdf)  
 Grabole N, Zhang JD, Aigner S, Ruderisch N, Costa V, Weber FC, Theron M, Berntenis N, Spleiss O, Ebeling M, **Yeo GW**, Jagasia R, Kiialainen A.   
