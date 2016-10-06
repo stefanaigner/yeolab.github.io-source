@@ -5,7 +5,7 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 * [**SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes**](/papers/2016/Kris_MolecularCell_2016.pdf)  
-Brannan KW *, Jin W *, Huelga SC *,Banks CA,Gilmore JM, Florens L, Washburn MP, Nostrand EV,Pratt GA, Schwinn MK, Daniels DL, and **Yeo GW**   
+Brannan KW * , Jin W * , Huelga SC *,Banks CA,Gilmore JM, Florens L, Washburn MP, Nostrand EV,Pratt GA, Schwinn MK, Daniels DL, and **Yeo GW**   
 <i>Molecular Cell</i>
 
 * [**Pairing beyond the Seed Supports MicroRNA Targeting Specificity**](/papers/2016/Jame_MolecularCell_2016.pdf)  
@@ -19,7 +19,7 @@ Grabole N, Zhang JD, Aigner S, Ruderisch N, Costa V, Weber FC, Theron M, Bernten
 <i>Genome Medicine</i>
 
 * [**Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses**](/papers/2016/katannya_naturecommuicate_2016.pdf)  
-Kapeli K *, Pratt GA *, Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lambert NJ, Huelga SC, Chun S, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Ares M, Burge CB, Rigo F, **Yeo GW**.  
+Kapeli K *, Pratt GA * , Vu AQ, Hutt KR, Martinez FJ, Sundararaman B, Freese P, Lambert NJ, Huelga SC, Chun S, Liang TY, Chang J, Donohue JP, Shiue L, Zhang J, Zhu H, Cambi F, Kasarskis E, Ares M, Burge CB, Rigo F, **Yeo GW**.  
 <i>Nature Communications</i>
 
 
