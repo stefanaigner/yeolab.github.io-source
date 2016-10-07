@@ -11,7 +11,7 @@ Verma SK, Deshmukh V, Nutter CA, Jaworski E, Jin W, Wadhwa L, Abata J, Ricci M, 
 
 
 * [**Predicting the functional states of human iPSC-derived neurons with single-cell RNA-seq and electrophysiology**](/papers/2016/Bardy_MolecularPsychiatry_2016.pdf)  
-Bardy C, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A, Gorris M, Marchand C, Jappelli R, Barron J, Bryant A, Kellogg M, Lasken R, Rutten B, Steinbusch H, **Yeo GW**  *, Gage F.( * co-corresponding)  
+Bardy C, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A, Gorris M, Marchand C, Jappelli R, Barron J, Bryant A, Kellogg M, Lasken R, Rutten B, Steinbusch H, **Yeo GW**  *, Gage F. ( * co-corresponding)  
 <i>Molecular Psychiatry</i>  
 
 
