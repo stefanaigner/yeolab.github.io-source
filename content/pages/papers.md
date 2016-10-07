@@ -4,6 +4,11 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2016
+* [**Predicting the functional states of human iPSC-derived neurons with single-cell RNA-seq and electrophysiology**](/papers/2016/Bardy_MolecularPsychiatry_2016.pdf)  
+Bardy C, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A, Gorris M, Marchand C, Jappelli R, Barron J, Bryant A, Kellogg M, Lasken R, Rutten B, Steinbusch H, **Yeo GW**  *, Gage F.( * co-corresponding)  
+<i>Molecular Psychiatry</i>  
+
+
 * [**SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes**](/papers/2016/Kris_MolecularCell_2016.pdf)  
 Brannan KW * , Jin W * , Huelga SC *,Banks CA,Gilmore JM, Florens L, Washburn MP, Nostrand EV,Pratt GA, Schwinn MK, Daniels DL, and **Yeo GW**   
 <i>Molecular Cell</i>  
