@@ -18,6 +18,9 @@ B.A. MCD Biology/ Biochemistry, University of Colorado at Boulder, 2007
 Kristopher completed his B.A. in Biochemistry at the University of Colorado Boulder with Dr. Jens Lykke-Andersen’s lab, studying mammalian gene expression regulation by mRNA turnover.  Kristopher conducted his thesis research at the University of Colorado School of Medicine with Dr. David Bentley focusing on the molecular mechanisms of RNA Polymerase II (pol II) transcription termination and elongation in mammalian systems.  This research uncovered a role for termination factors at gene promoter regions, and showed that these factors cooperate with decapping factors in the nucleus to elicit widespread premature termination of transcription important for limiting pol II elongation away from promoter proximal pause regions.  In 2014 Kristopher began his postdoctoral research with the Yeo lab, focusing on protein-protein and protein-RNA interactions important for controlling mRNA fate in the context of neuronal development and neurodegenerative disease.  
 
 ## Publications
+**Brannan, K.W.** et al., 2016. [SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes](/papers/2016/Kris_MolecularCell_2016.pdf). Molecular cell.   
+[[News](http://ucsdhealthsciences.tumblr.com/post/151431362850/computer-modeling-finds-new-rna-binding-proteins)]
+
 
 Fong N, **Brannan K**, Erickson B, et al. Effects of Transcription Elongation Rate and Xrn2 Exonuclease Activity on RNA Polymerase II Termination Suggest Widespread Kinetic Competition. Mol Cell. 60(2):256-267. doi:10.1016/j.molcel.2015.09.026.
 

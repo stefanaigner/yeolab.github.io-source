@@ -6,7 +6,8 @@ icon: mdi mdi-file-multiple
 ### 2016
 * [**SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes**](/papers/2016/Kris_MolecularCell_2016.pdf)  
 Brannan KW * , Jin W * , Huelga SC *,Banks CA,Gilmore JM, Florens L, Washburn MP, Nostrand EV,Pratt GA, Schwinn MK, Daniels DL, and **Yeo GW**   
-<i>Molecular Cell</i>
+<i>Molecular Cell</i>  
+[[News](http://ucsdhealthsciences.tumblr.com/post/151431362850/computer-modeling-finds-new-rna-binding-proteins)]
 
 * [**Pairing beyond the Seed Supports MicroRNA Targeting Specificity**](/papers/2016/Jame_MolecularCell_2016.pdf)  
 Broughton JP,Lovci MT, Huang JL, **Yeo GW**, and Pasquinelli AE     
