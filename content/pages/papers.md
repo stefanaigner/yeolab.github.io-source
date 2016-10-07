@@ -4,6 +4,12 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2016
+* [**Rbfox2 function in RNA metabolism is impaired in hypoplastic left heart syndrome patient hearts**](/papers/2016/Verma_ScientificReports_2016.pdf)  
+Verma SK, Deshmukh V, Nutter CA, Jaworski E, Jin W, Wadhwa L, Abata J, Ricci M, Lincoln J, Martin JF, **Yeo GW**, Kuyumcu-Martinez MN.  
+<i>Scientific Reports</i>  
+
+
+
 * [**Predicting the functional states of human iPSC-derived neurons with single-cell RNA-seq and electrophysiology**](/papers/2016/Bardy_MolecularPsychiatry_2016.pdf)  
 Bardy C, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A, Gorris M, Marchand C, Jappelli R, Barron J, Bryant A, Kellogg M, Lasken R, Rutten B, Steinbusch H, **Yeo GW**  *, Gage F.( * co-corresponding)  
 <i>Molecular Psychiatry</i>  
