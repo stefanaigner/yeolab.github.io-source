@@ -10,7 +10,7 @@ Headshot: /images/people/gene_yeo.png
 <!-- Status: draft -->
 
 ## Degrees
-[[CV](/papers/2016/YeoCV_ucsd_May2016_withBlurb.pdf)] <br>
+[[CV](/papers/2016/YeoCV_ucsd_Oct2016_withBlurb.pdf)] <br>
 MBA, University of California, San Diego, 2008<br>
 Ph.D., Computational Neuroscience, MIT, 2005<br>
 B.S., Chemical Engineering, University of Illinois, Urbana-Champaign 1998<br>
