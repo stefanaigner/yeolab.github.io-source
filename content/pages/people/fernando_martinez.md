@@ -21,7 +21,10 @@ Fernando is a graduate student in the Biomedical Sciences program at UCSD. He ea
 
 ##Publications
 
-Lee SR, Pratt GA, **Martinez FJ**, Yeo GW * , Lykke-Anderson J * . (*co-corresponding) Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity. Molecular Cell, 2015 [PDF]
+[Protein-RNA networks regulated by normal and ALS-associated mutant HNRNPA2B1 in the nervous system. Neuron](/papers/2016/Martinez_neuron_2016.pdf) **Martinez FJ**, Pratt GA, Van Nostrand EL, Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang H, Nussbacher JK, Broski, SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett F, Ares M, Burge CB, Taylor JP, Rigo F, Yeo GW.   
+, 2016. 
+
+Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity. Lee SR, Pratt GA, **Martinez FJ**, Yeo GW * , Lykke-Anderson J * . (*co-corresponding)  Molecular Cell, 2015 
 
 Enhanced Caenorhabditis elegans locomotion in a structured microfluidic environment. Park S, Hwang H, Nam SW, **Martinez F**, Austin RH, Ryu WS. PLoS One. 2008 Jun 25;3(6):e2550. [PMID: 18575618]
 

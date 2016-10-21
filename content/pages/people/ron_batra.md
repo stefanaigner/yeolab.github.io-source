@@ -18,17 +18,19 @@ Ron is a postdoctoral scholar at Gene Yeo lab at the University of California, S
 
 ## Publications
 
+**Batra R**, Stark TJ, Clark E, Belzile J-P, Roberts BT, Huelga SC, Spector DH, Yeo GW. Host RNA binding protein CPEB1 drives HCMV infection. Nature Structural and Molecular Biology, 2016. 
+
 Goodwin, M., Mohan, A., **Batra, R**. Swanson, M.S. (2015) “Dysregulation of alternative polyadenylation in myotonic dystrophy brain”; Accepted Cell Reports
 
 Prudencio, M. * , Belzil, V. * , **Batra, R.** * , Ross, C.,et. al. (2015) “Distinct brain transcriptome profiles in C9orf72-associated and sporadic ALS” ( *indicates equal contribution) Nature Neuroscience 2015 Jul 20. doi: 10.1038/nn.4065
 
 **Batra R**, Manchanda M, Swanson MS
-    Means to an end: Global insights into alternative polyadenylation regulation.
-    RNA Biology, 2015. [PDF]
+Means to an end: Global insights into alternative polyadenylation regulation.
+RNA Biology, 2015. 
 
 Nussbacher JK, **Batra R**, Lagier-Tourenne C, Yeo GW 
-    RNA-binding proteins in neurodegeneration: Seq and you shall receive.
-    Trends in Neurosciences, 2015. [PDF]
+RNA-binding proteins in neurodegeneration: Seq and you shall receive.
+Trends in Neurosciences, 2015. 
 
 **Batra, R.** * , Charizanis, K.* , Manchanda, M., Li, M., Mohan, A, Finn, D., Goodwin, M., Sobczak, K., Zhang, C., Thornton, C.A., Swanson M.S. (2014) “Loss of MBNL leads to disruption of developmentally regulated alternative polyadenylation in RNA mediated disease”; Molecular Cell, Oct 23;56(2):311-22, 2014 (*indicates equal contribution)
 
