@@ -5,11 +5,13 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 * [**Protein-RNA networks regulated by normal and ALS-associated mutant HNRNPA2B1 in the nervous system**](/papers/2016/Martinez_neuron_2016.pdf)  
-Martinez FJ, Pratt GA, Van Nostrand EL, Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang H, Nussbacher JK, Broski, SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett F, Ares M, Burge CB, Taylor JP, Rigo F, **Yeo GW**.
+Martinez FJ, Pratt GA, Van Nostrand EL, Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang H, Nussbacher JK, Broski, SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett F, Ares M, Burge CB, Taylor JP, Rigo F, **Yeo GW**.  
 <i>Neuron</i>  
+[[News](https://www.sciencedaily.com/releases/2016/10/161020120832.htm)]
+
 
 * [**Host RNA binding protein CPEB1 drives HCMV infection**](/papers/2016/)  
-Batra R, Stark TJ, Clark E, Belzile J-P, Roberts BT, Huelga SC, Spector DH, **Yeo GW**.
+Batra R, Stark TJ, Clark E, Belzile J-P, Roberts BT, Huelga SC, Spector DH, **Yeo GW**.   
 <i>Nature Structural and Molecular Biology</i>  
 
 
