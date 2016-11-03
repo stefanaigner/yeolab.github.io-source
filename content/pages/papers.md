@@ -5,6 +5,11 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 
+* [**From Protein-RNA Predictions toward a Peptide-RNA Code**](/papers/2016/BrannanYeo_Preview2016.pdf)  
+Kristopher W. Brannan and **Gene W. Yeo**
+<i>Molecular Cell</i>  
+
+
 * [**Host RNA binding protein CPEB1 drives HCMV infection**](/papers/2016/ron_NatureStructural_2016.pdf)  
 Batra R, Stark TJ, Clark E, Belzile J-P, Roberts BT, Huelga SC, Spector DH, **Yeo GW**.   
 <i>Nature Structural and Molecular Biology</i>  
