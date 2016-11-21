@@ -42,6 +42,7 @@ Bardy C, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A,
 Brannan KW * , Jin W * , Huelga SC *,Banks CA,Gilmore JM, Florens L, Washburn MP, Nostrand EV,Pratt GA, Schwinn MK, Daniels DL, and **Yeo GW**   
 <i>Molecular Cell</i>  
 [[News](http://ucsdhealthsciences.tumblr.com/post/151431362850/computer-modeling-finds-new-rna-binding-proteins)]
+[[spotlight](http://pubs.acs.org/doi/full/10.1021/acschembio.6b00969)]
 
 * [**Pairing beyond the Seed Supports MicroRNA Targeting Specificity**](/papers/2016/Jame_MolecularCell_2016.pdf)  
 Broughton JP,Lovci MT, Huang JL, **Yeo GW**, and Pasquinelli AE     

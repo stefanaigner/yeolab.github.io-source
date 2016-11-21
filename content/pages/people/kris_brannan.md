@@ -23,6 +23,7 @@ Kristopher completed his B.A. in Biochemistry at the University of Colorado Boul
 
 **Brannan, K.W.** et al., 2016. [SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes](/papers/2016/Kris_MolecularCell_2016.pdf). Mol Cell. 2016;64(2):282-293. doi: 10.1016/j.molcel.2016.09.003.  
 [[News](http://ucsdhealthsciences.tumblr.com/post/151431362850/computer-modeling-finds-new-rna-binding-proteins)]
+[[spotlight](http://pubs.acs.org/doi/full/10.1021/acschembio.6b00969)]
 
 Fong N, **Brannan K**, Erickson B, et al. Effects of Transcription Elongation Rate and Xrn2 Exonuclease Activity on RNA Polymerase II Termination Suggest Widespread Kinetic Competition. Mol Cell. 2015;60(2):256-267. doi:10.1016/j.molcel.2015.09.026.
 
