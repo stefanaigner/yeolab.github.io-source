@@ -28,7 +28,7 @@ icon: mdi mdi-currency-usd
   	*Collaboration on preclinical autism cellular assays, biosignatures, and network analyses (Copacabana)*  
 
   * ** ALSA** (PI: Yeo) 
-        *Comprehensive analysis of RNA localization and transport mechanisms in wildtype and ALS motor neurons*
+   *Comprehensive analysis of RNA localization and transport mechanisms in wildtype and ALS motor neurons*
 
 </a><br>
 ## Post-Doctoral Fellows
@@ -45,7 +45,7 @@ icon: mdi mdi-currency-usd
   </div>
   <div class="3u">
     <div class="fellowship-title">
-      <a href="http://">Hillbllom</a>
+      <a href="https://www.llhf.org">Hillbllom</a>
     </div>
     Current:
     <div class="fellowship-people">
@@ -74,7 +74,7 @@ icon: mdi mdi-currency-usd
 <div class="row">
   <div class="3u">
     <div class="fellowship-title">
-      <a href="https://www.nhlbi.nih.gov/research/training/programs/postdoc/pathway-parent-k99-r00/">K99</a>
+      <a href="https://www.nhlbi.nih.gov/research/training/programs/postdoc/pathway-parent-k99-r00/">NIH K99</a>
     </div>
     Current:
     <div class="fellowship-people">
