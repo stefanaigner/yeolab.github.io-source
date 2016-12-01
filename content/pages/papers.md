@@ -6,16 +6,17 @@ icon: mdi mdi-file-multiple
 ### 2016
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
-Jaclyn M. Einstein and **Gene W. Yeo**  
+Einstein JM and **Yeo GW**  
 <i>Science</i>  
 
 * [**From Protein-RNA Predictions toward a Peptide-RNA Code**](/papers/2016/BrannanYeo_Preview2016.pdf)  
-Kristopher W. Brannan and **Gene W. Yeo**  
+Brannan KW and **Yeo GW**  
 <i>Molecular Cell</i>  
 
 
-* [**Host RNA binding protein CPEB1 drives HCMV infection**](/papers/2016/ron_NatureStructural_2016.pdf)  
-Batra R, Stark TJ, Clark E, Belzile J-P, Roberts BT, Huelga SC, Spector DH, **Yeo GW**.   
+* [**RNA-binding protein CPEB1 remodels host and viral RNA landscapes**](/papers/2016/ron_NatureStructural_2016.pdf)  
+Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H,
+Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, **Yeo GW**.  
 <i>Nature Structural and Molecular Biology</i>  
 [[News](https://health.ucsd.edu/news/releases/Pages/2016-10-24-CMV-infection-relies-on-human-RNA-binding-protein.aspx)]    
 
