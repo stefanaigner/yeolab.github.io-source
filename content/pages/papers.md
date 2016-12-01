@@ -91,7 +91,7 @@ Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman
 *Nature Methods*    
 [[UCSD News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
 [[Biotechniques News](http://www.biotechniques.com/news/eCLIPsing-CLIP-RNA-Protein-Interactions-Revealed/biotechniques-364116.html#.VzI2ZmNqlZU)]
-[[Technology Priview in Molecular Cell](/papers/2016/eClip_techonologypreview_2016.pdf)]
+[[Technology Preview in Molecular Cell](/papers/2016/eClip_techonologypreview_2016.pdf)]
 <a href="http://f1000.com/prime/726248372?bd=1 &ui=30714 " target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**Resources for the comprehensive discovery of functional RNA elements.**](/papers/2016/sundararaman_molcell_2016.pdf)  

@@ -51,7 +51,7 @@ Bracko O, Singer T, **Aigner S**, Knobloch M, Winner B, Ray J, Clemenson GD Jr, 
 
 Winner B, Jappelli R, Maji SK, Desplats PA, Boyer L, **Aigner S**, Hetzer C, Loher T, Vilar M, Campioni S, Tzitzilonis C, Soragni A, Jessberger S, Mira H, Consiglio A, Pham E, Masliah E, Gage FH, Riek R. In vivo demonstration that alpha-synuclein oligomers are toxic. Proc Natl Acad Sci U S A. 2011; 108(10):4194-9. PMID: 21325059
 
-Lu YC, Smielewska M, Palakodeti D, Lovci MT, **Aigner S**, Yeo GW, Graveley BR. Deep sequencing identifies new and regulated microRNAs in Schmidtea mediterranea. Hippocampus. 2009; 15(8):1483-91. PMID: 19553344
+Lu YC, Smielewska M, Palakodeti D, Lovci MT, **Aigner S**, Yeo GW, Graveley BR. Deep sequencing identifies new and regulated microRNAs in Schmidtea mediterranea. RNA. 2009; 15(8):1483-91. PMID: 19553344
 
 Thuret S, Toni N, **Aigner S**, Yeo GW, Gage FH. Hippocampus-dependent learning is associated with adult neurogenesis in MRL/MpJ mice. Hippocampus. 2009; 19(7):658-69. PMID: 19140178
 
