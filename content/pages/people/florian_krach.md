@@ -1,6 +1,6 @@
 Title: Florian Krach
 Date: 2015-09-01
-Position: Staff
+Position: Visiting Graduate Student
 Position_suffix: 
 Affiliation:
 Email: mail@ucsd.edu
