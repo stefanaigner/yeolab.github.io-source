@@ -6,11 +6,11 @@ icon: mdi mdi-file-multiple
 ### 2016
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
-Einstein JM and **Yeo GW**  
+Einstein JM and **Yeo GW**.  
 <i>Science</i>  
 
 * [**From Protein-RNA Predictions toward a Peptide-RNA Code**](/papers/2016/BrannanYeo_Preview2016.pdf)  
-Brannan KW and **Yeo GW**  
+Brannan KW and **Yeo GW**.  
 <i>Molecular Cell</i>  
 
 
@@ -18,13 +18,13 @@ Brannan KW and **Yeo GW**
 Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H,
 Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, **Yeo GW**.  
 <i>Nature Structural and Molecular Biology</i>  
-[[News](https://health.ucsd.edu/news/releases/Pages/2016-10-24-CMV-infection-relies-on-human-RNA-binding-protein.aspx)]    
+[[UCSD News](https://health.ucsd.edu/news/releases/Pages/2016-10-24-CMV-infection-relies-on-human-RNA-binding-protein.aspx)]    
 
 
 * [**Protein-RNA networks regulated by normal and ALS-associated mutant HNRNPA2B1 in the nervous system**](/papers/2016/Martinez_neuron_2016.pdf)  
 Martinez FJ, Pratt GA, Van Nostrand EL, Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang H, Nussbacher JK, Broski, SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett F, Ares M, Burge CB, Taylor JP, Rigo F, **Yeo GW**.  
 <i>Neuron</i>  
-[[News](https://www.sciencedaily.com/releases/2016/10/161020120832.htm)]
+[[Science Daily News](https://www.sciencedaily.com/releases/2016/10/161020120832.htm)]
 
 
 
@@ -42,8 +42,8 @@ Bardy C, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A,
 * [**SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes**](/papers/2016/Kris_MolecularCell_2016.pdf)  
 Brannan KW * , Jin W * , Huelga SC *,Banks CA,Gilmore JM, Florens L, Washburn MP, Nostrand EV,Pratt GA, Schwinn MK, Daniels DL, and **Yeo GW**   
 <i>Molecular Cell</i>  
-[[News](http://ucsdhealthsciences.tumblr.com/post/151431362850/computer-modeling-finds-new-rna-binding-proteins)]
-[[spotlight](http://pubs.acs.org/doi/full/10.1021/acschembio.6b00969)]
+[[UCSD News](http://ucsdhealthsciences.tumblr.com/post/151431362850/computer-modeling-finds-new-rna-binding-proteins)]
+[[ACS Spotlight](http://pubs.acs.org/doi/full/10.1021/acschembio.6b00969)]
 
 * [**Pairing beyond the Seed Supports MicroRNA Targeting Specificity**](/papers/2016/Jame_MolecularCell_2016.pdf)  
 Broughton JP,Lovci MT, Huang JL, **Yeo GW**, and Pasquinelli AE     
@@ -69,19 +69,19 @@ Nutter CA, Jaworski EA, Verma SK, Deshmukh V, Wang Q, Botvinnik OB, Lozano MJ, A
 * [**Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells.**](/papers/2016/gabe_nature_2016.pdf)   
 Rentas S, Holzapfel NT, Belew MS, Pratt GA, Voisin V, Wilhelm BT, Bader GD, **Yeo GW**, Hope KJ.   
 *Nature*   
-[[News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
+[[Phys.Org News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
 
 * [**Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**](/papers/2016/anne_cell_reports_2016.pdf)  
 Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL * , **Yeo GW** * . ( * co-corresponding)           
 *Cell Reports*    
-[[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
+[[UCSD News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
 
 
 * [**Programmable RNA tracking in Live Cells with CRISPR/Cas9.**](/papers/2016/nelles_rcas9_2016.pdf)  
 Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.     
 *Cell*     
 [[Video](https://youtu.be/6vyomsWHgCo)]
-[[News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
+[[UCSD News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
 [[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
 [[Highlight in Nature Methods](/papers/2016/nave_hihglights_2016.pdf)]
  <a href="http://f1000.com/prime/726227831?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
@@ -89,15 +89,15 @@ Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.
 * [**Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP).**](/papers/2016/nmeth_eric_2016.pdf)  
 Van Nostrand EL, Pratt GA, Shishkin AA, Gelboin-Burkhart C, Fang M, Sundararaman B, Blue SM, Nguyen TB, Surka C, Elkins K, Stanton R, Rigo F, Guttman M, **Yeo GW**.     
 *Nature Methods*    
-[[News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
-[[News](http://www.biotechniques.com/news/eCLIPsing-CLIP-RNA-Protein-Interactions-Revealed/biotechniques-364116.html#.VzI2ZmNqlZU)]
+[[UCSD News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
+[[Biotechniques News](http://www.biotechniques.com/news/eCLIPsing-CLIP-RNA-Protein-Interactions-Revealed/biotechniques-364116.html#.VzI2ZmNqlZU)]
 [[Technology Priview in Molecular Cell](/papers/2016/eClip_techonologypreview_2016.pdf)]
 <a href="http://f1000.com/prime/726248372?bd=1 &ui=30714 " target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**Resources for the comprehensive discovery of functional RNA elements.**](/papers/2016/sundararaman_molcell_2016.pdf)  
 Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR * , **Yeo GW** * . ( * co-corresponding)       
 *Molecular Cell*   
-[[Highlight in Nature Reviews genetics](/papers/2016/nrg_highlight_2016.pdf)]
+[[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_2016.pdf)]
 
 
 * [**A small RNA-catalytic Argonaute pathway tunes germline transcript levels to ensure embryonic divisions.**](/papers/2016/Gerson-Gurwitz_cell_2016.pdf)  
@@ -169,7 +169,7 @@ Kurian L, Aguirre A, Sancho-Martinez I, Benner C, Hishida T, Nguyen T, Reddy P, 
 * [**A Novel Splice-Site Mutation in ALS2 Establishes the Diagnosis of Juvenile Amyotrophic Lateral Sclerosis in a Family with Early Onset Anarthria and Generalized Dystonias.**](/papers/2014/Siddiqi_2014.pdf)    
 Siddiqi S, Foo JN, Vu A, Azim S, Silver DL, Mansoor A, Tay SKH, Abbasi S, Hashmi AH, Janjua J, Khalid S, Tai ES, **Yeo
 GW**, Khor CC  
-*Plos One*  
+*PLoS One*  
 
 
 * [**Intracellular mRNA Regulation with Self-Assembled Locked Nucleic Acid Polymer Nanoparticles.**](/papers/2014/ja503598z.pdf)]  
