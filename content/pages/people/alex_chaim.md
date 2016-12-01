@@ -5,15 +5,15 @@ Position_suffix:
 Affiliation: Cellular and Molecular Medicine
 Email: iachaim@ucsd.edu 
 Fellowship: 
-Headshot: /images/people/.jpg
+Headshot: /images/people/alexch.jpg
 Template: person
 alumni_or_current: Current
 
 ## Degrees
-
+Coming Soon!
 
 ## Summary
-
+Coming Soon!
 ## Publications
 
 Coming Soon!
