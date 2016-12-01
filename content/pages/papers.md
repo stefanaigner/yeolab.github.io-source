@@ -6,11 +6,11 @@ icon: mdi mdi-file-multiple
 ### 2016
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
-Jaclyn M. Einstein and **Gene W. Yeo**
+Jaclyn M. Einstein and **Gene W. Yeo**  
 <i>Science</i>  
 
 * [**From Protein-RNA Predictions toward a Peptide-RNA Code**](/papers/2016/BrannanYeo_Preview2016.pdf)  
-Kristopher W. Brannan and **Gene W. Yeo**
+Kristopher W. Brannan and **Gene W. Yeo**  
 <i>Molecular Cell</i>  
 
 
