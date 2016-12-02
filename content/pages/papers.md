@@ -23,7 +23,8 @@ Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP
 
 * [**Protein-RNA networks regulated by normal and ALS-associated mutant HNRNPA2B1 in the nervous system**](/papers/2016/Martinez_neuron_2016.pdf)  
 Martinez FJ, Pratt GA, Van Nostrand EL, Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang H, Nussbacher JK, Broski, SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett F, Ares M, Burge CB, Taylor JP, Rigo F, **Yeo GW**.  
-<i>Neuron</i>  
+<i>Neuron</i>    
+[[Video](https://www.youtube.com/watch?v=QCc7RTWtOpE)]
 [[Science Daily News](https://www.sciencedaily.com/releases/2016/10/161020120832.htm)]
 
 

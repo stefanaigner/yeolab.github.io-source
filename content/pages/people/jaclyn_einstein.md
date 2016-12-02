@@ -21,4 +21,4 @@ Jackie is a PhD student in the Bioengineering department at UCSD. She graduated 
 
 
 ## Publications
-Coming soon!
+* **Einstein JM**, Yeo GW. [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf). Science. 2016 Nov 11;354(6313):705-706. 
