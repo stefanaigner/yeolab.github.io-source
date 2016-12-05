@@ -12,12 +12,14 @@ Template: person
 
 ## Degrees
 
-Coming Soon!!
+B.S. Cellular and Molecular Biology, University of Michigan 2013
 
 ## Summary
 
-Coming Soon!!
+Ryan is a PhD student in the Biomedical Sciences Program (BMS) at UCSD. He received his B.S. in Cellular and Molecular Biology from the University of Michigan in 2013. As an undergraduate, Ryan worked in the laboratory of Dr. Anuj Kumar investigating kinase signaling pathways in Saccharomyces cerevisiae in response to cellular and metabolic stress. Prior to that, he had worked in the laboratory of Dr. Michael King studying nature of the human vestibulo-ocular reflex (VOR) in tracking visual stimuli. After graduating, Ryan worked for two years as an Intramural Research Training Award postbaccalaureate fellow at the National Cancer Institute in Bethesda, MD. Working in the lab of Dr. Shalini Oberdeorffer, he studied how dynamic DNA methylation state regulates co-transcriptional pre-mRNA alternative splicing in CD4+ T lymphocytes. During this time, Ryan developed a strong interest in RNA metabolism in the context of cellular development and function, leading him to join the laboratory of Dr. Gene Yeo in 2016 for his thesis work. In his graduate studies, Ryan is broadly interested in using genetic and genomic techniques to investigate the roles of post-transcriptional modifications and mRNA processing pathways in the context of neuronal function and development. To that end, he wishes to investigate the molecular mechanisms of neurodegeneration using human stem cell technologies. Ryan is also a member of the Genetics Training Program at UCSD.
 
 ## Publications
 
-Coming Soon!!
+* Epigenomics meets splicing through the TETs and CTCF. **Marina RJ**, Oberdoerffer S. Cell Cycle 2016. PMID: 27104639  
+* TET-catalyzed oxidation of intragenic 5-methylcytosine regulates CTCF-dependent alternative splicing. **Marina RJ**, Sturgill D, Bailly MA, Thenoz M, Varma G, Prigge MF, Nanan KK, Shukla S, Haque N, Oberdoerffer S. EMBO J 2016. PMID: 26711177  
+* Diabetic Insult-Induced Redistribution of MicroRNA in Spatially Organized Mitochondria in Cardiac Muscle. **Marina RJ**, Fu XD. Circ Cardiovasc Genet. 2015. PMID: 26671968
