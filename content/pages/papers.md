@@ -18,7 +18,8 @@ Brannan KW and **Yeo GW**.
 Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H,
 Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, **Yeo GW**.  
 <i>Nature Structural and Molecular Biology</i>  
-[[UCSD News](https://health.ucsd.edu/news/releases/Pages/2016-10-24-CMV-infection-relies-on-human-RNA-binding-protein.aspx)]    
+[[UCSD News](https://health.ucsd.edu/news/releases/Pages/2016-10-24-CMV-infection-relies-on-human-RNA-binding-protein.aspx)]
+[[Quanta Magazine](https://www.quantamagazine.org/20161206-how-cmv-hijacks-cells-cpeb1/)]    
 
 
 * [**Protein-RNA networks regulated by normal and ALS-associated mutant HNRNPA2B1 in the nervous system**](/papers/2016/Martinez_neuron_2016.pdf)  
