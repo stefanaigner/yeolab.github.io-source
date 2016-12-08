@@ -7,21 +7,21 @@ icon: mdi mdi-file-multiple
 
 * [**MicroRNA-101 regulates multiple developmental programs to contrain excitation in adult network networks.**](/papers/2016/Lippi_neuron_2016.pdf)  
  Lippi G, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK.  
-***Neuron*** 
+Neuron 
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
 Einstein JM and **Yeo GW**.  
-___Science___
+Science
 
 * [**From Protein-RNA Predictions toward a Peptide-RNA Code**](/papers/2016/BrannanYeo_Preview2016.pdf)  
 Brannan KW and **Yeo GW**.  
-_**Molecular Cell**_
+Molecular Cell
 
 
 * [**RNA-binding protein CPEB1 remodels host and viral RNA landscapes**](/papers/2016/ron_NatureStructural_2016.pdf)  
 Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H,
 Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, **Yeo GW**.  
-**_Nature Structural and Molecular Biology_**  
+Nature Structural and Molecular Biologys  
 [[UCSD News](https://health.ucsd.edu/news/releases/Pages/2016-10-24-CMV-infection-relies-on-human-RNA-binding-protein.aspx)]
 [[Quanta Magazine](https://www.quantamagazine.org/20161206-how-cmv-hijacks-cells-cpeb1/)]    
 
