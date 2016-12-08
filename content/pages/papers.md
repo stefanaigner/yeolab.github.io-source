@@ -5,6 +5,10 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 
+* [MicroRNA-101 regulates multiple developmental programs to contrain excitation in adult network networks.](/papers/2016/Lippi_neuron_2016.pdf)
+ Lippi G, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK.  
+***Neuron*** 
+
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
 Einstein JM and **Yeo GW**.  
 <i>Science</i>  
