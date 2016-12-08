@@ -11,17 +11,17 @@ icon: mdi mdi-file-multiple
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
 Einstein JM and **Yeo GW**.  
-<i>Science</i>  
+___Science___
 
 * [**From Protein-RNA Predictions toward a Peptide-RNA Code**](/papers/2016/BrannanYeo_Preview2016.pdf)  
 Brannan KW and **Yeo GW**.  
-<i>Molecular Cell</i>  
+_**Molecular Cell**_
 
 
 * [**RNA-binding protein CPEB1 remodels host and viral RNA landscapes**](/papers/2016/ron_NatureStructural_2016.pdf)  
 Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H,
 Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, **Yeo GW**.  
-<i>Nature Structural and Molecular Biology</i>  
+**_Nature Structural and Molecular Biology_**  
 [[UCSD News](https://health.ucsd.edu/news/releases/Pages/2016-10-24-CMV-infection-relies-on-human-RNA-binding-protein.aspx)]
 [[Quanta Magazine](https://www.quantamagazine.org/20161206-how-cmv-hijacks-cells-cpeb1/)]    
 
