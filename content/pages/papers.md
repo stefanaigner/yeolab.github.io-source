@@ -5,6 +5,9 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 
+*[**CRISPR/Cas9-mediated integration enables TAG-eCLIP of endogenously tagged RNA binding proteins. Special issue “Protein-RNA: Structure function and recognition**](/papers/2016/VanNostrand_Methods2016.pdf)  
+Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, **Yeo GW**.
+
 * [**MicroRNA-101 regulates multiple developmental programs to constrain excitation in adult network networks.**](/papers/2016/Lippi_neuron_2016.pdf)  
  Lippi G, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK.  
 Neuron 
@@ -23,14 +26,21 @@ Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H,
 Gelboin-Burkhart C, Huelga SC, Aigner S, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, **Yeo GW**.  
 Nature Structural and Molecular Biologys  
 [[UCSD News](https://health.ucsd.edu/news/releases/Pages/2016-10-24-CMV-infection-relies-on-human-RNA-binding-protein.aspx)]
-[[Quanta Magazine](https://www.quantamagazine.org/20161206-how-cmv-hijacks-cells-cpeb1/)]    
+[[Quanta Magazine](https://www.quantamagazine.org/20161206-how-cmv-hijacks-cells-cpeb1/)]
+[[Infection Control Today News](http://www.infectioncontroltoday.com/news/2016/10/cytomegalovirus-infection-relies-on-human-rnabinding-protein.aspx)]
+[[Drug Discovery Today News](http://www.drugdiscoverytoday.com/view/44955/cytomegalovirus-infection-relies-on-human-rna-binding-protein/)]
+[[Kaiser Health News](http://khn.org/news/researchers-unlock-mystery-of-how-zika-spreads-in-human-cells/)]
+[[The Medical News](http://www.news-medical.net/news/20161024/Study-provides-potential-new-target-to-combat-cytomegalovirus-infections.aspx)]
+   
 
 
 * [**Protein-RNA networks regulated by normal and ALS-associated mutant HNRNPA2B1 in the nervous system**](/papers/2016/Martinez_neuron_2016.pdf)  
 Martinez FJ, Pratt GA, Van Nostrand EL, Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang H, Nussbacher JK, Broski, SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett F, Ares M, Burge CB, Taylor JP, Rigo F, **Yeo GW**.  
 <i>Neuron</i>    
-[[Video](https://www.youtube.com/watch?v=QCc7RTWtOpE)]
+[[Video](https://www.youtube.com/watch?v=QCc7RTWtOpE)]  
+[[UCSD News](https://health.ucsd.edu/news/releases/Pages/2016-10-20-ALS-study-reveals-role-of-RNA-binding-proteins.aspx)]
 [[Science Daily News](https://www.sciencedaily.com/releases/2016/10/161020120832.htm)]
+[[Healthcanal Ｎㄋ](http://www.healthcanal.com/infections/tropical-diseases/75233-als-study-reveals-role-of-rna-binding-proteins.html)]
 
 
 
@@ -90,6 +100,7 @@ Nelles DA, Fang M, O’Connell MR, Xu JL, Markmiller SJ, Doudna JA, **Yeo GW**.
 [[UCSD News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
 [[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
 [[Highlight in Nature Methods](/papers/2016/nave_hihglights_2016.pdf)]
+[[METHOD TO WATCH in Nature Mthods](http://www.nature.com/nmeth/journal/v14/n1/full/nmeth.4114.html?WT.ec_id=NMETH-201701&spMailingID=53091047&spUserID=ODM4NTQ1OTk5MjES1&spJobID=1065202980&spReportId=MTA2NTIwMjk4MAS2)] 
  <a href="http://f1000.com/prime/726227831?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP).**](/papers/2016/nmeth_eric_2016.pdf)  
