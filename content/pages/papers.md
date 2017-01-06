@@ -5,8 +5,10 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2016
 
-*[**CRISPR/Cas9-mediated integration enables TAG-eCLIP of endogenously tagged RNA binding proteins. Special issue “Protein-RNA: Structure function and recognition**](/papers/2016/VanNostrand_Methods2016.pdf)  
-Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, **Yeo GW**.
+* [**CRISPR/Cas9-mediated integration enables TAG-eCLIP of endogenously tagged RNA binding proteins. Special issue “Protein-RNA: Structure function and recognition**](/papers/2016/VanNostrand_Methods2016.pdf)  
+Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, **Yeo GW**.  
+Methods
+
 
 * [**MicroRNA-101 regulates multiple developmental programs to constrain excitation in adult network networks.**](/papers/2016/Lippi_neuron_2016.pdf)  
  Lippi G, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK.  
@@ -220,6 +222,7 @@ Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman
 *Nature Structural and Molecular Biology*  
  <a href="http://f1000.com/prime/718170823"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
 [[Human fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP029987)] [[Mouse fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP030031)] [[Data](http://sauron.ucsd.edu/public_hubs/nsmb_fox_hub/index.html)] [[Hub](/papers/2013/hub.txt)]
+[[Identification of RNA bridges](/papers/2013/RNA_bridge_som.pdf)]
 
 * [**Coordinate Nodal and BMP inhibition directs Baf60c-dependent cardiomyocyte commitment.**](/papers/2013/Genes_Dev_2013.pdf)  
 Cai W, Albini S, Wei K, Willems E, Guzzo RM, Tsuda M, Giordani L, Spiering S, Kurian L, **Yeo GW**, Puri PL, Mercola M.  
