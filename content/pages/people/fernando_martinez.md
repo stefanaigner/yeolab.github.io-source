@@ -8,12 +8,14 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/fernando_martinez.jpg
 Template: person
+End_date: 2016-12-31
 <!-- Status: draft -->
 
 ## Degrees
 
 A.B., Physics, Princeton University, 2005<br>
 M.S., Biophysics, Stanford University, 2008<br>
+Ph.D, Biomedical Sciences, UC San Diego, 2016<br>
 
 ## Summary
 
