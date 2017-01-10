@@ -1,5 +1,5 @@
 Title: Katannya Kapeli
-Date: 2013-10-05
+Date: 2012-10-05
 Position: Post-Doctoral Fellow
 Affiliation: Cellular and Molecular Medicine
 Email: kkapeli@ucsd.edu
@@ -8,7 +8,7 @@ Headshot: /images/people/katannya_kapeli.png
 Template: person
 Alumni_or_current: Alumni
 Current_position:Senior Project Scientist, Natl Univ Singapore
-End_date: 2014-09-01
+End_date: 2015-09-01
 
 ## Degrees
 Ph.D Cancer Biology, Oregon Health & Science University, 2011<br>
