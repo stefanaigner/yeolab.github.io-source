@@ -1,7 +1,7 @@
 Title: Melody Chang
 Date: 2009-06-01
-Position: Staff
-Position_suffix: Staff Scientist
+Position: Masters Student
+Position_suffix: (M.S.)
 Affiliation:
 Email: email@ucsd.edu
 Fellowship:

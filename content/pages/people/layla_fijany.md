@@ -1,6 +1,6 @@
 Title: Layla Fijany
 Date: 2013-06-01
-Position: Graduate Student
+Position: Masters Student
 Position_suffix: (M.S.)
 Affiliation: Biomedical Sciences
 Email: lfijany@ucsd.edu
