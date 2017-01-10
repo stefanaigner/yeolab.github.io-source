@@ -15,8 +15,8 @@ End_date: 2014-09-01
 
 ## Degrees
 
-Ph.D.<br>
 B.S., Biology and Music, Emory University, 2008<br>
+Ph.D, Biological Sciences, UC San Diego, 2014<br>
 
 ## Summary
 

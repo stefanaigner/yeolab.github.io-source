@@ -14,7 +14,8 @@ End_date: 2016-07-31
 
 ## Degrees
 
-B.S., Human Biology, UC San Diego, 2014
+B.S., Human Biology, UC San Diego, 2014  
+M.S., Biological Sciences, UC San Diego, 2016
 
 ## Summary
 

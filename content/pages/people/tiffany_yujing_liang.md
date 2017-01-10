@@ -1,19 +1,20 @@
 Title: Tiffany Yujing Liang
 Date: 2008-06-01
 Position: Staff
-Position_suffix: Research Associate II, Lab Manarger
+Position_suffix: Staff Research Associate II, Lab Manarger
 Affiliation:
 Email: yuliang@ucsd.edu
 Fellowship:
 Headshot: /images/people/tiffany_yujing_liang.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Bioinformatics Master’s at SDSU
+Current_position: BioNano Genomics, Inc.
 End_date: 2012-09-01
 <!-- Status: draft -->
 
 ## Degrees
 B.S., Computer Science with a specialization in Bioinformatics, University of California, San Diego, 2005<br>
+M.S., Biomedical Informatics and Bioinformatics, SDSU, 2013<br>
 
 ## Summary
 Tiffany Yujing Liang received her B.S. in Computer Science with a specialization in Bioinformatics from UCSD in 2005.  She worked closely with Gene Yeo at the Salk Institute, prior to moving to UCSD with the lab.  Her work involves both computational and biological aspects of: Optimizing UV-crosslinking Immuno-precipitation (CLIP-seq); analysis of alternative splicing utilizing Affymetrix exon-array and RNA-seq data; and cell culture experiments.

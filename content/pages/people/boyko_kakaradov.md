@@ -15,9 +15,9 @@ End_date: 2015-09-01
 
 ## Degrees
 
-M.S. Computer Science, Stanford University, 2008 (with distinction in research)<br>
 B.S. Mathematics, Stanford University, 2007<br>
-Ph.D.
+M.S. Computer Science, Stanford University, 2008 (with distinction in research)<br>
+Ph.D, Bioinformatics and Systems Biology, UC San Diego, 2015
 
 ## Summary
 

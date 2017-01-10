@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/balaji_sundararaman.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: UCSD, CA
+Current_position: Human Genome Sequencing Center in Baylor College of Medicine
 End_date: 2015-10-31
 <!-- Status: draft -->
 

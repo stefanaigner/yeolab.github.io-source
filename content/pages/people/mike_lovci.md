@@ -15,8 +15,8 @@ End_date: 2014-09-01
 
 ## Degrees
 
-PH.D.<br>
 B.S., General Biology, University of California, San Diego, 2009<br>
+Ph.D, Biomedical Sciences, UC San Diego, 2014<br>
 
 ## Summary
 

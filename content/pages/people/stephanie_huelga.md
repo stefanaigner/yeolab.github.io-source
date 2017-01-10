@@ -13,7 +13,8 @@ End_date: 2014-11-01
 <!-- Status: draft -->
 
 ## Degrees
-B.S., Bioinformatics, UC Santa Cruz, 2008
+B.S., Bioinformatics, UC Santa Cruz, 2008  
+Ph.D, Bioinfomatics and Systems Biology, UC San Diego, 2014
 
 ## Summary
 As an undergraduate at UCSC (Go Banana Slugs!), Stephanie had the opportunity to participate in plenty of research, both experimental and computational, in the labs of Dr. Manny Ares, Dr. Seth Rubin, and Dr. Kevin Karplus. Currently, Stephanie is a graduate student in the Bioinformatics and Systems Biology Program. In her first year as a graduate student, Stephanie conducted 10-week research rotations with Dr. James Halpert, Dr. Adam Godzik, and Dr. Vineet Bafna. Now, her research in the Yeo Lab uses CLIP-seq, RNA-seq and exon-junction microarrays to analyze mRNA processing and regulation by RNA-binding proteins and their roles in cancer and human disease. Stephanie is funded by the NSF Graduate Research Fellowship and is also a recipient of the ARCS achievement award.

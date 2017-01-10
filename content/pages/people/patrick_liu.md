@@ -14,6 +14,7 @@ End_date: 2014-09-01
 
 ## Degrees
 B.S., Bioengineering: Bioinformatics University of California, San Diego 2011<br>
+M.S., Computer Science, UC San Diego, 2016<br>
 ## Summary
 
 Patrick received his Bachelor's degree in Bioengineering with a specialization in Bioinformatics from UCSD in 2011. He joined the lab shortly after graduating, and has since been working on the analysis of high-throughput sequencing data and workflow management. 
