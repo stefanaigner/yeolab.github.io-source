@@ -7,7 +7,9 @@ Email: email@ucsd.edu
 Fellowship: 
 Headshot: /images/people/ashleigh_schaffer.jpg
 Template: person
-alumni_or_current: Current
+Current_position: 
+alumni_or_current: alumni
+End_date: 2016-12-31
 
 ## Degrees
 
