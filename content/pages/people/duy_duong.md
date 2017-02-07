@@ -1,22 +1,22 @@
-Title: Lloyd Howard Wang
-Date: 
+Title: Duy Duong
+Date: 2013
 Position: Undergraduate Student
-Position_suffix: (Tiffany Yang)
+Position_suffix: (Jason Nathanson & Katannya Kapeli)
 Affiliation: Biology
 Email: email@ucsd.edu
 Fellowship:
 Headshot: /images/people/headshot_placeholder.png
 Template: person
 Alumni_or_current: Alumni
-Current_position: 
-End_date: 
+Current_position: Technician, Invivoscribe (CA)
+End_date: 2015
 <!-- Status: draft -->
 
-## Research Advisor  
-Tiffany Yang
 ## Degrees
 Coming Soon!
+
 ## Summary
 Coming Soon!
+
 ##Publications
 Coming Soon!

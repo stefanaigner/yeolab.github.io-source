@@ -1,8 +1,8 @@
 Title: Rahul Nachnani
-Date: 2013-06-01
+Date: 2015-06-01
 Position: Undergraduate Student
-Position_suffix: 
-Affiliation:
+Position_suffix: (Ashleigh Schaffer)
+Affiliation: Biology
 Email: email@ucsd.edu
 Fellowship:
 Headshot: /images/people/rahul_nachnani.jpg

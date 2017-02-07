@@ -1,7 +1,7 @@
 Title: Jade Laguer
 Date: 2012
 Position: Undergraduate Student
-Position_suffix: Sebastian Markmiller
+Position_suffix: (Sebastian Markmiller)
 Affiliation: Biology
 Email: email@ucsd.edu
 Fellowship:

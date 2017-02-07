@@ -1,22 +1,22 @@
-Title: Lloyd Howard Wang
-Date: 
+Title: Jake Gutkowski
+Date: 2014
 Position: Undergraduate Student
-Position_suffix: (Tiffany Yang)
-Affiliation: Biology
+Position_suffix: (Thai Nguyen)
+Affiliation: Nanoengineering
 Email: email@ucsd.edu
 Fellowship:
 Headshot: /images/people/headshot_placeholder.png
 Template: person
 Alumni_or_current: Alumni
-Current_position: 
-End_date: 
+Current_position: Student; Engineering intern at Illumina
+End_date: 2015
 <!-- Status: draft -->
 
-## Research Advisor  
-Tiffany Yang
 ## Degrees
 Coming Soon!
+
 ## Summary
 Coming Soon!
+
 ##Publications
 Coming Soon!

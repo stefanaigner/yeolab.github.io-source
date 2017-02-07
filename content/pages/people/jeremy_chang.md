@@ -1,14 +1,14 @@
 Title: Jeremy Chang
-Date: 2012-06-01
+Date: 2011-06-01
 Position: Undergraduate Student
-Position_suffix: 
-Affiliation:
+Position_suffix: (Anthony Vu & Katannya Kapeli)
+Affiliation: Biology
 Email: email@ucsd.edu
 Fellowship:
 Headshot: /images/people/jeremy_chang.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: UCSD, CA
+Current_position: Medical student at UCSD Medical program
 End_date: 2013-09-01
 <!-- Status: draft -->
 

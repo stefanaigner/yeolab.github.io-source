@@ -1,7 +1,7 @@
 Title: Ashley Wu
 Date: 2012
 Position: Undergraduate Student
-Position_suffix: Jason Nathanson & Sebastian Markmiller
+Position_suffix: (Jason Nathanson & Sebastian Markmiller)
 Affiliation: Biology
 Email: email@ucsd.edu
 Fellowship:

@@ -1,7 +1,7 @@
 Title: Bernice Yan
 Date: 2010-06-01
 Position: Undergraduate Student
-Position_suffix: Anthony Vu
+Position_suffix: (Anthony Vu)
 Affiliation:Biology
 Email: email@ucsd.edu
 Fellowship:

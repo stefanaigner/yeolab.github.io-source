@@ -1,7 +1,7 @@
 Title: Stella Chen
 Date: 2011-06-01
 Position: Undergraduate Student
-Position_suffix: Melissa Wilbert
+Position_suffix: (Melissa Wilbert)
 Affiliation: Biology
 Email: email@ucsd.edu
 Fellowship:

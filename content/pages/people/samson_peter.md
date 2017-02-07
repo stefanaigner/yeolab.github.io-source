@@ -1,15 +1,15 @@
-Title: Jessica Lettes
-Date: 2015-06-01
+Title: Samson Peter
+Date: 2015-9
 Position: Undergraduate Student
-Position_suffix: (Olga Botvinnik)
+Position_suffix: (Fred Tan)
 Affiliation: Biology
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/jessica_lettes.jpg
+Headshot: 
 Template: person
-Alumni_or_current: Current
+Alumni_or_current: current
 Current_position: UCSD, CA
-End_date: 
+End_date:
 <!-- Status: draft -->
 
 ## Degrees
