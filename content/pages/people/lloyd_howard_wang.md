@@ -1,22 +1,22 @@
-Title: Yiu Cheung Wang
-Date: 2010-06-01
+Title: Lloyd Howard Wang
+Date: 
 Position: Undergraduate Student
-Position_suffix: David Nelles
-Affiliation: Electrical Engineering
+Position_suffix: Tiffany Yang
+Affiliation: Biology
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/yiu_cheung_wang.jpg
+Headshot: /images/people/headshot_placeholder.png
 Template: person
 Alumni_or_current: Alumni
-Current_position: UCSD, CA
-End_date: 2013-09-01
+Current_position: 
+End_date: 
 <!-- Status: draft -->
 
+## Research Advisor  
+Tiffany Yang
 ## Degrees
 Coming Soon!
-
 ## Summary
 Coming Soon!
-
 ##Publications
 Coming Soon!

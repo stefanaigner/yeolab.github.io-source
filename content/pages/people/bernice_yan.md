@@ -1,14 +1,14 @@
 Title: Bernice Yan
 Date: 2010-06-01
 Position: Undergraduate Student
-Position_suffix: 
-Affiliation:
+Position_suffix: Anthony Vu
+Affiliation:Biology
 Email: email@ucsd.edu
 Fellowship:
 Headshot: /images/people/bernice_yan.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: UCSD, CA
+Current_position: Medical student at Weill Cornell School of Medicine
 End_date: 2013-09-01
 <!-- Status: draft -->
 
