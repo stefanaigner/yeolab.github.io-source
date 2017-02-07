@@ -1,5 +1,5 @@
 Title: Lloyd Howard Wang
-Date: 
+Date: 2013
 Position: Undergraduate Student
 Position_suffix: (Tiffany Yang)
 Affiliation: Biology
@@ -9,11 +9,9 @@ Headshot: /images/people/headshot_placeholder.png
 Template: person
 Alumni_or_current: Alumni
 Current_position: 
-End_date: 
+End_date: 2014
 <!-- Status: draft -->
 
-## Research Advisor  
-Tiffany Yang
 ## Degrees
 Coming Soon!
 ## Summary
