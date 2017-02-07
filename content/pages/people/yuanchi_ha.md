@@ -1,11 +1,11 @@
-Title: Jessica Lettes
+Title: Yuanchi Ha
 Date: 2015-06-01
 Position: Undergraduate Student
-Position_suffix: (Olga Botvinnik)
+Position_suffix: (En-Ching Luo)
 Affiliation: Computer Science
 Email: email@ucsd.edu
 Fellowship:
-Headshot: /images/people/jessica_lettes.jpg
+Headshot: /images/people/yuanchi_ha.jpg
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA
