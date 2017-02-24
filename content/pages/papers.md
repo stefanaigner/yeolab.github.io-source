@@ -143,7 +143,7 @@ Nature Immunology
 
 
 * [**The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**](/papers/2015/Science-2015-Hung-science.aac7442.pdf)  
-  Hung T * , Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T * . ( * co-corresponding)  
+  Hung T , Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T * . ( * co-corresponding)  
   *Science*  
 
 
