@@ -47,7 +47,7 @@ Nature Immunology
   [[Video](https://www.youtube.com/watch?v=QCc7RTWtOpE)]  
   [[UCSD News](https://health.ucsd.edu/news/releases/Pages/2016-10-20-ALS-study-reveals-role-of-RNA-binding-proteins.aspx)]
   [[Science Daily News](https://www.sciencedaily.com/releases/2016/10/161020120832.htm)]
-  [[Healthcanal Ｎㄋ](http://www.healthcanal.com/infections/tropical-diseases/75233-als-study-reveals-role-of-rna-binding-proteins.html)]
+  [[Healthcanal News](http://www.healthcanal.com/infections/tropical-diseases/75233-als-study-reveals-role-of-rna-binding-proteins.html)]
 
 
 
