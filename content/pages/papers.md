@@ -6,7 +6,7 @@ icon: mdi mdi-file-multiple
 ### 2017
 * [**Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing**](/papers/2017/KakaradovNatureImmunology2017.pdf)  
 Kakaradov B , Arsenio J, Widjaja CE, He Z, Aigner S, Metz PJ, Yu B, Wehrens EJ, Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang
-JT # , **Yeo GW** # . ( # co-corresponding )   
+JT§, , **Yeo GW**§. ( §, co-corresponding )   
 Nature Immunology
 
 ### 2016
@@ -17,7 +17,7 @@ Nature Immunology
 
 
 * [**MicroRNA-101 regulates multiple developmental programs to constrain excitation in adult network networks.**](/papers/2016/Lippi_neuron_2016.pdf)  
-   Lippi #, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK #.  ( # co-corresponding )  
+   Lippi§,, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**§, Berg DK§,.  ( § co-corresponding )  
   Neuron 
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
@@ -58,7 +58,7 @@ Nature Immunology
 
 
 * [**Predicting the functional states of human iPSC-derived neurons with single-cell RNA-seq and electrophysiology**](/papers/2016/Bardy_MolecularPsychiatry_2016.pdf)  
-  Bardy C#, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A, Gorris M, Marchand C, Jappelli R, Barron J, Bryant A, Kellogg M, Lasken R, Rutten B, Steinbusch H, **Yeo GW**#, Gage F#. ( * co-corresponding)   
+  Bardy C§, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A, Gorris M, Marchand C, Jappelli R, Barron J, Bryant A, Kellogg M, Lasken R, Rutten B, Steinbusch H, **Yeo GW**§, Gage F§. ( § co-corresponding)   
   <i>Molecular Psychiatry</i>  
 
 
@@ -95,7 +95,7 @@ Nature Immunology
   [[Phys.Org News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
 
 * [**Enhanced CLIP uncovers IMP protein-RNA targets in human pluripotent stem cells important for cell adhesion and survival.**](/papers/2016/anne_cell_reports_2016.pdf)  
-  Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL * , **Yeo GW** * . ( * co-corresponding)           
+  Conway AE, Van Nostrand EL, Pratt GA, Aigner S, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL§, **Yeo GW**§. ( § co-corresponding)           
   *Cell Reports*    
   [[UCSD News](http://ucsdhealthsciences.tumblr.com/post/142424010805/just-the-faqs-rna-binding-proteins-in-stem-cells)]
 
@@ -119,7 +119,7 @@ Nature Immunology
   <a href="http://f1000.com/prime/726248372?bd=1 &ui=30714 " target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**Resources for the comprehensive discovery of functional RNA elements.**](/papers/2016/sundararaman_molcell_2016.pdf)  
-  Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR * , **Yeo GW** * . ( * co-corresponding)       
+  Sundararaman B, Zhan L, Blue S, Stanton R, Elkins K, Olson S, Wei X, Van Nostrand EL, Huelga SC, Smalec BM, Wang X, Hong EL, Davidson JM, Lecuyer E, Graveley BR§, **Yeo GW**§. ( § co-corresponding)       
   *Molecular Cell*   
   [[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_2016.pdf)]
 
@@ -143,12 +143,12 @@ Nature Immunology
 
 
 * [**The Ro60 Autoantigen Binds Endogenous Retroelements and Regulates Inflammatory Gene Expression**](/papers/2015/Science-2015-Hung-science.aac7442.pdf)  
-  Hung T , Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW** * , Behrens T * . ( * co-corresponding)  
+  Hung T , Pratt G, Sundararaman B, Townsend MJ, Chaivorapol C, Bhangale T, Graham RR, Ortmann W, Criswell LA, **Yeo GW**§, Behrens T§. ( § co-corresponding)  
   *Science*  
 
 
 * [**Target discrimination in nonsense-mediated mRNA decay requires Upf1 ATPase activity.**](/papers/2015/Lee_molcell_2015.pdf)  
-  Lee SR, Pratt GA, Martinez FJ, **Yeo GW** * ,  Lykke-Anderson J * . ( * co-corresponding)    
+  Lee SR, Pratt GA, Martinez FJ, **Yeo GW**§,  Lykke-Anderson J§. ( § co-corresponding)    
   *Molecular Cell*  
 
 * [**Applications of Cas9 as an RNA-programmed RNA-binding protein.**](/papers/2015/Nelles_et_al-2015-BioEssays.pdf)  
@@ -210,12 +210,12 @@ Nature Immunology
 
 
 * [**Early specification of CD8+ T lymphocyte fates during adaptive immunity revealed by single-cell gene expression analyses.**](/papers/2014/Boyko_nature_2014.pdf)  
-  Arsenio J+, Kakaradov B+, Metz PJ, Kim SH, **Yeo GW** * , Chang JT * . ( * co-corresponding)  
+  Arsenio J+, Kakaradov B+, Metz PJ, Kim SH, **Yeo GW**§, Chang JT§. ( § co-corresponding)  
   *Nature Immunology* 
 
 
 * [**The dsRBP and inactive editor, ADR-1, utilizes dsRNA binding to regulate A-to-I RNA editing across the C. elegans transcriptome.**](/papers/2014/PIIS221112471400028X.pdf)  
-  Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW** * , Hundley HA * . ( * co-corresponding)   
+  Washburn MC+, Kakaradov B+, Sundararaman B, Wheeler E, Hoon S, **Yeo GW**§, Hundley HA§. ( § co-corresponding)   
   *Cell Reports*  
   [[Data](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51556)]
 
@@ -248,7 +248,7 @@ Nature Immunology
 
 
 * [**Genome-wide analysis reveals SR protein cooperation and competition in regulated splicing.**](/papers/2013/Cell_2013.pdf)  
-  Pandit S, Zhou Y, Shiue L, Coutinho-Mansfield G, Li H, Qiu J, Huang J, Yeo GW, Ares M Jr.,  Fu XD.   
+  Pandit S, Zhou Y, Shiue L, Coutinho-Mansfield G, Li H, Qiu J, Huang J, Yeo GW, Ares M Jr, Fu XD.   
   *Molecular Cell*    
 
 
@@ -320,7 +320,7 @@ Nature Immunology
 ### 2011
 
 * [**Long pre-mRNA depletion and RNA missplicing contribute to neuronal vulnerability from loss of TDP-43.**](/papers/2011/nn.2779.pdf)  
-  Polymenidou M * , Lagier-Tourenne C * , Hutt KR * , Huelga SC, Moran J, Liang TY, Ling SC, Sun E, Wancewicz E, Mazur C, Kordasiewicz H, Sedaghat Y, Donohue JP, Shiue L, Bennett CF, **Yeo GW** * , Cleveland DW * ( * co-corresponding)   
+  Polymenidou M * , Lagier-Tourenne C * , Hutt KR * , Huelga SC, Moran J, Liang TY, Ling SC, Sun E, Wancewicz E, Mazur C, Kordasiewicz H, Sedaghat Y, Donohue JP, Shiue L, Bennett CF, **Yeo GW**§, Cleveland DW§ ( § co-corresponding)   
   *Nature Neuroscience*     
   [[Data](/papers/2011/TDP43data.zip)]
   <a href="http://f1000.com/prime/10067966"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
@@ -401,7 +401,7 @@ Nature Immunology
 
 
 * [**Determination of tag density required for digital transcriptome analysis: Application to an androgen-sensitive prostate cancer model.**](/papers/2008/Lovci_RNAseq_PNAS_2008.pdf)  
-  Li H, Lovci MT, Kwon Y-S, Rosenfeld MG, Fu, X-D * , **Yeo GW** * ( * co-corresponding)   
+  Li H, Lovci MT, Kwon Y-S, Rosenfeld MG, Fu, X-D§ , **Yeo GW**§ ( § co-corresponding)   
   *PNAS*     
   [[Data](/papers/2008/Lovci_RNAseq_PNAS_2008_data.tar)]
 
@@ -412,7 +412,7 @@ Nature Immunology
 
 
 * [**The PIWI proteins SMEDWI2 and SMEDWI3 are required for stem cell function and piRNA expression in planarians.**](/papers/2008/RNA_2008_Palakodeti_1174_86.pdf)  
-  Palakodeti D, Smielewska M, Liu Y, **Yeo G** * , Graveley BR *  ( * co-corresponding)   
+  Palakodeti D, Smielewska M, Liu Y, **Yeo G**§, Graveley BR§ ( § co-corresponding)   
   *RNA*     
 
 
@@ -429,12 +429,12 @@ Nature Immunology
 
 
 * [**Alternative events identified in human embryonic stem cells and neural progenitors.**](/papers/2007/Yeo_PlosCompBiol07.pdf)  
-   **Yeo G** * , Xiang-dong X, Liang YT, Muotri AM, Carson C, Coufal N, Gage FH *  ( * co-corresponding)   
+   **Yeo G**§ , Xiang-dong X, Liang YT, Muotri AM, Carson C, Coufal N, Gage FH§  ( § co-corresponding)   
   *PLoS Computational Biology*     
   [[Data](/papers/2007/Yeo_PlosCompBiol07_data.tar)]
 
 * [**Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements in mammalian genomes.**](/papers/2007/DiscoveryandAnalysis_2007.pdf)  
-  **Yeo G** *, Van Nostrand E, Liang Y.T.   ( * corresponding)   
+  **Yeo G** §, Van Nostrand E, Liang Y.T.   ( § corresponding)   
   *PLoS Genetics*     
 
 
@@ -459,12 +459,12 @@ Nature Immunology
 ### 2005
 
 * [**A Combinatorial code for splicing silencing: UAGG and GGGG motifs.**](/papers/2005/KyounghaHan_plosonebio_2005.pdf)  
-  Han K * , **Yeo G** *, An P, Burge CB and Grabowski P. (co-first authors)    
+  Han K§, **Yeo G**§, An P, Burge CB and Grabowski P. ( § co-first authors)    
   *PLoS Biology*     
 
 
 * [**Identification and analysis of alternative splicing events conserved in human and mouse.**](/papers/2005/PNAS-2005-Yeo-2850-5.pdf)  
-  **Yeo G** * , Van Nostrand, E Holste, D Poggio T, and Burge CB * ( * Co-corresponding)     
+  **Yeo G**§, Van Nostrand, E Holste, D Poggio T, and Burge CB§ ( § Co-corresponding)     
   *PNAS*      
 
 
