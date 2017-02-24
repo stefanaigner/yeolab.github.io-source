@@ -28,7 +28,7 @@ Stefan Rentas, Nicholas T Holzapfel, Muluken S Belew, **Gabriel A Pratt**, Veron
 
 Anne E Conway, Eric L Van Nostrand, **Gabriel A Pratt**, Stefan Aigner, Melissa L Wilbert, Balaji Sundararaman, Peter Freese, Nicole J Lambert, Shashank Sathe, Tiffany Y Liang, Anthony Essex, Severine Landais, Christopher B Burge, D Leanne Jones, Gene W Yeo. Enhanced CLIP Uncovers IMP Protein-RNA Targets in Human Pluripotent Stem Cells Important for Cell Adhesion and Survival. *Cell Reports*, 2016
 
-Eric L Van Nostrand, **Gabriel A Pratt**, Alexander A Shishkin, Chelsea Gelboin-Burkhart, Mark Y Fang, Balaji Sundararaman, Steven M Blue, Thai B Nguyen, Christine Surka, Keri Elkins, Rebecca Stanton, Frank Rigo, Mitchell Guttman, Gene W Yeo. Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP). *Nature Methods*, 2016
+Eric L Van Nostrand§,, **Gabriel A Pratt** §,, Alexander A Shishkin, Chelsea Gelboin-Burkhart, Mark Y Fang, Balaji Sundararaman, Steven M Blue, Thai B Nguyen, Christine Surka, Keri Elkins, Rebecca Stanton, Frank Rigo, Mitchell Guttman, Gene W Yeo. Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP). *Nature Methods*, 2016
 
 Balaji Sundararaman, Lijun Zhan, Steven M Blue, Rebecca Stanton, Keri Elkins, Sara Olson, Xintao Wei, Eric L Van Nostrand, **Gabriel A Pratt**, Stephanie C Huelga, Brendan M Smalec, Xiaofeng Wang, Eurie L Hong, Jean M Davidson, Eric Lécuyer, Brenton R Graveley, Gene W Yeo. Resources for the comprehensive discovery of functional RNA elements. *Molecular Cell*, 2016
 
@@ -36,11 +36,11 @@ T. Hung, **G. A. Pratt**, B. Sundararaman, M. J. Townsend, C. Chaivorapol, T. Bh
 
 Suzanne R. Lee, **Gabriel Pratt**, Fernando Martinez, Gene W. Yeo, Jens Lykke-Andersen. Target discrimination in nonsense-mediated mRNA decay requires the ATPase activity of Upf1. *Molecular Cell*, 2015
 
-Singh G, **Gabriel Pratt**, Yeo GW, Moore MJ. The Clothes Make the mRNA: Past and Present Trends in mRNP Fashion.* Annual Review of Biochemistry*, 2015
+Singh G, **Gabriel Pratt**, Yeo GW, Moore MJ. The Clothes Make the mRNA: Past and Present Trends in mRNP Fashion.*Annual Review of Biochemistry*, 2015
 
-Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges. Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman LT, Hoon S, Massirer KB, **Gabriel Pratt**, Black DL, Gray JW, Conboy JG, Yeo GW. *Nature Structural and Molecular Biology, 2013*
+Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges. Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman LT, Hoon S, Massirer KB, **Gabriel Pratt**, Black DL, Gray JW, Conboy JG, Yeo GW. *Nature Structural and Molecular Biology*, 2013
 
 Sharon L. Paige, Sean Thomas, Cristi Stoick-Cooper, Hao Wang, Richard Sandstrom4, Lisa Maves, Lil Pabon, Hans Reinecke, **Gabriel Pratt**, Gordon Keller, Randall T. Moon, John Stamatoyannopoulos, and Charles E. Murry. A Temporal Chromatin Signature in Human Embryonic Stem Cells Identifies Novel Regulators
-of Cardiovascular Development. *Cell 2013*
+of Cardiovascular Development. *Cell*, 2013
 
-Golob, J. L., Kumar, R. M., Guenther, M. G., Pabon, L. M., **Pratt, G. A**., Loring, J. F., Laurent, L. C., Young, R. A., and Murry, C. E. Evidence That Gene Activation and Silencing during Stem Cell Differentiation Requires a Transcriptionally Paused Intermediate State. *PLoS ONE, *2011
+Golob, J. L., Kumar, R. M., Guenther, M. G., Pabon, L. M., **Pratt, G. A**., Loring, J. F., Laurent, L. C., Young, R. A., and Murry, C. E. Evidence That Gene Activation and Silencing during Stem Cell Differentiation Requires a Transcriptionally Paused Intermediate State. *PLoS ONE*, 2011
