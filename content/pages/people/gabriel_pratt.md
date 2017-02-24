@@ -24,11 +24,13 @@ Fernando J Martinez, **Gabriel A Pratt**, Eric L Van Nostrand, Ranjan Batra, Ste
 
 Kristopher W Brannan, Wenhao Jin, Stephanie C Huelga, Charles AS Banks, Joshua M Gilmore, Laurence Florens, Michael P Washburn, Eric L Van Nostrand, **Gabriel A Pratt**, Marie K Schwinn, Danette L Daniels, Gene W Yeo. SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes. *Molecular Cell*, 2016
 
+Katannya Kapeli§, **Gabriel A. Pratt**§, Anthony Q. Vu, Kasey R. Hutt, Fernando J. Martinez, Balaji Sundararaman, Ranjan Batra, Peter Freese, Nicole J. Lambert, Stephanie C. Huelga, Seung J. Chun, Tiffany Y. Liang, Jeremy Chang, John P. Donohue, Lily Shiue, Jiayu Zhang, Haining Zhu, Franca Cambi, Edward Kasarskis, Shawn Hoon, Manuel Ares Jr., Christopher B. Burge, John Ravits, Frank Rigo, Gene W. Yeo. Distinct and shared functions of ALS-associated proteins TDP-43, FUS and TAF15 revealed by multisystem analyses. *NATURE COMMUNICATIONS*, 2016
+
 Stefan Rentas, Nicholas T Holzapfel, Muluken S Belew, **Gabriel A Pratt**, Veronique Voisin, Brian T Wilhelm, Gary D Bader, Gene W Yeo, Kristin J Hope. Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells. *Nature*, 2016
 
 Anne E Conway, Eric L Van Nostrand, **Gabriel A Pratt**, Stefan Aigner, Melissa L Wilbert, Balaji Sundararaman, Peter Freese, Nicole J Lambert, Shashank Sathe, Tiffany Y Liang, Anthony Essex, Severine Landais, Christopher B Burge, D Leanne Jones, Gene W Yeo. Enhanced CLIP Uncovers IMP Protein-RNA Targets in Human Pluripotent Stem Cells Important for Cell Adhesion and Survival. *Cell Reports*, 2016
 
-Eric L Van Nostrand§,, **Gabriel A Pratt** §,, Alexander A Shishkin, Chelsea Gelboin-Burkhart, Mark Y Fang, Balaji Sundararaman, Steven M Blue, Thai B Nguyen, Christine Surka, Keri Elkins, Rebecca Stanton, Frank Rigo, Mitchell Guttman, Gene W Yeo. Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP). *Nature Methods*, 2016
+Eric L Van Nostrand§, **Gabriel A Pratt** §, Alexander A Shishkin, Chelsea Gelboin-Burkhart, Mark Y Fang, Balaji Sundararaman, Steven M Blue, Thai B Nguyen, Christine Surka, Keri Elkins, Rebecca Stanton, Frank Rigo, Mitchell Guttman, Gene W Yeo. Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP). *Nature Methods*, 2016
 
 Balaji Sundararaman, Lijun Zhan, Steven M Blue, Rebecca Stanton, Keri Elkins, Sara Olson, Xintao Wei, Eric L Van Nostrand, **Gabriel A Pratt**, Stephanie C Huelga, Brendan M Smalec, Xiaofeng Wang, Eurie L Hong, Jean M Davidson, Eric Lécuyer, Brenton R Graveley, Gene W Yeo. Resources for the comprehensive discovery of functional RNA elements. *Molecular Cell*, 2016
 
