@@ -20,6 +20,9 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 
 ## Publications
+Kakaradov B, Arsenio J, Widjaja CE, He Z, **Aigner S**, Metz PJ, Yu B, Wehrens EJ,Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang JT, Yeo GW. Early transcriptional and epigenetic regulation of CD8(+) T cell differentiation revealed by single-cell RNA sequencing. Nat Immunol. 2017 Feb 20. doi: 10.1038/ni.3688. [Epub
+ahead of print] PubMed PMID: 28218746.
+
 
 Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H, Gelboin-Burkhart C, Huelga SC, **Aigner S**, Roberts BT, Bos TJ, Sathe S, Donohue JP,
 Rigo F, Ares M Jr, Spector DH, Yeo GW. RNA-binding protein CPEB1 remodels host and viral RNA landscapes. Nat Struct Mol Biol. 2016 Oct 24. doi:

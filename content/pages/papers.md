@@ -5,8 +5,9 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2017
 * [**Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing**](/papers/2017/KakaradovNatureImmunology2017.pdf)  
-  Boyko Kakaradov * , Janilyn Arsenio * , Christella E Widjaja * , Zhaoren He, Stefan Aigner, Patrick J Metz, Bingfei Yu, Ellen J Wehrens, Justine Lopez, Stephanie H Kim, Elina I Zuniga, Ananda W Goldrath, John T Chang ** ,  **Gene W Yeo** **   ( ** co-corresponding  )
-  ***Nature Immunology***
+Kakaradov B * , Arsenio J * , Widjaja CE * , He Z, Aigner S, Metz PJ, Yu B, Wehrens EJ, Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang
+JT ** , **Yeo GW** **.( ** co-corresponding, * co-first author )   
+***Nature Immunology***
 
 ### 2016
 
