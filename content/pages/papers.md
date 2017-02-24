@@ -6,7 +6,7 @@ icon: mdi mdi-file-multiple
 ### 2017
 * [**Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing**](/papers/2017/KakaradovNatureImmunology2017.pdf)  
 Kakaradov B , Arsenio J, Widjaja CE, He Z, Aigner S, Metz PJ, Yu B, Wehrens EJ, Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang
-JT * , **Yeo GW** * . ( * co-corresponding )   
+JT # , **Yeo GW** # . ( # co-corresponding )   
 Nature Immunology
 
 ### 2016
@@ -17,7 +17,7 @@ Nature Immunology
 
 
 * [**MicroRNA-101 regulates multiple developmental programs to constrain excitation in adult network networks.**](/papers/2016/Lippi_neuron_2016.pdf)  
-   Lippi G, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK.  
+   Lippi #, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK #.  ( # co-corresponding )  
   Neuron 
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
@@ -58,12 +58,12 @@ Nature Immunology
 
 
 * [**Predicting the functional states of human iPSC-derived neurons with single-cell RNA-seq and electrophysiology**](/papers/2016/Bardy_MolecularPsychiatry_2016.pdf)  
-  Bardy C, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A, Gorris M, Marchand C, Jappelli R, Barron J, Bryant A, Kellogg M, Lasken R, Rutten B, Steinbusch H, **Yeo GW**  *, Gage F. ( * co-corresponding)   
+  Bardy C#, Hurk M, Kakaradov B, Erwin J, Jaeger B, Hernandez R, Eames T, Paucar A, Gorris M, Marchand C, Jappelli R, Barron J, Bryant A, Kellogg M, Lasken R, Rutten B, Steinbusch H, **Yeo GW**#, Gage F#. ( * co-corresponding)   
   <i>Molecular Psychiatry</i>  
 
 
 * [**SONAR Discovers RNA-Binding Proteins from Analysis of Large-Scale Protein-Protein Interactomes**](/papers/2016/Kris_MolecularCell_2016.pdf)  
-  Brannan KW * , Jin W * , Huelga SC *,Banks CA,Gilmore JM, Florens L, Washburn MP, Nostrand EV,Pratt GA, Schwinn MK, Daniels DL, and **Yeo GW**   
+  Brannan KW, Jin W, Huelga SC,Banks CA,Gilmore JM, Florens L, Washburn MP, Nostrand EV,Pratt GA, Schwinn MK, Daniels DL, and **Yeo GW**   
   <i>Molecular Cell</i>  
   [[UCSD News](http://ucsdhealthsciences.tumblr.com/post/151431362850/computer-modeling-finds-new-rna-binding-proteins)]
   [[ACS Spotlight](http://pubs.acs.org/doi/full/10.1021/acschembio.6b00969)]
