@@ -5,9 +5,9 @@ icon: mdi mdi-file-multiple
 # Papers
 ### 2017
 * [**Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing**](/papers/2017/KakaradovNatureImmunology2017.pdf)  
-Kakaradov B , Arsenio J, Widjaja CE, He Z, Aigner S, Metz PJ, Yu B, Wehrens EJ, Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang
-JT§, , **Yeo GW**§. ( §, co-corresponding )   
-Nature Immunology
+  Kakaradov B , Arsenio J, Widjaja CE, He Z, Aigner S, Metz PJ, Yu B, Wehrens EJ, Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang
+  JT§, , **Yeo GW**§. ( §, co-corresponding )   
+  Nature Immunology
 
 ### 2016
 
@@ -17,7 +17,7 @@ Nature Immunology
 
 
 * [**MicroRNA-101 regulates multiple developmental programs to constrain excitation in adult network networks.**](/papers/2016/Lippi_neuron_2016.pdf)  
-   Lippi§,, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**§, Berg DK§,.  ( § co-corresponding )  
+   Lippi§,, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK§,.  ( § co-corresponding )  
   Neuron 
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
