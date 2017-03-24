@@ -4,10 +4,19 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2017
+* [**Interaction Landscape of Inherited Polymorphisms with Somatic Events in Cancer**](/papers/2017/Carter_Cancer_Discov_2017.pdf)  
+  Carter H, Marty R, Hofree M, Gross AM, Jensen J, Fisch KM, Wu X, DeBoever C, Van Nostrand EL, Song Y, Wheeler E, Kreisberg JF, Lippman SM, **Yeo GW**, Gutkind JS, Ideker T.  
+Cancer Discov. 
+
+* [**Biallelic mutations in the 3′ exonuclease TOE1 cause pontocerebellar hypoplasia and uncover a role in snRNA processing**](/papers/2017/Rea_natureGenetics_2017.pdf)    
+Lardelli RM, Schaffer AE, Eggens VR, Zaki MS, Grainger S, Sathe S, Van Nostrand EL, Schlachetzki Z, Rosti B, Akizu N, Scott E, Silhavy JL, Heckman LD, Rosti RO, Dikoglu E, Gregor A, Guemez-Gamboa A, Musaev D, Mande R, Widjaja A, Shaw TL, Markmiller S, Marin-Valencia I, Davies JH, de Meirleir L, Kayserili H, Altunoglu U, Freckmann ML, Warwick L, Chitayat D, Blaser S, Çağlayan AO, Bilguvar K, Per H, Fagerberg C, Christesen HT, Kibaek M, Aldinger KA, Manchester D, Matsumoto N, Muramatsu K, Saitsu H, Shiina M, Ogata K, Foulds N, Dobyns WB, Chi NC, Traver D, Spaccini L, Bova SM, Gabriel SB, Gunel M, Valente EM, Nassogne MC, Bennett EJ, **Yeo GW**, Baas F, Lykke-Andersen J, Gleeson JG.  
+Nat Genet.
+
 * [**Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing**](/papers/2017/KakaradovNatureImmunology2017.pdf)  
   Kakaradov B , Arsenio J, Widjaja CE, He Z, Aigner S, Metz PJ, Yu B, Wehrens EJ, Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang
   JT§, , **Yeo GW**§. ( §, co-corresponding )   
-  Nature Immunology
+  Nature Immunology  
+ <a href="https://f1000.com/prime/727327904" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 ### 2016
 
@@ -107,7 +116,8 @@ icon: mdi mdi-file-multiple
   [[UCSD News](http://health.ucsd.edu/news/releases/Pages/2016-03-17-CRISPR-Cas9-targets-RNA-in-live-cells.aspx)]
   [[Highlight in Nature Reviews Genetics](/papers/2016/nrg_highlight_dave_2016.pdf)]
   [[Highlight in Nature Methods](/papers/2016/nave_hihglights_2016.pdf)]
-  [[METHOD TO WATCH in Nature Mthods](http://www.nature.com/nmeth/journal/v14/n1/full/nmeth.4114.html?WT.ec_id=NMETH-201701&spMailingID=53091047&spUserID=ODM4NTQ1OTk5MjES1&spJobID=1065202980&spReportId=MTA2NTIwMjk4MAS2)] 
+  [[METHOD TO WATCH in Nature Mthods](http://www.nature.com/nmeth/journal/v14/n1/full/nmeth.4114.html?WT.ec_id=NMETH-201701&spMailingID=53091047&spUserID=ODM4NTQ1OTk5MjES1&spJobID=1065202980&spReportId=MTA2NTIwMjk4MAS2)]
+  [[ TOP 100 STORIES OF 2016 in Discover Magazine](http://discovermagazine.com/2017/janfeb/83-crispr-edits-cells-rna#.WFSZ0GBkXSw.twitter)]
    <a href="http://f1000.com/prime/726227831?bd=1" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**Robust transcriptome-wide discovery of RNA-binding protein binding sites with enhanced CLIP (eCLIP).**](/papers/2016/nmeth_eric_2016.pdf)  
