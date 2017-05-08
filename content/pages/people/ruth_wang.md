@@ -7,9 +7,9 @@ Email: mai@ucsd.edu
 Fellowship:
 Headshot: /images/people/ruth_wang.jpg
 Template: person
-Alumni_or_current: Current
-Current_position: UCSD, CA
-End_date: 
+Alumni_or_current: Alimni
+Current_position: Medical School,UCSD, CA
+End_date: 2017-05-01
 <!-- Status: draft -->
 
 ## Degrees

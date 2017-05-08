@@ -7,9 +7,9 @@ Email: mai@ucsd.edu
 Fellowship:
 Headshot: /images/people/ines_rabano.jpg
 Template: person
-Alumni_or_current: Current
-Current_position: UCSD, CA
-End_date: 
+Alumni_or_current: Alumni
+Current_position: Graduate school, Spain
+End_date: 2017-05-05
 <!-- Status: draft -->
 
 ## Degrees
