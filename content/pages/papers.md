@@ -9,7 +9,7 @@ icon: mdi mdi-file-multiple
   Zeng C, Mulas F, Sui Y, Guan T, Miller N, Tan Y, Liu F, Jin W, Carrano AC, Huising MO, Shirihai OS, **Yeo GW**, Sander M.   
 Cell Metabolism.
 
-*  [**iPSCORE: A systematically derived resource of iPSC lines from 222 individuals for use in examining how genetic variation affects molecular and physiological traits across a variety of cell types.**](/papers/2017/)   
+*  **iPSCORE: A systematically derived resource of iPSC lines from 222 individuals for use in examining how genetic variation affects molecular and physiological traits across a variety of cell types.**   
   Panopoulos AD, D’Antonio M, Benaglio P, Williams R, Hashem SI, Schuldt BM, DeBoever C, Arias AD, Garcia M, Nelson B, Harismendy O, Grinstein JD, Drees F, Okubo J, Diffenderfer KE, Hishida Y, Modesto V, Dargitz CT, Feiring R, Zhao C, McGarry TJ, Matsui H, Reyna J, Aguirre A, Rao F, O’Connor DT, **Yeo GW**, Evans SM, Chi NC, Jepsen K, Nariai N, Müller F-J, Goldstein LSB, Izpisua Belmonte JC, Adler E, Loring JF, Berggren WT, D’Antonio-Chronowska A, Smith EN, Frazer KA.   
 Stem Cell Reports
 
