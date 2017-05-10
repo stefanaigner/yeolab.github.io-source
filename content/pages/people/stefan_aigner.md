@@ -20,16 +20,14 @@ Stefan received his PhD in Chemistry and Biochemistry from the University of Col
 
 
 ## Publications
-Kakaradov B, Arsenio J, Widjaja CE, He Z, **Aigner S**, Metz PJ, Yu B, Wehrens EJ,Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang JT, Yeo GW. Early transcriptional and epigenetic regulation of CD8(+) T cell differentiation revealed by single-cell RNA sequencing. Nat Immunol. 2017 Feb 20. doi: 10.1038/ni.3688. [Epub
-ahead of print] PubMed PMID: 28218746.
+Lugert S, Kremer T, Jagasia R, Herrmann A, **Aigner S**, Giachino C, Mendez-David I, Gardier AM, Carralot JP, Meistermann H, Augustin A, Saxe MD, Lamerz J,Duran-Pacheco G, Ducret A, Taylor V, David DJ, Czech C. Glypican-2 levels incerebrospinal fluid predict the status of adult hippocampal neurogenesis. SciRep. 2017 Apr 25. doi: 10.1038/srep46543. PMID: 28440309
+
+Kakaradov B, Arsenio J, Widjaja CE, He Z, **Aigner S**, Metz PJ, Yu B, Wehrens EJ,Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang JT, Yeo GW. Early transcriptional and epigenetic regulation of CD8(+) T cell differentiation revealed by single-cell RNA sequencing. Nat Immunol. 2017 Feb 20. doi: 10.1038/ni.3688.PMID: 28218746.
 
 
-Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H, Gelboin-Burkhart C, Huelga SC, **Aigner S**, Roberts BT, Bos TJ, Sathe S, Donohue JP,
-Rigo F, Ares M Jr, Spector DH, Yeo GW. RNA-binding protein CPEB1 remodels host and viral RNA landscapes. Nat Struct Mol Biol. 2016 Oct 24. doi:
-10.1038/nsmb.3310. PMID: 27775709.
+Batra R, Stark TJ, Clark E, Belzile JP, Wheeler EC, Yee BA, Huang H, Gelboin-Burkhart C, Huelga SC, **Aigner S**, Roberts BT, Bos TJ, Sathe S, Donohue JP, Rigo F, Ares M Jr, Spector DH, Yeo GW. RNA-binding protein CPEB1 remodels host and viral RNA landscapes. Nat Struct Mol Biol. 2016 Oct 24. doi:10.1038/nsmb.3310. PMID: 27775709.
 
-Grabole N, Zhang JD, Aigner S, Ruderisch N, Costa V, Weber FC, Theron M, Berntenis N, Spleiss O, Ebeling M, Yeo GW, Jagasia R, Kiialainen A. Genomic
-analysis of the molecular neuropathology of tuberous sclerosis using a human stem cell model. Genome Med. 2016 Sep 21;8(1):94. PMID: 27655340
+Grabole N, Zhang JD, Aigner S, Ruderisch N, Costa V, Weber FC, Theron M, Berntenis N, Spleiss O, Ebeling M, Yeo GW, Jagasia R, Kiialainen A. Genomic analysis of the molecular neuropathology of tuberous sclerosis using a human stem cell model. Genome Med. 2016 Sep 21;8(1):94. PMID: 27655340
 
 
 Conway AE, Van Nostrand EL, Pratt GA, **Aigner S**, Wilbert ML, Sundararaman B, Freese P, Lambert NJ, Sathe S, Liang TY, Essex A, Landais S, Burge CB, Jones DL, Yeo GW. Enhanced CLIP Uncovers IMP Protein-RNA Targets in Human Pluripotent Stem Cells Important for Cell Adhesion and Survival. Cell Rep. 2016; 15(3):666-79. PMID: 27068461
