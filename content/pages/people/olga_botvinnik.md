@@ -6,9 +6,8 @@ Affiliation: Bioinformatics and Systems Biology
 Email: obotvinn@ucsd.edu
 Fellowship: NDSEG
 Template: person
-Alumni_or_current: Alumni
+Alumni_or_current: Current
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
-End_date: 2017-05-12
 <!-- Status: draft -->
 
 ## Degrees

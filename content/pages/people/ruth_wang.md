@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/ruth_wang.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Medical School,UCSD, CA
+Current_position: Medical School,UCSD,CA
 End_date: 2017-05-01
 <!-- Status: draft -->
 
