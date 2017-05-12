@@ -9,7 +9,6 @@ Template: person
 Alumni_or_current: Alumni
 Headshot: /images/people/botvinnik_olga_headshot.jpeg
 End_date: 2017-05-12
-
 <!-- Status: draft -->
 
 ## Degrees

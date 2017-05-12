@@ -4,7 +4,6 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2017
-
 * [**Pseudotemporal ordering of single cells reveals metabolic control of postnatal beta-cell proliferation.**](/papers/2017/Zeng_C_Cell_Metabolism_2017.pdf)  
   Zeng C, Mulas F, Sui Y, Guan T, Miller N, Tan Y, Liu F, Jin W, Carrano AC, Huising MO, Shirihai OS, **Yeo GW**, Sander M.   
 Cell Metabolism.
@@ -17,14 +16,13 @@ Stem Cell Reports
   D’Antonio M, Woodruff G, Nathanson JL, D’Antonio-Chronowska A, Arias A, Matsui H, Williams R, Herrera C, Reyna SM, **Yeo GW**, Goldstein LSB, Panopoulos AD, Frazer KA.   
 Stem Cell Reports
 
-
 * [**Interaction Landscape of Inherited Polymorphisms with Somatic Events in Cancer**](/papers/2017/Carter_Cancer_Discov_2017.pdf)  
   Carter H, Marty R, Hofree M, Gross AM, Jensen J, Fisch KM, Wu X, DeBoever C, Van Nostrand EL, Song Y, Wheeler E, Kreisberg JF, Lippman SM, **Yeo GW**, Gutkind JS, Ideker T.  
-Cancer Discovery
+Cancer Discov. 
 
 * [**Biallelic mutations in the 3′ exonuclease TOE1 cause pontocerebellar hypoplasia and uncover a role in snRNA processing**](/papers/2017/Rea_natureGenetics_2017.pdf)    
 Lardelli RM, Schaffer AE, Eggens VR, Zaki MS, Grainger S, Sathe S, Van Nostrand EL, Schlachetzki Z, Rosti B, Akizu N, Scott E, Silhavy JL, Heckman LD, Rosti RO, Dikoglu E, Gregor A, Guemez-Gamboa A, Musaev D, Mande R, Widjaja A, Shaw TL, Markmiller S, Marin-Valencia I, Davies JH, de Meirleir L, Kayserili H, Altunoglu U, Freckmann ML, Warwick L, Chitayat D, Blaser S, Çağlayan AO, Bilguvar K, Per H, Fagerberg C, Christesen HT, Kibaek M, Aldinger KA, Manchester D, Matsumoto N, Muramatsu K, Saitsu H, Shiina M, Ogata K, Foulds N, Dobyns WB, Chi NC, Traver D, Spaccini L, Bova SM, Gabriel SB, Gunel M, Valente EM, Nassogne MC, Bennett EJ, **Yeo GW**, Baas F, Lykke-Andersen J, Gleeson JG.  
-Nature Genetics
+Nat Genet.
 
 * [**Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing**](/papers/2017/KakaradovNatureImmunology2017.pdf)  
   Kakaradov B , Arsenio J, Widjaja CE, He Z, Aigner S, Metz PJ, Yu B, Wehrens EJ, Lopez J, Kim SH, Zuniga EI, Goldrath AW, Chang
@@ -33,10 +31,6 @@ Nature Genetics
  <a href="https://f1000.com/prime/727327904" target="_blank"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 ### 2016
-* [**Robust cost-effective profiling of RNA binding protein targets with single-end crosslinking and immunoprecipitation (seCLIP)**]()   
-  Van Nostrand EL, Nguyen TB, Gelboin-Burkhart C, Wang R, Blue SM, Pratt GA, Louie AL, **Yeo GW**.   
-  Methods in Molecular Biology
-
 
 * [**CRISPR/Cas9-mediated integration enables TAG-eCLIP of endogenously tagged RNA binding proteins. Special issue “Protein-RNA: Structure function and recognition**](/papers/2016/VanNostrand_Methods2016.pdf)  
   Van Nostrand EL, Gelboin-Burkhart C, Wang R, Pratt GA, Blue SM, **Yeo GW**.  
@@ -44,7 +38,7 @@ Nature Genetics
 
 
 * [**MicroRNA-101 regulates multiple developmental programs to constrain excitation in adult network networks.**](/papers/2016/Lippi_neuron_2016.pdf)  
-   Lippi§, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK§,.  ( § co-corresponding )  
+   Lippi§,, Fernandes CC, Ewell LA, John D, Romoli B, Curia G, Taylor SR, Frady EP, Jensen AB, Liu JC, Chaabane MM, Belal Cc, Nathanson JL, Zoli M, Leutgeb JK, Biagini G, **Yeo GW**, Berg DK§,.  ( § co-corresponding )  
   Neuron 
 
 * [**Making the cut in the dark genome**](/papers/2016/Jaclyn_Science_2016.pdf)  
@@ -98,6 +92,7 @@ Nature Genetics
 * [**Pairing beyond the Seed Supports MicroRNA Targeting Specificity**](/papers/2016/Jame_MolecularCell_2016.pdf)  
   Broughton JP,Lovci MT, Huang JL, **Yeo GW**, and Pasquinelli AE     
   <i>Molecular Cell</i>
+
 
 
 * [**Genomic analysis of the molecular neuropathology of tuberous sclerosis using a human stem cell model**](/papers/2016/Grabole_GenomeMedicine_2016.pdf)  
