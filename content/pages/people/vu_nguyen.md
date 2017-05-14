@@ -1,15 +1,15 @@
-Title: Eric Byeon
-Date: 2013-06-01
+Title: Vu Nguyen
+Date: 2016-06-01
 Position: Undergraduate Student
-Position_suffix:
-Affiliation:
+Position_suffix: (Ron Batra)
+Affiliation: Neuroscience and Physiology
 Email: email@ucsd.edu
 Fellowship:
-Headshot: 
+Headshot: /images/people/vu_nguyen.jpg
 Template: person
-Alumni_or_current: Alumni
+Alumni_or_current: Current
 Current_position: UCSD, CA
-End_date: 2017-04-22
+End_date: 
 <!-- Status: draft -->
 
 ## Degrees
