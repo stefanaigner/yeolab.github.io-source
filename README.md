@@ -93,7 +93,7 @@ Only the year is used for the alumni page -->
 Date: 2013-06-01
 
 <!-- Position of the person, one of "Principal Investigator", "Post-Doctoral Fellow",
-"Graduate Student" (represents phD student group), "Visiting Graduate Student","Masters Student","Visiting Graduate Students","Staff", "Undergraduate Student", "High School Student"-->
+"Graduate Student" (represents phD student group), "Visiting Scientists,"Visiting Graduate Student","Masters Student","Visiting Graduate Students","Staff", "Undergraduate Student", "High School Student"-->
 Position: Graduate Student
 
 <!-- A suffix to add after the position. Mostly relevant for Staff Research

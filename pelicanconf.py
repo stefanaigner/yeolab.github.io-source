@@ -125,6 +125,7 @@ PEOPLE_POSITION_ORDER = [
     ('Post-Doctoral Fellows', 'Post-Doctoral Fellow'),
     ('PhD Students', 'Graduate Student'),
     ('Masters Students','Masters Student'),
+    ('Visiting Scientists', 'Visiting Scientists'),
     ('Visiting Graduate Students', 'Visiting Graduate Student'),
     ('Staff', 'Staff'),
     ('Undergraduate Students', 'Undergraduate Student'),
