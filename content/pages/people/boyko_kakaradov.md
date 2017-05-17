@@ -8,7 +8,7 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/boyko_kakaradov.jpg
 Template: person
-Current_position: Bioinformatics Scientist, Human Longevitiy Insititute, SD
+Current_position: Bioinformatics Scientist, Deep Genomics, Toronto, ON, Canada
 End_date: 2015-09-01
 
 <!-- Status: draft -->
