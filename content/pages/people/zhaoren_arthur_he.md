@@ -12,11 +12,13 @@ Template: person
 
 ## Degrees
 
-Coming Soon! <br>
+B.S., Biology, Wuhan University, China, 2014<br>
 
 ## Summary
 
-Coming Soon! <br>
+Zhaoren (Arthur) He is a Biology Ph.D. student at University of California, San Diego (UCSD). Previously, He earned his B.S. degrees from the Wuhan University in Biology while participating in a variety of research experiences in the 2013 iGEM competition, Prof. Yuhui Sun's lab at Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, and  Prof. Joshua Yuan's lab at Texas A&M University. As a graduate student at UCSD, Arthur is interested in single cell transcriptomics and chromatin folding in immune system. He's currently co-mentored by Prof. Gene Yeo and Prof. Kees Murre. 
+
+
 
 ## Publications
 [**Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing**](/papers/2017/KakaradovNatureImmunology2017.pdf)  
