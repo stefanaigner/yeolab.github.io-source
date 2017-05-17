@@ -7,7 +7,7 @@ Email: email@ucsd.edu
 Fellowship: 
 Headshot: /images/people/ashleigh_schaffer.jpg
 Template: person
-Current_position: 
+Current_position: Assistant Professor, Case Western Reserve University,Cleveland, OH
 alumni_or_current: alumni
 End_date: 2016-12-31
 

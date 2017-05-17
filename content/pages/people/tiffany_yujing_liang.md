@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/tiffany_yujing_liang.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: BioNano Genomics, Inc.
+Current_position: Bioinformatics Data Engineering, Caris Life Science
 End_date: 2012-09-01
 <!-- Status: draft -->
 

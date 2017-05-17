@@ -8,7 +8,7 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/anne_conway.jpg
 Template: person
-Current_position: Miltenyi Biotec
+Current_position: Marketing Product Manager, Miltenyi Biotec, San Diego, CA
 End_date: 2014-09-01
 
 <!-- Status: draft -->

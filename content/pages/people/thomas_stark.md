@@ -8,7 +8,7 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/thomas_stark.jpg
 Template: person
-Current_position: CDC, Atlanta, GA
+Current_position: Health Scientist Informatics, CDC, Atlanta, GA
 End_date: 2014-09-01
 
 <!-- Status: draft -->

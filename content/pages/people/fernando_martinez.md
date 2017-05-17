@@ -8,6 +8,7 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/fernando_martinez.jpg
 Template: person
+Current_position: Biotech Consultant
 End_date: 2016-12-31
 <!-- Status: draft -->
 

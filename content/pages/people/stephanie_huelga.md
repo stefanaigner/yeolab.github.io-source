@@ -8,7 +8,7 @@ Fellowship: NSF
 Headshot: /images/people/stephanie_huelga.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Data Analysis Scientist, NuGEN
+Current_position: Data Analysis Scientist, NuGEN, San Carlos, CA
 End_date: 2014-11-01
 <!-- Status: draft -->
 

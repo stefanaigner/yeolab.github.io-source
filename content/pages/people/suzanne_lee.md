@@ -7,7 +7,7 @@ Email: l1kurian@ucsd.edu
 Fellowship:
 Template: person
 Alumni_or_current: Alumni
-Current_position: Professor, Western Washington
+Current_position: Assistant Professor, Western Washington University, Bellingham, WA
 Headshot: /images/people/suzanne_r_lee.jpg
 End_date: 2014-09-01
 <!-- Status: draft -->

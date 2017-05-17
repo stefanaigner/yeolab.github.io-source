@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/patrick_liu.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Invivoscribe 
+Current_position: Associate Data Scientist, Biota Technology, San Diego, CA
 End_date: 2014-09-01
 <!-- Status: draft -->
 

@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/melissa_wilbert.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Bluebird Bio, Boston
+Current_position: Bioinformatics Scientist, Cambridge, MA
 End_date: 2014-11-01
 <!-- Status: draft -->
 

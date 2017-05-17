@@ -8,7 +8,7 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/mike_lovci.jpg
 Template: person
-Current_position: Intrexon
+Current_position: Scientist,DRIVER, South San Francisco, CA
 End_date: 2014-09-01
 
 <!-- Status: draft -->
