@@ -5,7 +5,7 @@ Position_suffix: Research Associate I
 Affiliation:
 Email: kserver@ucsd.edu
 Fellowship:
-Headshot: /images/people/headshot_placeholder.png
+Headshot: /images/people/kari_server.jpg
 Template: person
 Alumni_or_current: Current
 Current_position: UCSD, CA
@@ -13,7 +13,7 @@ End_date:
 <!-- Status: draft -->
 
 ## Degrees
-Coming Soon!!!
+B.S. in Human Biology, UCSD, 2013 
 
 ## Summary
 Coming Soon!!!
