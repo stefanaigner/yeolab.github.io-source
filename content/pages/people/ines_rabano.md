@@ -8,7 +8,7 @@ Fellowship:
 Headshot: /images/people/ines_rabano.jpg
 Template: person
 Alumni_or_current: Alumni
-Current_position: Graduate school, Spain
+Current_position: Graduate School, Spain
 End_date: 2017-05-05
 <!-- Status: draft -->
 

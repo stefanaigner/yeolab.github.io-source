@@ -8,7 +8,7 @@ Fellowship:
 Alumni_or_current: Alumni
 Headshot: /images/people/layla_fijany.jpg
 Template: person
-Current_position: Dental school, UCLA
+Current_position: Dental School, UCLA
 End_date: 2016-07-31
 <!-- Status: draft -->
 
