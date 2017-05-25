@@ -1,4 +1,4 @@
-Title: Dagmar         Klostermeier
+Title: Dagmar Klostermeier
 Date: 2017-03-01
 Position: Visiting Scientists
 Position_suffix: 
