@@ -11,8 +11,8 @@ alumni_or_current: Current
 
 ## Degrees
 
-B.A. in Biology and Economics, University of Pennsylvania<br> 
-Ph.D, Northwestern University<br>
+B.A. in Biology and Economics, University of Pennsylvania, 2010<br> 
+Ph.D in Interdepartmental Biological Sciences,Northwestern University, 2016<br>
 
 ## Summary
 
