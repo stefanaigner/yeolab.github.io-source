@@ -15,6 +15,8 @@ Alumni_or_current: Current
 M.S. National Taiwan University, Taipei, Taiwan 2014<br>
 B.S. National Tsing Hua University, HsinChu, Taiwan 2011
 
+2019
+
 ## Summary
 
 Enching Luo received her master's degree in Physiology from National Taiwan University. In her master's studies, she worked in a bioinformatics and biostatistics core laboratory. Her master's thesis focused on microRNA regulation of breast cancer. Before starting her graduate studies in Bioengineering at UC San Diego, Enching was a research assistance in a biomaterial laboratory at National Tsing Hua University. She constructed a mouse model of metastatic colon cancer to study drug delivery. As a bioengineering graduate student at UCSD, Enching is interested in RNA regulation and genomics. Enching is funded by the Taiwanese government.
