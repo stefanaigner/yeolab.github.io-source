@@ -15,7 +15,6 @@ Alumni_or_current: Current
 M.S. National Taiwan University, Taipei, Taiwan 2014<br>
 B.S. National Tsing Hua University, HsinChu, Taiwan 2011
 
-2019
 
 ## Summary
 
