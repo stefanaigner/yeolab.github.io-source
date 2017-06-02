@@ -492,7 +492,7 @@ Nature Genetics
 
 ### 2004
 
-* [**Systematic identification and analysis of exonic splicing silencers**](/papers/2004/ZefengWang_Cell_2004.pdf))  
+* [**Systematic identification and analysis of exonic splicing silencers**](/papers/2004/ZefengWang_Cell_2004.pdf)  
   Wang Z, Rolish ME, **Yeo GW**, Tung V, Mawson M, and Burge CB.   
   *Cell*     
 
@@ -524,7 +524,7 @@ Nature Genetics
 
 ### 2003
 
-* [**Regularized least-squares classification.**](/papers/2003/10.1.1.7.3463.pdf)  
+* [**Regularized least-squares classification**](/papers/2003/10.1.1.7.3463.pdf)  
   Rifkin R, **Yeo GW**, and Poggio, T.   
   *Advances in Learning Theory: Methods, Model and Applications, NATO Science Series III:  Computer and System Sciences, Vol. 190, ISO Press, Amsterdam*     
 
