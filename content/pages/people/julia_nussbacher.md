@@ -20,6 +20,13 @@ Julia comes to us with experience in both academia and industry, in fields rangi
 
 ## Publications
 
+Martinez FJ, Pratt GA, Van Nostrand EL, Batra R, Huelga SC, Kapeli K, Freese P, Chun SJ, Ling K, Gelboin-Burkhart C, Fijany L, Wang HC, **Nussbacher JK**, Broski 
+SM, Kim HJ, Lardelli R, Sundararaman B, Donohue JP, Javaherian A, Lykke-Andersen J, Finkbeiner S, Bennett CF, Ares M Jr, Burge CB, Taylor JP, Rigo F, Yeo GW.
+Protein-RNA Networks Regulated by Normal and ALS-Associated Mutant HNRNPA2B1 in the Nervous System. Neuron. 2016 Nov 23;92(4):780-795. 
+
+
+Rodvold, J. J.; Chiu, K. T.; Hiramatsu, N.; **Nussbacher, J. K.**; Galimberti, V.; Mahadevan, N. R.; Willert, K.; Lin, J. H.; Zanetti, M., Intercellular transmission of the unfolded protein response promotes survival and drug resistance in cancer cells. Sci Signal 2017, 10 (482).
+
 Bos, T. J.; **Nussbacher, J. K.**; Aigner, S.; Yeo, G. W., Tethered Function Assays as Tools to Elucidate the Molecular Roles of RNA-Binding Proteins. Adv Exp Med Biol 2016, 907, 61-88.
 
 **Nussbacher, J. K.**; Batra, R.; Lagier-Tourenne, C.; Yeo, G. W., RNA-binding proteins in neurodegeneration: Seq and you shall receive. Trends in neurosciences 2015.
