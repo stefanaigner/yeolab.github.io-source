@@ -111,7 +111,7 @@ Nature Genetics
 
 
 * [**Musashi-2 attenuates AHR signalling to expand human haematopoietic stem cells**](/papers/2016/gabe_nature_2016.pdf)   
-  Rentas S, Holzapfel NT, Belew MS, Pratt GA, Voisin V, Wilhelm BT, Bader GD, **Yeo GW**, and Hope KJ.   
+  Rentas S, Holzapfel NT, Belew MS, Pratt GA, Voisin V, Wilhelm BT, Bader GD, **Yeo GW**§, and Hope KJ. (§ co-corresponding)  
   *Nature*   
   [[Phys.Org News](http://phys.org/news/2016-04-scientists-uncover-rare-life-saving-blood.html)]
 
