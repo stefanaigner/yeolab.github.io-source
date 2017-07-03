@@ -20,8 +20,13 @@ Yan Song came to the United States for her graduate career in 2003 after she rec
 
 
 ## Publications
+**Song Y** *, Botvinnik OB *, Lovci MT, Kakaradov B, Liu PL, Xu JL,Yeo GW. [Single-Cell Alternative Splicing Analysis with Expedition Reveals Splicing Dynamics during Neuron Differentiation*](/papers/2017/Olga_Yan_MolecularCell_2017.pdf). Molecular Cell 2017 July     
+
+**Song Y**, Washington MK, Crawford HC. Loss of FOXA1/2 is essential for epithelial-to-mesenchymal transition in pancreatic cancer. Cancer Research 2010 Mar 1;70(5):2115-25. PMID: 20160041
 
 **Song Y**, Xie C, Ong YM, Gan YH, Chua KL. The BpsIR quorum-sensing system of Burkholderia pseudomallei. J Bacteriol. 2005 Jan;187(2):785-90. PMID:15629951
 
-**Song Y**, Washington MK, Crawford HC. Loss of FOXA1/2 is essential for epithelial-to-mesenchymal transition in pancreatic cancer. Cancer Research 2010 Mar 1;70(5):2115-25. PMID: 20160041
+
+
+
 

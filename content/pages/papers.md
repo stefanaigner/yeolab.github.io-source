@@ -4,6 +4,10 @@ icon: mdi mdi-file-multiple
 
 # Papers
 ### 2017
+* [**Single-Cell Alternative Splicing Analysis with Expedition Reveals Splicing Dynamics during Neuron Differentiation**](/papers/2017/Olga_Yan_MolecularCell_2017.pdf)  
+Song Y, Botvinnik OB, Lovci MT, Kakaradov B, Liu PL, Xu JL,**Yeo GW**     
+Molecular Cell
+
 * [**Pseudotemporal ordering of single cells reveals metabolic control of postnatal beta-cell proliferation**](/papers/2017/Zeng_C_Cell_Metabolism_2017.pdf)  
   Zeng C, Mulas F, Sui Y, Guan T, Miller N, Tan Y, Liu F, Jin W, Carrano AC, Huising MO, Shirihai OS, **Yeo GW**, and Sander M.   
 Cell Metabolism
