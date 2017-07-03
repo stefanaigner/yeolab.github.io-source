@@ -243,13 +243,14 @@ Nature Genetics
 * [**The dsRBP and inactive editor, ADR-1, utilizes dsRNA binding to regulate A-to-I RNA editing across the C. elegans transcriptome**](/papers/2014/PIIS221112471400028X.pdf)  
   Washburn MC+, Kakaradov B, Sundararaman B, Wheeler E, Hoon S, **Yeo GW**§, and Hundley HA§. (§ co-corresponding)   
   *Cell Reports*  
-
+  [[Data](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51556)]
 
 ### 2013
 * [**Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges**](/papers/2013/nsmb2699.pdf)   
   Lovci MT, Ghanem D, Marr H, Arnold J, Gee S, Parra M, Liang TY, Stark TJ, Gehman LT, Hoon S, Massirer KB, Pratt GA, Black DL, Gray JW, Conboy JG, and **Yeo GW**.  
   *Nature Structural and Molecular Biology*  
    <a href="http://f1000.com/prime/718170823"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>  
+  [[Human fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP029987)] [[Mouse fasta](http://www.ncbi.nlm.nih.gov/sra?term=SRP030031)] [[Data](http://sauron.ucsd.edu/public_hubs/nsmb_fox_hub/index.html)] [[Hub](/papers/2013/hub.txt)]
   [[Identification of RNA bridges](/papers/2013/RNA_bridge_som.pdf)]
 
 * [**Coordinate Nodal and BMP inhibition directs Baf60c-dependent cardiomyocyte commitment**](/papers/2013/Genes_Dev_2013.pdf)  
@@ -302,7 +303,7 @@ Nature Genetics
 * [**Circadian oscillations of protein-coding and regulatory RNAs in a highly dynamic mammalian liver epigenome**](/papers/2012/Cell2012.pdf)   
   Vollmers C, Schmitz RJ, Nathanson J, **Yeo GW**, Ecker JR, and Panda S.   
   *Cell Metabolism*     
-
+  [[Data](/papers/2012/Vollmers_smRNA_data.zip)]
 
 * [**Alternative splicing of a novel inducible exon diversifies the CASK guanylate kinase domain**](/papers/2012/JNA2012_altspli.pdf)  
   Dembowski JA, An P, Scoulos-Hanson M, **Yeo GW**, Han J, Fu XD, and Grabowski PJ.   
@@ -324,6 +325,7 @@ Nature Genetics
   Wilbert MW, Huelga SC, Kapeli K, Stark TJ, Liang TY, Chen SX, Yan BY, Nathanson JL, Hutt KR, Lovci MT, Kazan H,
   Vu AQ, Massirer KB, Morris Q, Hoon S, and **Yeo GW**.   
   *Molecular Cell*       
+  [[ES CLIP Clusters](/papers/2012/LIN28ES_CLIPseq_clusters.BED.txt)] [[293 CLIP clusters](/papers/2012/LIN28V5_CLIPseq_clusters.BED.txt)]
   <a href="http://f1000.com/prime/717964369"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**Misregulated RNA processing in amyotrophic lateral sclerosis**](/papers/2012/Magdalini_Polymenidou.pdf)  
@@ -346,12 +348,13 @@ Nature Genetics
 * [**Long pre-mRNA depletion and RNA missplicing contribute to neuronal vulnerability from loss of TDP-43**](/papers/2011/nn.2779.pdf)  
   Polymenidou M * , Lagier-Tourenne C * , Hutt KR * , Huelga SC, Moran J, Liang TY, Ling SC, Sun E, Wancewicz E, Mazur C, Kordasiewicz H, Sedaghat Y, Donohue JP, Shiue L, Bennett CF, **Yeo GW**§, and Cleveland DW§ ( * co-first authors; § co-corresponding)   
   *Nature Neuroscience*     
+  [[Data](/papers/2011/TDP43data.zip)]
   <a href="http://f1000.com/prime/10067966"><img src="http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif" alt="Access the recommendation on F1000Prime" id="bg" /></a>
 
 * [**RNA-seq analysis of gene expression and alternative splicing by double-random priming strategy**](/papers/2011/LovciYeoRNA_seq.pdf)    
   Lovci MT, Li HR, Fu XD, and **Yeo GW**.   
   *Methods in Molecular Biology*     
- 
+  [[Example](/papers/2011/EXAMPLE-2.xls)]
 
 * [**Genome-wide approaches in the study of microRNA biology**](/papers/2011/128_fta.pdf)  
   Wilbert ML and **Yeo GW**.   
@@ -372,7 +375,8 @@ Nature Genetics
 * [**Comprehensive discovery of endogenous argonaute binding sites in Caenorhabditis elegans**](/papers/2010/nsmb.1745.pdf)    
   Zisoulis DG, Lovci MT, Wilbert ML, Hutt KR, Liang YL, Pasquinelli AE, and **Yeo GW**.  
   *Nature Structural and Molecular Biology*     
-  
+  [[Fasta](/papers/2010/ALG1_MT-WT_raw.tar)] [[Data](/papers/2010/NSMB_012010.tar)] [[Array Data](/papers/2010/alg1_arraydata.zip)]
+
 * [**A model for neural development and treatment of Rett syndrome using human induced pluripotent stem cells.**](/papers/2010/cell_2010.pdf)  
   Marchetto MC, Carromeu C, Acab A, Yu D, **Yeo GW**, Mu Y, Chen G, Gage FH, and Muotri AR.  
   *Cell*  
@@ -413,7 +417,7 @@ Nature Genetics
 * [**An RNA code for the FOX2 splicing regulator revealed by mapping RNA-protein interactions in stem cells**](/papers/2009/Yeo_RNA_code_for_the_FOX2_splicing.pdf)  
   **Yeo GW**, Coufal NG, Liang TY, Peng GE Fu X-D, and Gage FH.  
   *Nature Structural and Molecular Biology*     
- 
+  [[Fasta](/papsrs/2009/Yeo_RNA_code_for_the_FOX2_splicing_Fasta.txt)] [[Data](/papers/2009/Yeo_RNA_code_for_the_FOX2_splicing_data.BED)]
 
 ### 2008
 
@@ -425,7 +429,7 @@ Nature Genetics
 * [**Determination of tag density required for digital transcriptome analysis: Application to an androgen-sensitive prostate cancer model**](/papers/2008/Lovci_RNAseq_PNAS_2008.pdf)  
   Li H, Lovci MT, Kwon Y-S, Rosenfeld MG, Fu, X-D§, and **Yeo GW**§. (§ co-corresponding)   
   *Proceedings of the National Academy of Sciences USA*     
-  
+  [[Data](/papers/2008/Lovci_RNAseq_PNAS_2008_data.tar)]
 
 * [**Divergent transcription from active promoters**](/papers/2008/Divergent_seila_2008.pdf)  
   Seila AC, Calabrese JM, Levine SS, **Yeo GW**, Rahl PB, Flynn RA, Young RA, Sharp PA.   
@@ -453,7 +457,7 @@ Nature Genetics
 * [**Alternative events identified in human embryonic stem cells and neural progenitors**](/papers/2007/Yeo_PlosCompBiol07.pdf)  
    **Yeo GW**§ , Xiang-dong X, Liang YT, Muotri AM, Carson C, Coufal N, and Gage FH§.  (§ co-corresponding)   
   *PLoS Computational Biology*     
-  
+  [[Data](/papers/2007/Yeo_PlosCompBiol07_data.tar)]
 
 * [**Discovery and analysis of evolutionarily conserved intronic splicing regulatory elements in mammalian genomes**](/papers/2007/DiscoveryandAnalysis_2007.pdf)  
   **Yeo GW**§, Van Nostrand EL, and Liang YT.   (§ corresponding)   
@@ -463,7 +467,7 @@ Nature Genetics
 * [**Immunoglobulin light chains in zebrafish: genomic configurations and inversional rearrangements between (V(L)-J(L)C(L)) gene clusters**](/papers/2007/sdarticle.pdf)  
   Zimmerman AM, **Yeo GW**, Howe K, Maddox BJ, and Steiner LA.  
   *Developmental and Comparative Immunology*     
- 
+  [[Data](/papers/2007DiscoveryandAnalysis_data_2007.tar)]
 
 * [**The EJC factor eIFAIII modulates synaptic strength and neuronal protein expression**](/papers/2007/CorinnaGiorgi_Cell_2007.pdf)  
   Giorgi. C, **Yeo GW**, Stone, ME, Katz, DB, Burge C, Turrigiano, C, and Moore, MJ.  
